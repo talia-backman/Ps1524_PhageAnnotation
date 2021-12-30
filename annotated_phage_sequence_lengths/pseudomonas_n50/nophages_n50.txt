@@ -1,0 +1,11 @@
+plate22.D2.pilon.contigs_renamed.fasta Total n: 5666 Total seq: 4625178 bp Avg. seq: 816.30 bp Median seq: 614.00 bp N 50: 977 bp Min seq: 128 bp Max seq: 10131 bp
+plate22.D5.pilon.contigs_renamed.fasta Total n: 2948 Total seq: 5688575 bp Avg. seq: 1929.64 bp Median seq: 1065.00 bp N 50: 3290 bp Min seq: 128 bp Max seq: 58924 bp
+plate22.D7.pilon.contigs_renamed.fasta Total n: 2426 Total seq: 5803519 bp Avg. seq: 2392.22 bp Median seq: 1343.00 bp N 50: 4269 bp Min seq: 128 bp Max seq: 47509 bp
+plate22.D8.pilon.contigs_renamed.fasta Total n: 2259 Total seq: 5731447 bp Avg. seq: 2537.16 bp Median seq: 1370.00 bp N 50: 4746 bp Min seq: 128 bp Max seq: 65544 bp
+plate23.D8.pilon.contigs_renamed.fasta Total n: 47 Total seq: 5724580 bp Avg. seq: 121799.57 bp Median seq: 469.00 bp N 50: 355646 bp Min seq: 128 bp Max seq: 939865 bp
+plate26.F6.pilon.contigs_renamed.fasta Total n: 3023 Total seq: 5614056 bp Avg. seq: 1857.11 bp Median seq: 1191.00 bp N 50: 2900 bp Min seq: 128 bp Max seq: 31694 bp
+plate26.F7.pilon.contigs_renamed.fasta Total n: 5505 Total seq: 5169756 bp Avg. seq: 939.10 bp Median seq: 686.00 bp N 50: 1214 bp Min seq: 128 bp Max seq: 12672 bp
+plate2.H2.pilon.contigs_renamed.fasta Total n: 111 Total seq: 4546610 bp Avg. seq: 40960.45 bp Median seq: 400.00 bp N 50: 166913 bp Min seq: 128 bp Max seq: 304261 bp
+plate6.H5.pilon.contigs_renamed.fasta Total n: 194 Total seq: 6086380 bp Avg. seq: 31373.09 bp Median seq: 354.50 bp N 50: 426252 bp Min seq: 128 bp Max seq: 1108106 bp
+plate7.G9.pilon.contigs_renamed.fasta Total n: 901 Total seq: 5622059 bp Avg. seq: 6239.80 bp Median seq: 354.00 bp N 50: 263542 bp Min seq: 128 bp Max seq: 580650 bp
+plate9.H9.pilon.contigs_renamed.fasta Total n: 664 Total seq: 5531575 bp Avg. seq: 8330.69 bp Median seq: 347.00 bp N 50: 332991 bp Min seq: 128 bp Max seq: 774180 bp

@@ -1,0 +1,90 @@
+BLASTN 2.5.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: User specified sequence set (Input: ./region2_BGCs/0027_p4g2.fna).
+           1 sequences; 27,891 total letters
+
+
+
+Query= 66_fragment_1
+
+Length=27399
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  p4g2_27:[0:27891](+)p4g2_27                                         121     3e-28
+
+
+> p4g2_27:[0:27891](+)p4g2_27
+Length=27891
+
+ Score = 121 bits (65),  Expect = 3e-28
+ Identities = 93/106 (88%), Gaps = 3/106 (3%)
+ Strand=Plus/Minus
+
+Query  11431  TGTAGGAGCGAGCTTGCTCGCGAAAAACTCACAGGCGCCGCGTTCAATCAGGAAACAC-G  11489
+              |||||||||||||||||||||||| ||||   | |||||||||| || ||| |  | | |
+Sbjct  22425  TGTAGGAGCGAGCTTGCTCGCGAAGAACTTGAAAGCGCCGCGTTAAAACAG-ATTCGCTG  22367
+
+Query  11490  CGTTATCGTTGACGTTTTTCGCGAGCAAGCTCGCTCCTACAGAGGC  11535
+              |||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  22366  CGTTATCGTTGACGTTTTTCGCGAGCAAGCTCGCTCCTACAG-GGC  22322
+
+
+ Score = 108 bits (58),  Expect = 2e-24
+ Identities = 87/101 (86%), Gaps = 2/101 (2%)
+ Strand=Plus/Plus
+
+Query  11431  TGTAGGAGCGAGCTTGCTCGCGAAAAACTC-ACAGGCGCCGCGTTCAATCAGGAAACACG  11489
+              |||||||||||||||||||||||||||| | | | || ||| ||| || |||| | | | 
+Sbjct  18373  TGTAGGAGCGAGCTTGCTCGCGAAAAACCCGAGA-GCACCGGGTTGAACCAGGCAGCCCA  18431
+
+Query  11490  CGTTATCGTTGACGTTTTTCGCGAGCAAGCTCGCTCCTACA  11530
+              |||||||||||||| |||||||||||||||| |||||||||
+Sbjct  18432  CGTTATCGTTGACGATTTTCGCGAGCAAGCTTGCTCCTACA  18472
+
+
+ Score = 54.7 bits (29),  Expect = 3e-08
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  11503  GTTTTTCGCGAGCAAGCTCGCTCCTACAG  11531
+              |||||||||||||||||||||||||||||
+Sbjct  18400  GTTTTTCGCGAGCAAGCTCGCTCCTACAG  18372
+
+
+ Score = 52.8 bits (28),  Expect = 1e-07
+ Identities = 31/32 (97%), Gaps = 1/32 (3%)
+ Strand=Plus/Plus
+
+Query  11431  TGTAGGAGCGAGCTTGCTCGCGAAAAAC-TCA  11461
+              |||||||||||||||||||||||||||| |||
+Sbjct  22326  TGTAGGAGCGAGCTTGCTCGCGAAAAACGTCA  22357
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 763024860
+
+
+  Database: User specified sequence set (Input: ./region2_BGCs/0027_p4g2.fna).
+    Posted date:  Unknown
+  Number of letters in database: 27,891
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

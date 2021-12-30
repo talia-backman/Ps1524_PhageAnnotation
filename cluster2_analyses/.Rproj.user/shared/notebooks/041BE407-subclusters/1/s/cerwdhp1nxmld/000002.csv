@@ -1,0 +1,2 @@
+"0","# load in the pseudomonas OTU5 phylogeny "
+"0","treex2 <- read.tree(file=""./ps_1524_uncollapsed_5_2018.nwk"")"

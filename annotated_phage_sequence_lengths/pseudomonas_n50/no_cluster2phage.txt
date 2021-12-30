@@ -1,0 +1,1 @@
+plate23.D7.pilon.contigs_renamed.fasta Total n: 2335 Total seq: 5882738 bp Avg. seq: 2519.37 bp Median seq: 1345.00 bp N 50: 4449 bp Min seq: 128 bp Max seq: 50954 bp

@@ -1,0 +1,5 @@
+"0","# k = "
+"0",""
+"0","# Silhouette method"
+"0","fviz_nbclust(tbl, kmeans, method = ""silhouette"",k.max=10)+"
+"0","  labs(subtitle = ""Silhouette method"")"

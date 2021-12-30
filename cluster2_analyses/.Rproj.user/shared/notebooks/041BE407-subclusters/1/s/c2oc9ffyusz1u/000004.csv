@@ -1,0 +1,8 @@
+"0","# analysis of phage data"
+"0","# find largest # of phages in column phages"
+"0","max(df$phages) # 8 is the maximum number of phages"
+"1","[1]"
+"1"," 2"
+"1","
+"
+"0","ggplot(df, aes(x=phages)) + geom_histogram() + ggtitle(""Phage distribution"") "

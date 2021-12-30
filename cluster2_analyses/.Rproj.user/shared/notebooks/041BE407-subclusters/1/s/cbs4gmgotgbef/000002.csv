@@ -1,0 +1,9 @@
+"0","# 3 different methods for finding optimal number of clusters:"
+"0","# Elbow method"
+"0","fviz_nbclust(tbl, kmeans, method = ""wss"",k.max = 10) +"
+"0","  geom_vline(xintercept = 4, linetype = 2)+"
+"0","  labs(subtitle = ""Elbow method"")"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"

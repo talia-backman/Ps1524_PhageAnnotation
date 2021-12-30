@@ -1,0 +1,1524 @@
+plate11.A10.pilon.contigs_renamed.phages_combined.fna, 17689 46227
+plate11.A11.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate11.A12.pilon.contigs_renamed.phages_combined.fna, 40207 15420
+plate11.A1.pilon.contigs_renamed.phages_combined.fna, 15661
+plate11.A2.pilon.contigs_renamed.phages_combined.fna, 17811 53135 47037
+plate11.A3.pilon.contigs_renamed.phages_combined.fna, 15595
+plate11.A4.pilon.contigs_renamed.phages_combined.fna, 33391 41728
+plate11.A5.pilon.contigs_renamed.phages_combined.fna, 15841
+plate11.A6.pilon.contigs_renamed.phages_combined.fna, 79159
+plate11.A7.pilon.contigs_renamed.phages_combined.fna, 15935
+plate11.A8.pilon.contigs_renamed.phages_combined.fna, 53557 37281 15595
+plate11.A9.pilon.contigs_renamed.phages_combined.fna, 53642 15990 25897 28035
+plate11.B10.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate11.B11.pilon.contigs_renamed.phages_combined.fna, 15689
+plate11.B12.pilon.contigs_renamed.phages_combined.fna, 17635 45607
+plate11.B1.pilon.contigs_renamed.phages_combined.fna, 15841
+plate11.B2.pilon.contigs_renamed.phages_combined.fna, 15841
+plate11.B4.pilon.contigs_renamed.phages_combined.fna, 36306 35109
+plate11.B5.pilon.contigs_renamed.phages_combined.fna, 35109 36306
+plate11.B6.pilon.contigs_renamed.phages_combined.fna, 14776 17810 31296 25410
+plate11.B7.pilon.contigs_renamed.phages_combined.fna, 47314 44655 5427
+plate11.B8.pilon.contigs_renamed.phages_combined.fna, 15936 43592
+plate11.B9.pilon.contigs_renamed.phages_combined.fna, 15595
+plate11.C10.pilon.contigs_renamed.phages_combined.fna, 15595
+plate11.C11.pilon.contigs_renamed.phages_combined.fna, 15689
+plate11.C12.pilon.contigs_renamed.phages_combined.fna, 45607 17635
+plate11.C1.pilon.contigs_renamed.phages_combined.fna, 15841
+plate11.C2.pilon.contigs_renamed.phages_combined.fna, 15841
+plate11.C3.pilon.contigs_renamed.phages_combined.fna, 19294
+plate11.C4.pilon.contigs_renamed.phages_combined.fna, 15420 45607
+plate11.C5.pilon.contigs_renamed.phages_combined.fna, 36306 35109
+plate11.C6.pilon.contigs_renamed.phages_combined.fna, 6788 55534
+plate11.C7.pilon.contigs_renamed.phages_combined.fna, 5427 61570 44655
+plate11.C8.pilon.contigs_renamed.phages_combined.fna, 19294
+plate11.C9.pilon.contigs_renamed.phages_combined.fna, 10932 17079
+plate11.D1.pilon.contigs_renamed.phages_combined.fna, 58175 18332
+plate11.D2.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate11.D3.pilon.contigs_renamed.phages_combined.fna, 76245 28828 30419
+plate11.D4.pilon.contigs_renamed.phages_combined.fna, 8027 46223 31651
+plate11.D6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate11.D8.pilon.contigs_renamed.phages_combined.fna, 18084
+plate11.D9.pilon.contigs_renamed.phages_combined.fna, 15689
+plate11.E10.pilon.contigs_renamed.phages_combined.fna, 15595 61168 37281
+plate11.E11.pilon.contigs_renamed.phages_combined.fna, 43509 31622 50080 38437 13517 36870
+plate11.E1.pilon.contigs_renamed.phages_combined.fna, 56773 33790 17810
+plate11.E2.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate11.E3.pilon.contigs_renamed.phages_combined.fna, 16606 14183 9277 2085 3303 58198 8347 4645
+plate11.E4.pilon.contigs_renamed.phages_combined.fna, 43673 1718 8845 16606 7908 9223 16459 12982
+plate11.E6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate11.E7.pilon.contigs_renamed.phages_combined.fna, 15689
+plate11.E8.pilon.contigs_renamed.phages_combined.fna, 15689
+plate11.E9.pilon.contigs_renamed.phages_combined.fna, 37281 53557 17810
+plate11.F10.pilon.contigs_renamed.phages_combined.fna, 15936
+plate11.F11.pilon.contigs_renamed.phages_combined.fna, 16519 35229
+plate11.F1.pilon.contigs_renamed.phages_combined.fna, 15452 65592 43955
+plate11.F2.pilon.contigs_renamed.phages_combined.fna, 16695 39305 41432
+plate11.F3.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate11.F6.pilon.contigs_renamed.phages_combined.fna, 23668 33728 15936
+plate11.F7.pilon.contigs_renamed.phages_combined.fna, 67934 16615
+plate11.F8.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate11.F9.pilon.contigs_renamed.phages_combined.fna, 52874 49271 36347
+plate11.G10.pilon.contigs_renamed.phages_combined.fna, 18332 54100 44155
+plate11.G11.pilon.contigs_renamed.phages_combined.fna, 17636 48409 82745
+plate11.G1.pilon.contigs_renamed.phages_combined.fna, 37434 16723 33063 50442
+plate11.G2.pilon.contigs_renamed.phages_combined.fna, 3578 1718 1570 52396
+plate11.G3.pilon.contigs_renamed.phages_combined.fna, 31998 43046 10194 33693
+plate11.G4.pilon.contigs_renamed.phages_combined.fna, 15669 70977 52660
+plate11.G5.pilon.contigs_renamed.phages_combined.fna, 16723 33063 50442
+plate11.G7.pilon.contigs_renamed.phages_combined.fna, 38958 50141 15662
+plate11.G8.pilon.contigs_renamed.phages_combined.fna, 55755 15567
+plate11.G9.pilon.contigs_renamed.phages_combined.fna, 20753 7613 16725 12608 9485 6800 2956 42354
+plate11.H10.pilon.contigs_renamed.phages_combined.fna, 44155 18332 54100
+plate11.H11.pilon.contigs_renamed.phages_combined.fna, 20615 40199
+plate11.H12.pilon.contigs_renamed.phages_combined.fna, 70977 46333 15669
+plate11.H1.pilon.contigs_renamed.phages_combined.fna, 37430 16723 50442 33063
+plate11.H3.pilon.contigs_renamed.phages_combined.fna, 46741
+plate11.H4.pilon.contigs_renamed.phages_combined.fna, 38958 50141 16725
+plate11.H5.pilon.contigs_renamed.phages_combined.fna, 51809 33063 19191
+plate11.H6.pilon.contigs_renamed.phages_combined.fna, 4337 31880 18350 44551
+plate11.H7.pilon.contigs_renamed.phages_combined.fna, 15662 50141 38958
+plate11.H8.pilon.contigs_renamed.phages_combined.fna, 15567 55755
+plate11.H9.pilon.contigs_renamed.phages_combined.fna, 46731 12608 15662 56610
+plate12.A10.pilon.contigs_renamed.phages_combined.fna, 21505 8021 15944 18139
+plate12.A11.pilon.contigs_renamed.phages_combined.fna, 12605 15935
+plate12.A1.pilon.contigs_renamed.phages_combined.fna, 55749 7425 18333 44044
+plate12.A2.pilon.contigs_renamed.phages_combined.fna, 15936 44044 7425 55749
+plate12.A5.pilon.contigs_renamed.phages_combined.fna, 17811
+plate12.A6.pilon.contigs_renamed.phages_combined.fna, 18057
+plate12.A7.pilon.contigs_renamed.phages_combined.fna, 18065 54432
+plate12.A8.pilon.contigs_renamed.phages_combined.fna, 15850 54432
+plate12.A9.pilon.contigs_renamed.phages_combined.fna, 4574 31465 5697 4390 10276 8254 13869 36870 20972 50079
+plate12.B10.pilon.contigs_renamed.phages_combined.fna, 21505 15944 8009 24579
+plate12.B11.pilon.contigs_renamed.phages_combined.fna, 15935 12605
+plate12.B1.pilon.contigs_renamed.phages_combined.fna, 44044 55749 15936
+plate12.B2.pilon.contigs_renamed.phages_combined.fna, 55749 15936 44044
+plate12.B3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate12.B5.pilon.contigs_renamed.phages_combined.fna, 17811
+plate12.B6.pilon.contigs_renamed.phages_combined.fna, 18057
+plate12.B7.pilon.contigs_renamed.phages_combined.fna, 18065 54432
+plate12.B8.pilon.contigs_renamed.phages_combined.fna, 54432 18065
+plate12.B9.pilon.contigs_renamed.phages_combined.fna, 39305 19033 22618 16695
+plate12.C10.pilon.contigs_renamed.phages_combined.fna, 18057
+plate12.C11.pilon.contigs_renamed.phages_combined.fna, 15974 35536 75953
+plate12.C1.pilon.contigs_renamed.phages_combined.fna, 18332 58175
+plate12.C2.pilon.contigs_renamed.phages_combined.fna, 15689
+plate12.C3.pilon.contigs_renamed.phages_combined.fna, 17079
+plate12.C5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate12.C6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate12.C7.pilon.contigs_renamed.phages_combined.fna, 15595
+plate12.C8.pilon.contigs_renamed.phages_combined.fna, 15689
+plate12.C9.pilon.contigs_renamed.phages_combined.fna, 18084
+plate12.D12.pilon.contigs_renamed.phages_combined.fna, 6270 18331
+plate12.D1.pilon.contigs_renamed.phages_combined.fna, 18084
+plate12.D2.pilon.contigs_renamed.phages_combined.fna, 19294
+plate12.D5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate12.D6.pilon.contigs_renamed.phages_combined.fna, 17811
+plate12.D8.pilon.contigs_renamed.phages_combined.fna, 18057
+plate12.D9.pilon.contigs_renamed.phages_combined.fna, 18057
+plate12.E10.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate12.E11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate12.E1.pilon.contigs_renamed.phages_combined.fna, 53557 37281 26329 17810
+plate12.E2.pilon.contigs_renamed.phages_combined.fna, 42981 17775 56110
+plate12.E3.pilon.contigs_renamed.phages_combined.fna, 15935
+plate12.E4.pilon.contigs_renamed.phages_combined.fna, 17635 45607
+plate12.E5.pilon.contigs_renamed.phages_combined.fna, 51593 15850
+plate12.E6.pilon.contigs_renamed.phages_combined.fna, 18331 41095
+plate12.E7.pilon.contigs_renamed.phages_combined.fna, 18331
+plate12.E8.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate12.E9.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate12.F10.pilon.contigs_renamed.phages_combined.fna, 58115 18332
+plate12.F11.pilon.contigs_renamed.phages_combined.fna, 18332 58175
+plate12.F12.pilon.contigs_renamed.phages_combined.fna, 44673
+plate12.F1.pilon.contigs_renamed.phages_combined.fna, 15408 49995 11071 42987 9329 11901 12076 6797 12586
+plate12.F2.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate12.F3.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate12.F6.pilon.contigs_renamed.phages_combined.fna, 18331 41095
+plate12.F9.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate12.G1.pilon.contigs_renamed.phages_combined.fna, 6270 15935
+plate12.G2.pilon.contigs_renamed.phages_combined.fna, 15595 53557 37281 26407
+plate12.G3.pilon.contigs_renamed.phages_combined.fna, 37281 53557 17810
+plate12.G4.pilon.contigs_renamed.phages_combined.fna, 5808 12573 15841 44086
+plate12.G5.pilon.contigs_renamed.phages_combined.fna, 15841
+plate12.G6.pilon.contigs_renamed.phages_combined.fna, 18057
+plate12.G7.pilon.contigs_renamed.phages_combined.fna, 15421 57389
+plate12.G8.pilon.contigs_renamed.phages_combined.fna, 53557 26329 17810 37281
+plate12.H10.pilon.contigs_renamed.phages_combined.fna, 49679 11083 2893 15340 1140 49995 1504 1074 14066 15408 1504
+plate12.H1.pilon.contigs_renamed.phages_combined.fna, 10261 13797 57679 15595
+plate12.H2.pilon.contigs_renamed.phages_combined.fna, 9755 43618 15421
+plate12.H3.pilon.contigs_renamed.phages_combined.fna, 15595 37281 61168
+plate12.H4.pilon.contigs_renamed.phages_combined.fna, 43592 15936
+plate12.H5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate12.H6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate12.H7.pilon.contigs_renamed.phages_combined.fna, 15231
+plate12.H8.pilon.contigs_renamed.phages_combined.fna, 13822 2838 3425 42987 11083 2838 14066 15340 15408 3426
+plate12.H9.pilon.contigs_renamed.phages_combined.fna, 37342 53391
+plate13.A10.pilon.contigs_renamed.phages_combined.fna, 18331
+plate13.A11.pilon.contigs_renamed.phages_combined.fna, 18331
+plate13.A1.pilon.contigs_renamed.phages_combined.fna, 15936 44044 7425 55749
+plate13.A2.pilon.contigs_renamed.phages_combined.fna, 44044 55749 15936
+plate13.A3.pilon.contigs_renamed.phages_combined.fna, 18057
+plate13.A4.pilon.contigs_renamed.phages_combined.fna, 17811
+plate13.A8.pilon.contigs_renamed.phages_combined.fna, 18065 54432
+plate13.B10.pilon.contigs_renamed.phages_combined.fna, 18331
+plate13.B1.pilon.contigs_renamed.phages_combined.fna, 55749 18333 44044
+plate13.B2.pilon.contigs_renamed.phages_combined.fna, 44044 49427 15936
+plate13.B3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate13.B4.pilon.contigs_renamed.phages_combined.fna, 17888
+plate13.B5.pilon.contigs_renamed.phages_combined.fna, 17888
+plate13.B6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate13.B7.pilon.contigs_renamed.phages_combined.fna, 18065 54432
+plate13.B8.pilon.contigs_renamed.phages_combined.fna, 18065 54432
+plate13.B9.pilon.contigs_renamed.phages_combined.fna, 18331
+plate13.C10.pilon.contigs_renamed.phages_combined.fna, 40531 46003 27613
+plate13.C11.pilon.contigs_renamed.phages_combined.fna, 15421 45618
+plate13.C12.pilon.contigs_renamed.phages_combined.fna, 18058 54795
+plate13.C1.pilon.contigs_renamed.phages_combined.fna, 15689
+plate13.C2.pilon.contigs_renamed.phages_combined.fna, 15689
+plate13.C3.pilon.contigs_renamed.phages_combined.fna, 19294
+plate13.C5.pilon.contigs_renamed.phages_combined.fna, 17811
+plate13.C6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate13.C7.pilon.contigs_renamed.phages_combined.fna, 17811
+plate13.C8.pilon.contigs_renamed.phages_combined.fna, 15841
+plate13.C9.pilon.contigs_renamed.phages_combined.fna, 18057
+plate13.D10.pilon.contigs_renamed.phages_combined.fna, 17390 38244 43447
+plate13.D11.pilon.contigs_renamed.phages_combined.fna, 27613 46003 40531
+plate13.D12.pilon.contigs_renamed.phages_combined.fna, 18331 6270
+plate13.D1.pilon.contigs_renamed.phages_combined.fna, 15689
+plate13.D2.pilon.contigs_renamed.phages_combined.fna, 15689
+plate13.D3.pilon.contigs_renamed.phages_combined.fna, 19294
+plate13.D5.pilon.contigs_renamed.phages_combined.fna, 46596 20793 9770 37635
+plate13.D6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate13.D7.pilon.contigs_renamed.phages_combined.fna, 15595
+plate13.D8.pilon.contigs_renamed.phages_combined.fna, 15595
+plate13.D9.pilon.contigs_renamed.phages_combined.fna, 15841
+plate13.E10.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate13.E11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate13.E12.pilon.contigs_renamed.phages_combined.fna, 15841
+plate13.E1.pilon.contigs_renamed.phages_combined.fna, 29410 42679
+plate13.E2.pilon.contigs_renamed.phages_combined.fna, 42981 56110 17775
+plate13.E3.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate13.E4.pilon.contigs_renamed.phages_combined.fna, 17635 45607
+plate13.E6.pilon.contigs_renamed.phages_combined.fna, 15935
+plate13.E7.pilon.contigs_renamed.phages_combined.fna, 41095 15935
+plate13.E8.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate13.E9.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate13.F10.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate13.F11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate13.F12.pilon.contigs_renamed.phages_combined.fna, 17635 45607
+plate13.F1.pilon.contigs_renamed.phages_combined.fna, 30974 41610
+plate13.F2.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate13.F3.pilon.contigs_renamed.phages_combined.fna, 56450 16693
+plate13.F4.pilon.contigs_renamed.phages_combined.fna, 15420 45607
+plate13.F5.pilon.contigs_renamed.phages_combined.fna, 42606
+plate13.F6.pilon.contigs_renamed.phages_combined.fna, 15595 13797 10261 55793
+plate13.F7.pilon.contigs_renamed.phages_combined.fna, 18331
+plate13.F8.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate13.F9.pilon.contigs_renamed.phages_combined.fna, 40622 52653 15814 7198 25275
+plate13.G10.pilon.contigs_renamed.phages_combined.fna, 40043
+plate13.G1.pilon.contigs_renamed.phages_combined.fna, 15215
+plate13.G2.pilon.contigs_renamed.phages_combined.fna, 37281 15595 61168 26329
+plate13.G3.pilon.contigs_renamed.phages_combined.fna, 5859 14459 18058 44086
+plate13.G4.pilon.contigs_renamed.phages_combined.fna, 12573 15841 44086 5806
+plate13.G5.pilon.contigs_renamed.phages_combined.fna, 18057
+plate13.G6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate13.G7.pilon.contigs_renamed.phages_combined.fna, 17707 3278 13117 14436 9983 17810 21027 27058
+plate13.G8.pilon.contigs_renamed.phages_combined.fna, 61168 15595 37281
+plate13.H10.pilon.contigs_renamed.phages_combined.fna, 15689
+plate13.H11.pilon.contigs_renamed.phages_combined.fna, 15661
+plate13.H12.pilon.contigs_renamed.phages_combined.fna, 47037 53135 17811
+plate13.H2.pilon.contigs_renamed.phages_combined.fna, 15841 6292 44086 22013 5859 14459
+plate13.H3.pilon.contigs_renamed.phages_combined.fna, 15936 43592
+plate13.H4.pilon.contigs_renamed.phages_combined.fna, 15841
+plate13.H5.pilon.contigs_renamed.phages_combined.fna, 18057
+plate13.H6.pilon.contigs_renamed.phages_combined.fna, 15935 9592 12326
+plate13.H7.pilon.contigs_renamed.phages_combined.fna, 2317 3191 11301 15595 53557 37281
+plate13.H9.pilon.contigs_renamed.phages_combined.fna, 40043
+plate1.A10.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate1.A11.pilon.contigs_renamed.phages_combined.fna, 18331 6270
+plate1.A12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate1.A2.pilon.contigs_renamed.phages_combined.fna, 55749 7425 15936 44044
+plate1.A3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate1.A4.pilon.contigs_renamed.phages_combined.fna, 18057
+plate1.A5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate1.A7.pilon.contigs_renamed.phages_combined.fna, 15841
+plate1.A8.pilon.contigs_renamed.phages_combined.fna, 18065 54432
+plate1.A9.pilon.contigs_renamed.phages_combined.fna, 15850 54432
+plate1.B10.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate1.B11.pilon.contigs_renamed.phages_combined.fna, 15935 6270
+plate1.B12.pilon.contigs_renamed.phages_combined.fna, 15935 6270
+plate1.B1.pilon.contigs_renamed.phages_combined.fna, 15936 55749 44044
+plate1.B2.pilon.contigs_renamed.phages_combined.fna, 15936 55749 44044 7425
+plate1.B3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate1.B4.pilon.contigs_renamed.phages_combined.fna, 18057
+plate1.B5.pilon.contigs_renamed.phages_combined.fna, 17811
+plate1.B6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate1.B7.pilon.contigs_renamed.phages_combined.fna, 18057
+plate1.B8.pilon.contigs_renamed.phages_combined.fna, 18065 54432
+plate1.B9.pilon.contigs_renamed.phages_combined.fna, 54432 18065
+plate1.C10.pilon.contigs_renamed.phages_combined.fna, 18057
+plate1.C11.pilon.contigs_renamed.phages_combined.fna, 15841
+plate1.C12.pilon.contigs_renamed.phages_combined.fna, 37281 53557 26329 17810
+plate1.C1.pilon.contigs_renamed.phages_combined.fna, 54795 18058
+plate1.C2.pilon.contigs_renamed.phages_combined.fna, 15689
+plate1.C3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate1.C4.pilon.contigs_renamed.phages_combined.fna, 17079
+plate1.C5.pilon.contigs_renamed.phages_combined.fna, 53380 20378
+plate1.C6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate1.C7.pilon.contigs_renamed.phages_combined.fna, 15595
+plate1.C8.pilon.contigs_renamed.phages_combined.fna, 54733 19293
+plate1.C9.pilon.contigs_renamed.phages_combined.fna, 15595
+plate1.D10.pilon.contigs_renamed.phages_combined.fna, 18057
+plate1.D11.pilon.contigs_renamed.phages_combined.fna, 15841
+plate1.D12.pilon.contigs_renamed.phages_combined.fna, 53557 26329 15595 37281
+plate1.D1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate1.D2.pilon.contigs_renamed.phages_combined.fna, 18084
+plate1.D3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate1.D4.pilon.contigs_renamed.phages_combined.fna, 19294
+plate1.D5.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate1.D6.pilon.contigs_renamed.phages_combined.fna, 15661
+plate1.D7.pilon.contigs_renamed.phages_combined.fna, 15595
+plate1.D8.pilon.contigs_renamed.phages_combined.fna, 44044 15936 55749 7425
+plate1.D9.pilon.contigs_renamed.phages_combined.fna, 15595
+plate1.E1.pilon.contigs_renamed.phages_combined.fna, 49802 53677 25897 18205
+plate1.E3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate1.E4.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate1.E5.pilon.contigs_renamed.phages_combined.fna, 45607 17635
+plate1.E6.pilon.contigs_renamed.phages_combined.fna, 42606
+plate1.E7.pilon.contigs_renamed.phages_combined.fna, 15421 45618
+plate1.E8.pilon.contigs_renamed.phages_combined.fna, 41095 15935
+plate1.F10.pilon.contigs_renamed.phages_combined.fna, 17811
+plate1.F12.pilon.contigs_renamed.phages_combined.fna, 54795 18058
+plate1.F1.pilon.contigs_renamed.phages_combined.fna, 27613 42949 39725
+plate1.F2.pilon.contigs_renamed.phages_combined.fna, 27613 42949 39725
+plate1.F3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate1.F4.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate1.F5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate1.F7.pilon.contigs_renamed.phages_combined.fna, 18331
+plate1.F8.pilon.contigs_renamed.phages_combined.fna, 18331
+plate1.F9.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate1.G11.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate1.G12.pilon.contigs_renamed.phages_combined.fna, 38810 75953 14031
+plate1.G1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate1.G2.pilon.contigs_renamed.phages_combined.fna, 43618 9755 15421
+plate1.G3.pilon.contigs_renamed.phages_combined.fna, 26329 37281 17810 53557
+plate1.G4.pilon.contigs_renamed.phages_combined.fna, 15936 43592
+plate1.G5.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate1.G6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate1.G7.pilon.contigs_renamed.phages_combined.fna, 18057
+plate1.G8.pilon.contigs_renamed.phages_combined.fna, 15595 53557 37281 26329
+plate1.G9.pilon.contigs_renamed.phages_combined.fna, 17810 37281 53557 26329
+plate1.H11.pilon.contigs_renamed.phages_combined.fna, 15841
+plate1.H12.pilon.contigs_renamed.phages_combined.fna, 15841
+plate1.H1.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate1.H2.pilon.contigs_renamed.phages_combined.fna, 3238 53557 2311 5121 37281 1545 15595 2018
+plate1.H3.pilon.contigs_renamed.phages_combined.fna, 15421 43618 9755
+plate1.H4.pilon.contigs_renamed.phages_combined.fna, 5859 18058 44086 14459
+plate1.H5.pilon.contigs_renamed.phages_combined.fna, 18057
+plate1.H6.pilon.contigs_renamed.phages_combined.fna, 18057
+plate1.H7.pilon.contigs_renamed.phages_combined.fna, 61168 37281 15595
+plate1.H8.pilon.contigs_renamed.phages_combined.fna, 41760 50357
+plate1.H9.pilon.contigs_renamed.phages_combined.fna, 15661
+plate20.A10.pilon.contigs_renamed.phages_combined.fna, 48930
+plate20.A11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate20.A12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate20.A1.pilon.contigs_renamed.phages_combined.fna, 18057
+plate20.A2.pilon.contigs_renamed.phages_combined.fna, 39305 16695 38956
+plate20.A3.pilon.contigs_renamed.phages_combined.fna, 18332 58175
+plate20.A4.pilon.contigs_renamed.phages_combined.fna, 17810 37281 53557
+plate20.A5.pilon.contigs_renamed.phages_combined.fna, 18341 18139 21505
+plate20.A7.pilon.contigs_renamed.phages_combined.fna, 40622 52653 25275 7198 15814
+plate20.A8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate20.B10.pilon.contigs_renamed.phages_combined.fna, 48930
+plate20.B11.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate20.B12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate20.B1.pilon.contigs_renamed.phages_combined.fna, 15841
+plate20.B2.pilon.contigs_renamed.phages_combined.fna, 38956 15632 48438
+plate20.B3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate20.B4.pilon.contigs_renamed.phages_combined.fna, 53557 17810 37281
+plate20.B5.pilon.contigs_renamed.phages_combined.fna, 18306 15944 21505
+plate20.B7.pilon.contigs_renamed.phages_combined.fna, 22607 52653 40622 15814
+plate20.B8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate20.C10.pilon.contigs_renamed.phages_combined.fna, 18332 58175
+plate20.C11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate20.C12.pilon.contigs_renamed.phages_combined.fna, 18331
+plate20.C1.pilon.contigs_renamed.phages_combined.fna, 3933 2992 11805 2147 3879 10578 1396 1693 5366 4008 2624 15841 1582 1696 3689
+plate20.C2.pilon.contigs_renamed.phages_combined.fna, 41432 16695 39305
+plate20.C3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate20.C4.pilon.contigs_renamed.phages_combined.fna, 37281 17810 61168 26329 4988
+plate20.C5.pilon.contigs_renamed.phages_combined.fna, 37923 29660 15944 18130
+plate20.C7.pilon.contigs_renamed.phages_combined.fna, 40622 15814 52653 22610
+plate20.C9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate20.D10.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate20.D11.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate20.D12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate20.D1.pilon.contigs_renamed.phages_combined.fna, 18057
+plate20.D2.pilon.contigs_renamed.phages_combined.fna, 16695 39305 41432
+plate20.D3.pilon.contigs_renamed.phages_combined.fna, 58175 18332
+plate20.D4.pilon.contigs_renamed.phages_combined.fna, 37281 17810 61168
+plate20.D5.pilon.contigs_renamed.phages_combined.fna, 18117 15944 29660
+plate20.D7.pilon.contigs_renamed.phages_combined.fna, 52653 15814 40622 22607
+plate20.D8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate20.E10.pilon.contigs_renamed.phages_combined.fna, 15935
+plate20.E11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate20.E12.pilon.contigs_renamed.phages_combined.fna, 18331
+plate20.E1.pilon.contigs_renamed.phages_combined.fna, 18057
+plate20.E2.pilon.contigs_renamed.phages_combined.fna, 39305 16695 38956
+plate20.E3.pilon.contigs_renamed.phages_combined.fna, 18332 58175
+plate20.E4.pilon.contigs_renamed.phages_combined.fna, 17810 37281 61168
+plate20.E5.pilon.contigs_renamed.phages_combined.fna, 15944 18306 21505
+plate20.E7.pilon.contigs_renamed.phages_combined.fna, 17811
+plate20.E8.pilon.contigs_renamed.phages_combined.fna, 15420
+plate20.E9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate20.F10.pilon.contigs_renamed.phages_combined.fna, 15935
+plate20.F11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate20.F12.pilon.contigs_renamed.phages_combined.fna, 18331
+plate20.F1.pilon.contigs_renamed.phages_combined.fna, 15841
+plate20.F2.pilon.contigs_renamed.phages_combined.fna, 16695 39305 38956
+plate20.F3.pilon.contigs_renamed.phages_combined.fna, 58175 18332
+plate20.F4.pilon.contigs_renamed.phages_combined.fna, 15595 53557 37281
+plate20.F5.pilon.contigs_renamed.phages_combined.fna, 15944 18139 29660
+plate20.F8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate20.F9.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate20.G10.pilon.contigs_renamed.phages_combined.fna, 15935
+plate20.G11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate20.G12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate20.G1.pilon.contigs_renamed.phages_combined.fna, 15841
+plate20.G2.pilon.contigs_renamed.phages_combined.fna, 39305 41432 15632
+plate20.G3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate20.G4.pilon.contigs_renamed.phages_combined.fna, 37281 53557 15595
+plate20.G5.pilon.contigs_renamed.phages_combined.fna, 37924 15944 24579 21505
+plate20.G7.pilon.contigs_renamed.phages_combined.fna, 15814 25275 7198 40622 42016
+plate20.G8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate20.G9.pilon.contigs_renamed.phages_combined.fna, 18331
+plate20.H10.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate20.H11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate20.H12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate20.H1.pilon.contigs_renamed.phages_combined.fna, 15841
+plate20.H2.pilon.contigs_renamed.phages_combined.fna, 39305 16695 38956
+plate20.H3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate20.H4.pilon.contigs_renamed.phages_combined.fna, 37281 26329 53557 17810
+plate20.H5.pilon.contigs_renamed.phages_combined.fna, 21505 15944 18306
+plate20.H7.pilon.contigs_renamed.phages_combined.fna, 15814 40622 25275 43198
+plate20.H8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate20.H9.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate21.A10.pilon.contigs_renamed.phages_combined.fna, 15841 54795
+plate21.A11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate21.A12.pilon.contigs_renamed.phages_combined.fna, 29590 12142 15215
+plate21.A1.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate21.A2.pilon.contigs_renamed.phages_combined.fna, 61683 17820 37929
+plate21.A3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate21.A4.pilon.contigs_renamed.phages_combined.fna, 26329 37281 53557 15595
+plate21.A5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.A7.pilon.contigs_renamed.phages_combined.fna, 15935 41095
+plate21.A8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.A9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.B10.pilon.contigs_renamed.phages_combined.fna, 121372 431272 15841 48103
+plate21.B11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate21.B12.pilon.contigs_renamed.phages_combined.fna, 29590 15215
+plate21.B1.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate21.B2.pilon.contigs_renamed.phages_combined.fna, 15841
+plate21.B3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate21.B4.pilon.contigs_renamed.phages_combined.fna, 61168 37281 15595
+plate21.B5.pilon.contigs_renamed.phages_combined.fna, 15595 37281 5196 53557
+plate21.B7.pilon.contigs_renamed.phages_combined.fna, 18331 41095
+plate21.B8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.B9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.C10.pilon.contigs_renamed.phages_combined.fna, 15841 54795
+plate21.C11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate21.C12.pilon.contigs_renamed.phages_combined.fna, 29590 15215
+plate21.C1.pilon.contigs_renamed.phages_combined.fna, 15595
+plate21.C2.pilon.contigs_renamed.phages_combined.fna, 15841
+plate21.C3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate21.C4.pilon.contigs_renamed.phages_combined.fna, 15595 37281 53557
+plate21.C5.pilon.contigs_renamed.phages_combined.fna, 53557 15595 37281
+plate21.C7.pilon.contigs_renamed.phages_combined.fna, 18331 41095
+plate21.C8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.C9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.D10.pilon.contigs_renamed.phages_combined.fna, 15841 54795
+plate21.D11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate21.D1.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate21.D2.pilon.contigs_renamed.phages_combined.fna, 15604 61683 37924
+plate21.D3.pilon.contigs_renamed.phages_combined.fna, 18084
+plate21.D4.pilon.contigs_renamed.phages_combined.fna, 37281 53557 17810
+plate21.D5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.D7.pilon.contigs_renamed.phages_combined.fna, 15935 41095
+plate21.D8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.D9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.E10.pilon.contigs_renamed.phages_combined.fna, 18058 54795
+plate21.E11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate21.E12.pilon.contigs_renamed.phages_combined.fna, 12142 29590 15215
+plate21.E1.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate21.E2.pilon.contigs_renamed.phages_combined.fna, 15604 61683 37949
+plate21.E3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate21.E4.pilon.contigs_renamed.phages_combined.fna, 53557 26329 37281 15595
+plate21.E5.pilon.contigs_renamed.phages_combined.fna, 17810 61168 37281
+plate21.E7.pilon.contigs_renamed.phages_combined.fna, 18331 12605
+plate21.E8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.E9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.F10.pilon.contigs_renamed.phages_combined.fna, 54795 15841
+plate21.F11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate21.F12.pilon.contigs_renamed.phages_combined.fna, 29590 15215
+plate21.F1.pilon.contigs_renamed.phages_combined.fna, 15595
+plate21.F2.pilon.contigs_renamed.phages_combined.fna, 17820 61683 37935
+plate21.F3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate21.F4.pilon.contigs_renamed.phages_combined.fna, 37281 53557 15595
+plate21.F5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.F7.pilon.contigs_renamed.phages_combined.fna, 41095 18331
+plate21.F8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.F9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.G10.pilon.contigs_renamed.phages_combined.fna, 54795 18058
+plate21.G11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate21.G12.pilon.contigs_renamed.phages_combined.fna, 15215 29590
+plate21.G1.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate21.G2.pilon.contigs_renamed.phages_combined.fna, 18057
+plate21.G3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate21.G4.pilon.contigs_renamed.phages_combined.fna, 37281 61168 17810
+plate21.G5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.G7.pilon.contigs_renamed.phages_combined.fna, 18331 41095
+plate21.G8.pilon.contigs_renamed.phages_combined.fna, 18331
+plate21.G9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.H10.pilon.contigs_renamed.phages_combined.fna, 54795 15841
+plate21.H11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate21.H12.pilon.contigs_renamed.phages_combined.fna, 15215 29590
+plate21.H1.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate21.H2.pilon.contigs_renamed.phages_combined.fna, 61683 37935 17820
+plate21.H3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate21.H4.pilon.contigs_renamed.phages_combined.fna, 17810 53557 37281
+plate21.H5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.H7.pilon.contigs_renamed.phages_combined.fna, 41095 15935
+plate21.H8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate21.H9.pilon.contigs_renamed.phages_combined.fna, 18331
+plate22.A1.pilon.contigs_renamed.phages_combined.fna, 15936 58175 41095
+plate22.A2.pilon.contigs_renamed.phages_combined.fna, 17079 38847 11217 11285 48665
+plate22.A3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate22.A4.pilon.contigs_renamed.phages_combined.fna, 17820 61678 38607
+plate22.A5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.A7.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.A8.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.B1.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate22.B2.pilon.contigs_renamed.phages_combined.fna, 38847 48665 11285 11217 19294
+plate22.B3.pilon.contigs_renamed.phages_combined.fna, 58175 15936 41095
+plate22.B4.pilon.contigs_renamed.phages_combined.fna, 17820 61678 38607
+plate22.B5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.B7.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.B8.pilon.contigs_renamed.phages_combined.fna, 42129 7448 21586 17636
+plate22.C1.pilon.contigs_renamed.phages_combined.fna, 17371 39703
+plate22.C2.pilon.contigs_renamed.phages_combined.fna, 38847 11285 19294 11217 48665
+plate22.C3.pilon.contigs_renamed.phages_combined.fna, 15935
+plate22.C4.pilon.contigs_renamed.phages_combined.fna, 19294
+plate22.C5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.C7.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.C8.pilon.contigs_renamed.phages_combined.fna, 7448 17636 42129 21586
+plate22.D1.pilon.contigs_renamed.phages_combined.fna, 18892 16627 6130 25757
+plate22.D2.pilon.contigs_renamed.phages_combined.fna, 2191 2252 2316 1548 1925 1879 9677 1821 1646 8104 1207
+plate22.D3.pilon.contigs_renamed.phages_combined.fna, 1945 18257 18331
+plate22.D4.pilon.contigs_renamed.phages_combined.fna, 4538 2935 17079
+plate22.D5.pilon.contigs_renamed.phages_combined.fna, 6636 2245 3413
+plate22.D7.pilon.contigs_renamed.phages_combined.fna, 4658 2090 5198
+plate22.D8.pilon.contigs_renamed.phages_combined.fna, 12265 3414 3073 3992 4150 3774 7175
+plate22.E1.pilon.contigs_renamed.phages_combined.fna, 58175 15936 41095
+plate22.E2.pilon.contigs_renamed.phages_combined.fna, 38847 19294 48665 11285 11217
+plate22.E3.pilon.contigs_renamed.phages_combined.fna, 38607 17820 61678
+plate22.E4.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.E5.pilon.contigs_renamed.phages_combined.fna, 18084
+plate22.E7.pilon.contigs_renamed.phages_combined.fna, 49599 9605 21586 15421
+plate22.F1.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate22.F2.pilon.contigs_renamed.phages_combined.fna, 48665 19294 11217 11285 38847
+plate22.F3.pilon.contigs_renamed.phages_combined.fna, 38607 61678 17820
+plate22.F4.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.F5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.F7.pilon.contigs_renamed.phages_combined.fna, 21586 15421 9605 49599
+plate22.G1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate22.G2.pilon.contigs_renamed.phages_combined.fna, 48665 11217 17079 11285 38847
+plate22.G3.pilon.contigs_renamed.phages_combined.fna, 17079
+plate22.G4.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.G5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.G7.pilon.contigs_renamed.phages_combined.fna, 49599 21586 9605 15421
+plate22.H1.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate22.H2.pilon.contigs_renamed.phages_combined.fna, 38847 19294 48665 11285 11217
+plate22.H3.pilon.contigs_renamed.phages_combined.fna, 38607 61678 17820
+plate22.H4.pilon.contigs_renamed.phages_combined.fna, 15689
+plate22.H5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate23.A1.pilon.contigs_renamed.phages_combined.fna, 48439 17810
+plate23.A2.pilon.contigs_renamed.phages_combined.fna, 16514
+plate23.A3.pilon.contigs_renamed.phages_combined.fna, 15908 52955 58765
+plate23.A4.pilon.contigs_renamed.phages_combined.fna, 3808 15214 39072 4110 46795
+plate23.A5.pilon.contigs_renamed.phages_combined.fna, 38849 41925
+plate23.A6.pilon.contigs_renamed.phages_combined.fna, 40933 15841 63803
+plate23.A7.pilon.contigs_renamed.phages_combined.fna, 40933 63803 18058
+plate23.A8.pilon.contigs_renamed.phages_combined.fna, 38547 54087 17624
+plate23.A9.pilon.contigs_renamed.phages_combined.fna, 15945 53700 14288
+plate23.B1.pilon.contigs_renamed.phages_combined.fna, 17810 48439
+plate23.B2.pilon.contigs_renamed.phages_combined.fna, 51930 15659
+plate23.B3.pilon.contigs_renamed.phages_combined.fna, 15409 52363
+plate23.B4.pilon.contigs_renamed.phages_combined.fna, 67488 20357 8883
+plate23.B5.pilon.contigs_renamed.phages_combined.fna, 15841 40933 63803
+plate23.B6.pilon.contigs_renamed.phages_combined.fna, 63803 40933 18058
+plate23.B7.pilon.contigs_renamed.phages_combined.fna, 38547 17624 54087
+plate23.B8.pilon.contigs_renamed.phages_combined.fna, 18058 63803 40933
+plate23.B9.pilon.contigs_renamed.phages_combined.fna, 46809 17079
+plate23.C1.pilon.contigs_renamed.phages_combined.fna, 11708 17810 48439
+plate23.C2.pilon.contigs_renamed.phages_combined.fna, 53844 14288 15945
+plate23.C3.pilon.contigs_renamed.phages_combined.fna, 15337 15406 53461
+plate23.C4.pilon.contigs_renamed.phages_combined.fna, 63803 15841 40933
+plate23.C5.pilon.contigs_renamed.phages_combined.fna, 15841 63803 40933
+plate23.C6.pilon.contigs_renamed.phages_combined.fna, 35389 46547 74160
+plate23.C7.pilon.contigs_renamed.phages_combined.fna, 54087 38547 15409
+plate23.C8.pilon.contigs_renamed.phages_combined.fna, 15421 35770 53907
+plate23.C9.pilon.contigs_renamed.phages_combined.fna, 63803 40933 15841
+plate23.D1.pilon.contigs_renamed.phages_combined.fna, 48439 17810 11708
+plate23.D2.pilon.contigs_renamed.phages_combined.fna, 35770 53907 15421
+plate23.D3.pilon.contigs_renamed.phages_combined.fna, 15337 53461 15406
+plate23.D4.pilon.contigs_renamed.phages_combined.fna, 15841 40933 63803
+plate23.D5.pilon.contigs_renamed.phages_combined.fna, 63803 18058 40933
+plate23.D6.pilon.contigs_renamed.phages_combined.fna, 54087 38547 17624
+plate23.D7.pilon.contigs_renamed.phages_combined.fna, 50954 9477 3400 3475 2490 4604
+plate23.D8.pilon.contigs_renamed.phages_combined.fna,
+plate23.D9.pilon.contigs_renamed.phages_combined.fna, 17079 46702
+plate23.E1.pilon.contigs_renamed.phages_combined.fna, 49388 19293
+plate23.E2.pilon.contigs_renamed.phages_combined.fna, 17624 54087 38547
+plate23.E5.pilon.contigs_renamed.phages_combined.fna, 19718 8732 61434 56968
+plate23.E6.pilon.contigs_renamed.phages_combined.fna, 46809 17079
+plate23.E7.pilon.contigs_renamed.phages_combined.fna, 54087 38547 17624
+plate23.E9.pilon.contigs_renamed.phages_combined.fna, 40933 15841 63803
+plate23.F1.pilon.contigs_renamed.phages_combined.fna, 17079 53635
+plate23.F2.pilon.contigs_renamed.phages_combined.fna, 17624 54087 38547
+plate23.F4.pilon.contigs_renamed.phages_combined.fna, 63136 8732 19718 61434
+plate23.F5.pilon.contigs_renamed.phages_combined.fna, 49388 17079
+plate23.F6.pilon.contigs_renamed.phages_combined.fna, 54087 15409 38547
+plate23.F9.pilon.contigs_renamed.phages_combined.fna, 16514
+plate23.G1.pilon.contigs_renamed.phages_combined.fna, 49388 19293
+plate23.G2.pilon.contigs_renamed.phages_combined.fna, 54087 38547 15409
+plate23.G3.pilon.contigs_renamed.phages_combined.fna, 37387 54245
+plate23.G5.pilon.contigs_renamed.phages_combined.fna, 46702 19293
+plate23.G6.pilon.contigs_renamed.phages_combined.fna, 38547 54087 17624
+plate23.G7.pilon.contigs_renamed.phages_combined.fna, 37387 54245
+plate23.G9.pilon.contigs_renamed.phages_combined.fna, 40933 18058 63803
+plate23.H1.pilon.contigs_renamed.phages_combined.fna, 19293 46809
+plate23.H2.pilon.contigs_renamed.phages_combined.fna, 38547 17624 54087
+plate23.H3.pilon.contigs_renamed.phages_combined.fna, 37387 54245
+plate23.H5.pilon.contigs_renamed.phages_combined.fna, 46702 17079
+plate23.H6.pilon.contigs_renamed.phages_combined.fna, 15409 54087 38547
+plate23.H7.pilon.contigs_renamed.phages_combined.fna, 37387 54245
+plate23.H9.pilon.contigs_renamed.phages_combined.fna, 46809 17079
+plate24.A10.pilon.contigs_renamed.phages_combined.fna, 39741 8130
+plate24.A11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.A12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate24.A1.pilon.contigs_renamed.phages_combined.fna, 15689
+plate24.A3.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.A4.pilon.contigs_renamed.phages_combined.fna, 61168 17810 37281
+plate24.A5.pilon.contigs_renamed.phages_combined.fna, 21505 37960 18139 15944
+plate24.A7.pilon.contigs_renamed.phages_combined.fna, 22630 40622 18030 7198 52653
+plate24.A8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate24.A9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate24.B10.pilon.contigs_renamed.phages_combined.fna, 37147 15936
+plate24.B11.pilon.contigs_renamed.phages_combined.fna, 58175 18332
+plate24.B12.pilon.contigs_renamed.phages_combined.fna, 18331
+plate24.B1.pilon.contigs_renamed.phages_combined.fna, 18057
+plate24.B3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate24.B4.pilon.contigs_renamed.phages_combined.fna, 17810 53557 37281
+plate24.B5.pilon.contigs_renamed.phages_combined.fna, 17636 49599 21586 9605
+plate24.B7.pilon.contigs_renamed.phages_combined.fna, 7198 43198 25275 40622 15814
+plate24.B8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate24.B9.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate24.C10.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.C11.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate24.C12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate24.C1.pilon.contigs_renamed.phages_combined.fna, 15841
+plate24.C2.pilon.contigs_renamed.phages_combined.fna, 15632 39305 38956
+plate24.C3.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.C4.pilon.contigs_renamed.phages_combined.fna, 15595 37281 26329 53557
+plate24.C5.pilon.contigs_renamed.phages_combined.fna, 29660 11297 6337 18127
+plate24.C7.pilon.contigs_renamed.phages_combined.fna, 15814 42016 40622 25353
+plate24.C8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate24.C9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate24.D10.pilon.contigs_renamed.phages_combined.fna, 48930
+plate24.D11.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate24.D12.pilon.contigs_renamed.phages_combined.fna, 18331
+plate24.D1.pilon.contigs_renamed.phages_combined.fna, 18057
+plate24.D2.pilon.contigs_renamed.phages_combined.fna, 15935
+plate24.D3.pilon.contigs_renamed.phages_combined.fna, 15936 41095 58175
+plate24.D4.pilon.contigs_renamed.phages_combined.fna, 26407 15595 37281 53557
+plate24.D5.pilon.contigs_renamed.phages_combined.fna, 24579 15944 16323
+plate24.D7.pilon.contigs_renamed.phages_combined.fna, 15814 42016 25275 40622
+plate24.D8.pilon.contigs_renamed.phages_combined.fna, 15420
+plate24.D9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate24.E10.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.E11.pilon.contigs_renamed.phages_combined.fna, 32445 3898 18332 15720 5708
+plate24.E12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate24.E1.pilon.contigs_renamed.phages_combined.fna, 15841
+plate24.E2.pilon.contigs_renamed.phages_combined.fna, 15935
+plate24.E3.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.E4.pilon.contigs_renamed.phages_combined.fna, 15595 61168 37281 26329
+plate24.E5.pilon.contigs_renamed.phages_combined.fna, 5807 29373 18306 19336
+plate24.E7.pilon.contigs_renamed.phages_combined.fna, 17811
+plate24.E8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate24.E9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate24.F10.pilon.contigs_renamed.phages_combined.fna, 46808
+plate24.F11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.F12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate24.F1.pilon.contigs_renamed.phages_combined.fna, 18057
+plate24.F2.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.F3.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.F4.pilon.contigs_renamed.phages_combined.fna, 17810 37281 61168 26407
+plate24.F5.pilon.contigs_renamed.phages_combined.fna, 18116 26056 15944
+plate24.F7.pilon.contigs_renamed.phages_combined.fna, 15814 7217 3849 31093 2964 2401 5533
+plate24.F8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate24.F9.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate24.G10.pilon.contigs_renamed.phages_combined.fna, 48930
+plate24.G11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.G12.pilon.contigs_renamed.phages_combined.fna, 18331
+plate24.G1.pilon.contigs_renamed.phages_combined.fna, 18057
+plate24.G2.pilon.contigs_renamed.phages_combined.fna, 39305 16695 38956
+plate24.G3.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.G4.pilon.contigs_renamed.phages_combined.fna, 15595 37281 61168
+plate24.G5.pilon.contigs_renamed.phages_combined.fna, 29660 18117 18341
+plate24.G7.pilon.contigs_renamed.phages_combined.fna, 15814 40622 22512 52653
+plate24.G8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate24.G9.pilon.contigs_renamed.phages_combined.fna, 18331
+plate24.H10.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.H11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate24.H1.pilon.contigs_renamed.phages_combined.fna, 18057
+plate24.H2.pilon.contigs_renamed.phages_combined.fna, 38956 39305 16695
+plate24.H3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate24.H4.pilon.contigs_renamed.phages_combined.fna, 37281 17810 53557 26329
+plate24.H5.pilon.contigs_renamed.phages_combined.fna, 21505 15944 8021 24579
+plate24.H6.pilon.contigs_renamed.phages_combined.fna, 12863 40622 52653 2388 6596 18030
+plate24.H7.pilon.contigs_renamed.phages_combined.fna, 18030 40622 52653 22600 7198
+plate24.H8.pilon.contigs_renamed.phages_combined.fna, 17635
+plate24.H9.pilon.contigs_renamed.phages_combined.fna, 15935 12605
+plate25.A10.pilon.contigs_renamed.phages_combined.fna, 15841 54795
+plate25.A11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate25.A12.pilon.contigs_renamed.phages_combined.fna, 7636 8030
+plate25.A1.pilon.contigs_renamed.phages_combined.fna, 15595
+plate25.A2.pilon.contigs_renamed.phages_combined.fna, 37933 61683 17820
+plate25.A3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate25.A4.pilon.contigs_renamed.phages_combined.fna, 37281 17810 61168
+plate25.A5.pilon.contigs_renamed.phages_combined.fna, 61168 15595 37281
+plate25.A7.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.A8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.A9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.B10.pilon.contigs_renamed.phages_combined.fna, 15841 44618
+plate25.B11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate25.B12.pilon.contigs_renamed.phages_combined.fna, 15215
+plate25.B1.pilon.contigs_renamed.phages_combined.fna, 8446 5256 9915 9590 4692
+plate25.B2.pilon.contigs_renamed.phages_combined.fna, 9405 9010
+plate25.B3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate25.B4.pilon.contigs_renamed.phages_combined.fna, 37686 15885 15595 37281
+plate25.B5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.B7.pilon.contigs_renamed.phages_combined.fna, 12605 15935
+plate25.B8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.B9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.C10.pilon.contigs_renamed.phages_combined.fna, 54795 15841
+plate25.C11.pilon.contigs_renamed.phages_combined.fna, 9218 2428 9951
+plate25.C12.pilon.contigs_renamed.phages_combined.fna, 29590 16278
+plate25.C1.pilon.contigs_renamed.phages_combined.fna, 15595
+plate25.C2.pilon.contigs_renamed.phages_combined.fna, 18057
+plate25.C3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate25.C4.pilon.contigs_renamed.phages_combined.fna, 17810 53557 37281 26407 5196
+plate25.C5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.C7.pilon.contigs_renamed.phages_combined.fna, 15935 12605
+plate25.C8.pilon.contigs_renamed.phages_combined.fna, 53557 15595 37281
+plate25.C9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.D10.pilon.contigs_renamed.phages_combined.fna, 48103 15841
+plate25.D11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate25.D12.pilon.contigs_renamed.phages_combined.fna, 15215 29590
+plate25.D1.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate25.D2.pilon.contigs_renamed.phages_combined.fna, 8155 11623
+plate25.D3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate25.D4.pilon.contigs_renamed.phages_combined.fna, 53556 26407 37281 17810
+plate25.D5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.D7.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.D8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.D9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.E10.pilon.contigs_renamed.phages_combined.fna, 15841 34677 20132
+plate25.E11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate25.E12.pilon.contigs_renamed.phages_combined.fna, 15215 29590
+plate25.E1.pilon.contigs_renamed.phages_combined.fna, 10932 19294 8992
+plate25.E2.pilon.contigs_renamed.phages_combined.fna, 15689
+plate25.E3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate25.E4.pilon.contigs_renamed.phages_combined.fna, 15595 61168 37281
+plate25.E5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.E7.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.E8.pilon.contigs_renamed.phages_combined.fna, 15935 41095
+plate25.E9.pilon.contigs_renamed.phages_combined.fna, 15935 41095
+plate25.F10.pilon.contigs_renamed.phages_combined.fna, 18058 54795
+plate25.F11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate25.F12.pilon.contigs_renamed.phages_combined.fna, 16278 29590
+plate25.F1.pilon.contigs_renamed.phages_combined.fna, 17811
+plate25.F2.pilon.contigs_renamed.phages_combined.fna, 18057
+plate25.F3.pilon.contigs_renamed.phages_combined.fna, 18084
+plate25.F4.pilon.contigs_renamed.phages_combined.fna, 53557 37281 26407 17810 5212
+plate25.F5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.F7.pilon.contigs_renamed.phages_combined.fna, 15935 6270
+plate25.F8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.F9.pilon.contigs_renamed.phages_combined.fna, 18331
+plate25.G10.pilon.contigs_renamed.phages_combined.fna, 54795 18058
+plate25.G11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate25.G12.pilon.contigs_renamed.phages_combined.fna, 15215
+plate25.G1.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate25.G2.pilon.contigs_renamed.phages_combined.fna, 37928 17820 61683
+plate25.G3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate25.G4.pilon.contigs_renamed.phages_combined.fna, 15595 37281 53557
+plate25.G5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.G7.pilon.contigs_renamed.phages_combined.fna, 15595 37281 61168 5512
+plate25.G8.pilon.contigs_renamed.phages_combined.fna, 41095 15935
+plate25.G9.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.H10.pilon.contigs_renamed.phages_combined.fna, 15841 54795
+plate25.H11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate25.H12.pilon.contigs_renamed.phages_combined.fna, 15215 12142 29590
+plate25.H1.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate25.H2.pilon.contigs_renamed.phages_combined.fna, 17820 61683 37953
+plate25.H3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate25.H4.pilon.contigs_renamed.phages_combined.fna, 5187 17810 61168 37281
+plate25.H5.pilon.contigs_renamed.phages_combined.fna, 15595 53557 37281
+plate25.H7.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.H8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate25.H9.pilon.contigs_renamed.phages_combined.fna, 18331
+plate26.A10.pilon.contigs_renamed.phages_combined.fna, 17636 53907
+plate26.A1.pilon.contigs_renamed.phages_combined.fna, 15936 41095 37147
+plate26.A2.pilon.contigs_renamed.phages_combined.fna, 48665 11285 19294 11217 38847
+plate26.A4.pilon.contigs_renamed.phages_combined.fna, 15935
+plate26.A5.pilon.contigs_renamed.phages_combined.fna, 61678 17820 38607
+plate26.A7.pilon.contigs_renamed.phages_combined.fna, 15689
+plate26.A8.pilon.contigs_renamed.phages_combined.fna, 18084
+plate26.A9.pilon.contigs_renamed.phages_combined.fna, 21586 17636 14172 49599
+plate26.B10.pilon.contigs_renamed.phages_combined.fna, 56908 15568
+plate26.B1.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate26.B2.pilon.contigs_renamed.phages_combined.fna, 48665 38847 11285 11217 19294
+plate26.B3.pilon.contigs_renamed.phages_combined.fna, 23960 7278 2107 5255 16695 29583
+plate26.B4.pilon.contigs_renamed.phages_combined.fna, 17079
+plate26.B5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate26.B6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate26.B7.pilon.contigs_renamed.phages_combined.fna, 41684 15594
+plate26.B8.pilon.contigs_renamed.phages_combined.fna, 56816 16475
+plate26.C10.pilon.contigs_renamed.phages_combined.fna, 2635 15214 45794 4632 39951
+plate26.C1.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate26.C2.pilon.contigs_renamed.phages_combined.fna, 11217 48665 17079 11285 38847
+plate26.C3.pilon.contigs_renamed.phages_combined.fna, 17079
+plate26.C4.pilon.contigs_renamed.phages_combined.fna, 15689
+plate26.C5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate26.C7.pilon.contigs_renamed.phages_combined.fna, 17079
+plate26.C9.pilon.contigs_renamed.phages_combined.fna, 15556 21152 15945
+plate26.D1.pilon.contigs_renamed.phages_combined.fna, 58175 41095 15936
+plate26.D2.pilon.contigs_renamed.phages_combined.fna, 6223 14082 29663 19348 3534 20435 6002 11217 8799
+plate26.D3.pilon.contigs_renamed.phages_combined.fna, 11892 40627 38607 17820
+plate26.D4.pilon.contigs_renamed.phages_combined.fna, 18084
+plate26.D5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate26.D6.pilon.contigs_renamed.phages_combined.fna, 5603 13642
+plate26.D7.pilon.contigs_renamed.phages_combined.fna, 17509 23393 15841 63803
+plate26.D8.pilon.contigs_renamed.phages_combined.fna, 15841 17713 63803
+plate26.D9.pilon.contigs_renamed.phages_combined.fna, 5917 27174 10658 11502 3874 28786 4754 3529
+plate26.E10.pilon.contigs_renamed.phages_combined.fna, 63803 40933 18058
+plate26.E1.pilon.contigs_renamed.phages_combined.fna, 15936 41095 58175
+plate26.E2.pilon.contigs_renamed.phages_combined.fna, 48665 11285 38847 11217 19294
+plate26.E3.pilon.contigs_renamed.phages_combined.fna, 17820 38607 61678
+plate26.E4.pilon.contigs_renamed.phages_combined.fna, 15689
+plate26.E5.pilon.contigs_renamed.phages_combined.fna, 18084
+plate26.E6.pilon.contigs_renamed.phages_combined.fna, 48439 15595 11708
+plate26.E7.pilon.contigs_renamed.phages_combined.fna, 15841 40933 63803
+plate26.E8.pilon.contigs_renamed.phages_combined.fna, 15841 40933 63803
+plate26.E9.pilon.contigs_renamed.phages_combined.fna, 22857 63803 15841 17836
+plate26.F10.pilon.contigs_renamed.phages_combined.fna, 63803 15841 40933
+plate26.F1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate26.F2.pilon.contigs_renamed.phages_combined.fna, 38847 11217 19294 48665 11285
+plate26.F3.pilon.contigs_renamed.phages_combined.fna, 61678 38607 15604
+plate26.F4.pilon.contigs_renamed.phages_combined.fna, 18084
+plate26.F5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate26.F6.pilon.contigs_renamed.phages_combined.fna, 3806 2468 6812 2811
+plate26.F7.pilon.contigs_renamed.phages_combined.fna, 2589 1996 1664 2126 1975
+plate26.F8.pilon.contigs_renamed.phages_combined.fna, 38547 15409 54087
+plate26.F9.pilon.contigs_renamed.phages_combined.fna, 18984 3827 13893 5080 9275 2510 3045 1684 4362 13910 8747 11492 9171
+plate26.G10.pilon.contigs_renamed.phages_combined.fna, 38547 54087 17624
+plate26.G1.pilon.contigs_renamed.phages_combined.fna, 15936 41095 58175
+plate26.G2.pilon.contigs_renamed.phages_combined.fna, 11285 38847 17079 11217 48665
+plate26.G3.pilon.contigs_renamed.phages_combined.fna, 38607 61678 17820
+plate26.G4.pilon.contigs_renamed.phages_combined.fna, 15689
+plate26.G5.pilon.contigs_renamed.phages_combined.fna, 18084
+plate26.G6.pilon.contigs_renamed.phages_combined.fna, 19294
+plate26.G7.pilon.contigs_renamed.phages_combined.fna, 54087 17624 38547
+plate26.G8.pilon.contigs_renamed.phages_combined.fna, 41748 11708 17810
+plate26.G9.pilon.contigs_renamed.phages_combined.fna, 38547 17624 54087
+plate26.H1.pilon.contigs_renamed.phages_combined.fna, 15936 58175 41095
+plate26.H2.pilon.contigs_renamed.phages_combined.fna, 48664 11285 11217 17079 38769
+plate26.H3.pilon.contigs_renamed.phages_combined.fna, 2973 17049 38607 9462 18534 18380
+plate26.H4.pilon.contigs_renamed.phages_combined.fna, 15689
+plate26.H5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate26.H6.pilon.contigs_renamed.phages_combined.fna, 19294
+plate26.H7.pilon.contigs_renamed.phages_combined.fna, 42735 11708 17810
+plate26.H8.pilon.contigs_renamed.phages_combined.fna, 18057
+plate26.H9.pilon.contigs_renamed.phages_combined.fna, 48439 17810
+plate27.A1.pilon.contigs_renamed.phages_combined.fna, 19293 39825
+plate27.A2.pilon.contigs_renamed.phages_combined.fna, 17079 53635
+plate27.A3.pilon.contigs_renamed.phages_combined.fna, 17079 46702
+plate27.A6.pilon.contigs_renamed.phages_combined.fna, 40933 63803 15841
+plate27.A7.pilon.contigs_renamed.phages_combined.fna, 18058 40933 63803
+plate27.B1.pilon.contigs_renamed.phages_combined.fna, 54087 15409 38547
+plate27.B2.pilon.contigs_renamed.phages_combined.fna, 54087 15409 38547
+plate27.B3.pilon.contigs_renamed.phages_combined.fna, 38547 17624 54087
+plate27.B4.pilon.contigs_renamed.phages_combined.fna, 46809 17079
+plate27.B6.pilon.contigs_renamed.phages_combined.fna, 46702 17079
+plate27.B7.pilon.contigs_renamed.phages_combined.fna, 17079 46702
+plate27.C5.pilon.contigs_renamed.phages_combined.fna, 37822 24490 39608 44542
+plate27.C6.pilon.contigs_renamed.phages_combined.fna, 15595 11708 48439
+plate27.D5.pilon.contigs_renamed.phages_combined.fna, 14288 15374 36276 15945 2158
+plate27.D6.pilon.contigs_renamed.phages_combined.fna, 18057
+plate27.E1.pilon.contigs_renamed.phages_combined.fna, 17079 39825
+plate27.E2.pilon.contigs_renamed.phages_combined.fna, 57565 17079
+plate27.E5.pilon.contigs_renamed.phages_combined.fna, 68023 23342 11979 15841 4746
+plate27.E6.pilon.contigs_renamed.phages_combined.fna, 63803 18058 40933
+plate27.F2.pilon.contigs_renamed.phages_combined.fna, 13175 20080 40512 17624 4755
+plate27.F3.pilon.contigs_renamed.phages_combined.fna, 17079 46702
+plate27.F4.pilon.contigs_renamed.phages_combined.fna, 36024 17079 6773 14879
+plate27.F5.pilon.contigs_renamed.phages_combined.fna, 46702 17079
+plate27.F6.pilon.contigs_renamed.phages_combined.fna, 19293 46809
+plate27.G3.pilon.contigs_renamed.phages_combined.fna, 17624 41709 13175 24889
+plate27.G5.pilon.contigs_renamed.phages_combined.fna, 11708 48439 15595
+plate27.G6.pilon.contigs_renamed.phages_combined.fna, 11708 15595 48439
+plate27.H4.pilon.contigs_renamed.phages_combined.fna, 38547 15409 54087
+plate27.H5.pilon.contigs_renamed.phages_combined.fna, 20953 15421 53983 16440
+plate2.A10.pilon.contigs_renamed.phages_combined.fna, 26329 17810 53557 37281
+plate2.A11.pilon.contigs_renamed.phages_combined.fna, 17635 45607
+plate2.A1.pilon.contigs_renamed.phages_combined.fna, 15661
+plate2.A2.pilon.contigs_renamed.phages_combined.fna, 15661
+plate2.A5.pilon.contigs_renamed.phages_combined.fna, 15841
+plate2.A6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate2.A7.pilon.contigs_renamed.phages_combined.fna, 6270 15935
+plate2.A8.pilon.contigs_renamed.phages_combined.fna, 12605 15935
+plate2.A9.pilon.contigs_renamed.phages_combined.fna, 54795 15841
+plate2.B10.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate2.B1.pilon.contigs_renamed.phages_combined.fna, 46227 17635
+plate2.B2.pilon.contigs_renamed.phages_combined.fna, 15841
+plate2.B3.pilon.contigs_renamed.phages_combined.fna, 18057
+plate2.B4.pilon.contigs_renamed.phages_combined.fna, 19294
+plate2.B5.pilon.contigs_renamed.phages_combined.fna, 36306 35109
+plate2.B6.pilon.contigs_renamed.phages_combined.fna, 39919 44300
+plate2.B7.pilon.contigs_renamed.phages_combined.fna, 17810 55793 14776
+plate2.B8.pilon.contigs_renamed.phages_combined.fna, 19294
+plate2.B9.pilon.contigs_renamed.phages_combined.fna, 19294
+plate2.C10.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate2.C11.pilon.contigs_renamed.phages_combined.fna, 44755 21117 19737
+plate2.C1.pilon.contigs_renamed.phages_combined.fna, 15420 46227
+plate2.C2.pilon.contigs_renamed.phages_combined.fna, 18057
+plate2.C3.pilon.contigs_renamed.phages_combined.fna, 18057
+plate2.C4.pilon.contigs_renamed.phages_combined.fna, 37792 58518
+plate2.C5.pilon.contigs_renamed.phages_combined.fna, 7425 41013 55749 15936 58432
+plate2.C6.pilon.contigs_renamed.phages_combined.fna, 42363 5427 61570
+plate2.C7.pilon.contigs_renamed.phages_combined.fna, 13797 10261 57679 15595
+plate2.C8.pilon.contigs_renamed.phages_combined.fna, 17079
+plate2.C9.pilon.contigs_renamed.phages_combined.fna, 34302 31208 27686
+plate2.D10.pilon.contigs_renamed.phages_combined.fna, 40685 88190
+plate2.D1.pilon.contigs_renamed.phages_combined.fna, 15148 47458
+plate2.D2.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate2.D3.pilon.contigs_renamed.phages_combined.fna, 29590 15215
+plate2.D4.pilon.contigs_renamed.phages_combined.fna, 9313 9683 16606 9244 1568 59233 3385 2588 3188 6456 8004 1560
+plate2.D5.pilon.contigs_renamed.phages_combined.fna, 15936 43592
+plate2.D6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate2.D7.pilon.contigs_renamed.phages_combined.fna, 15689
+plate2.D8.pilon.contigs_renamed.phages_combined.fna, 15689
+plate2.D9.pilon.contigs_renamed.phages_combined.fna, 53557 15595 37281 26328
+plate2.E10.pilon.contigs_renamed.phages_combined.fna, 15854 9792 69571
+plate2.E1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate2.E2.pilon.contigs_renamed.phages_combined.fna, 56684 18332
+plate2.E3.pilon.contigs_renamed.phages_combined.fna, 15935
+plate2.E4.pilon.contigs_renamed.phages_combined.fna, 6797
+plate2.E6.pilon.contigs_renamed.phages_combined.fna, 18084
+plate2.E7.pilon.contigs_renamed.phages_combined.fna, 15689
+plate2.E8.pilon.contigs_renamed.phages_combined.fna, 18084
+plate2.E9.pilon.contigs_renamed.phages_combined.fna, 15689
+plate2.F10.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate2.F11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate2.F12.pilon.contigs_renamed.phages_combined.fna, 15936
+plate2.F1.pilon.contigs_renamed.phages_combined.fna, 43955 65592 15452
+plate2.F2.pilon.contigs_renamed.phages_combined.fna, 16695 38956 39305
+plate2.F3.pilon.contigs_renamed.phages_combined.fna, 38956 39305 15632
+plate2.F4.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate2.F5.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate2.F8.pilon.contigs_renamed.phages_combined.fna, 37281 17810 53557
+plate2.F9.pilon.contigs_renamed.phages_combined.fna, 15936
+plate2.G10.pilon.contigs_renamed.phages_combined.fna, 17208
+plate2.G1.pilon.contigs_renamed.phages_combined.fna, 43059
+plate2.G2.pilon.contigs_renamed.phages_combined.fna, 12767 78642
+plate2.G3.pilon.contigs_renamed.phages_combined.fna, 52660 68437 15669
+plate2.G4.pilon.contigs_renamed.phages_combined.fna, 49959 16496
+plate2.G5.pilon.contigs_renamed.phages_combined.fna, 9571 9825 12565 21673 12911 40276
+plate2.G6.pilon.contigs_renamed.phages_combined.fna, 35107 16723 50442
+plate2.G7.pilon.contigs_renamed.phages_combined.fna, 15662 38958 50141
+plate2.G8.pilon.contigs_renamed.phages_combined.fna, 38958 50141 16725
+plate2.G9.pilon.contigs_renamed.phages_combined.fna, 35829 16785
+plate2.H10.pilon.contigs_renamed.phages_combined.fna, 17208
+plate2.H1.pilon.contigs_renamed.phages_combined.fna, 37416 16723 50442 34746
+plate2.H2.pilon.contigs_renamed.phages_combined.fna,
+plate2.H4.pilon.contigs_renamed.phages_combined.fna, 15669 52660 70977
+plate2.H5.pilon.contigs_renamed.phages_combined.fna, 51322 16496
+plate2.H6.pilon.contigs_renamed.phages_combined.fna, 12851 16723 50442
+plate2.H7.pilon.contigs_renamed.phages_combined.fna, 38958 16725 50141
+plate2.H8.pilon.contigs_renamed.phages_combined.fna, 16725 38958 50141
+plate2.H9.pilon.contigs_renamed.phages_combined.fna, 16785 35829
+plate3.A10.pilon.contigs_renamed.phages_combined.fna, 58174 18332
+plate3.A11.pilon.contigs_renamed.phages_combined.fna, 12605 15935
+plate3.A12.pilon.contigs_renamed.phages_combined.fna, 18331 18257
+plate3.A1.pilon.contigs_renamed.phages_combined.fna, 15936 55749 7425 44044
+plate3.A2.pilon.contigs_renamed.phages_combined.fna, 15936 44044 7425 55749
+plate3.A3.pilon.contigs_renamed.phages_combined.fna, 18057
+plate3.A4.pilon.contigs_renamed.phages_combined.fna, 18057
+plate3.A5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate3.A6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate3.A7.pilon.contigs_renamed.phages_combined.fna, 18057
+plate3.A8.pilon.contigs_renamed.phages_combined.fna, 54432 18065
+plate3.A9.pilon.contigs_renamed.phages_combined.fna, 16674
+plate3.B10.pilon.contigs_renamed.phages_combined.fna, 18331 12605
+plate3.B11.pilon.contigs_renamed.phages_combined.fna, 6270 15935
+plate3.B12.pilon.contigs_renamed.phages_combined.fna, 15661
+plate3.B1.pilon.contigs_renamed.phages_combined.fna, 44044 55749 15936
+plate3.B2.pilon.contigs_renamed.phages_combined.fna, 44044 7425 15936 55749
+plate3.B4.pilon.contigs_renamed.phages_combined.fna, 15841
+plate3.B5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate3.B6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate3.B7.pilon.contigs_renamed.phages_combined.fna, 15841
+plate3.B8.pilon.contigs_renamed.phages_combined.fna, 18065 54432
+plate3.B9.pilon.contigs_renamed.phages_combined.fna, 16674
+plate3.C10.pilon.contigs_renamed.phages_combined.fna, 18057
+plate3.C11.pilon.contigs_renamed.phages_combined.fna, 15841
+plate3.C12.pilon.contigs_renamed.phages_combined.fna, 15661
+plate3.C1.pilon.contigs_renamed.phages_combined.fna, 49995 15408 49679 9276 14066 15340
+plate3.C2.pilon.contigs_renamed.phages_combined.fna, 18084
+plate3.C3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate3.C4.pilon.contigs_renamed.phages_combined.fna, 19294
+plate3.C5.pilon.contigs_renamed.phages_combined.fna, 51355
+plate3.C6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate3.C8.pilon.contigs_renamed.phages_combined.fna, 37002 18056 54681 38110
+plate3.C9.pilon.contigs_renamed.phages_combined.fna, 18084
+plate3.D10.pilon.contigs_renamed.phages_combined.fna, 18057
+plate3.D11.pilon.contigs_renamed.phages_combined.fna, 15841
+plate3.D1.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate3.D2.pilon.contigs_renamed.phages_combined.fna, 15689
+plate3.D4.pilon.contigs_renamed.phages_combined.fna, 19294
+plate3.D5.pilon.contigs_renamed.phages_combined.fna, 53380 10989 20378
+plate3.D6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate3.D8.pilon.contigs_renamed.phages_combined.fna, 18056 38110 54681 37002
+plate3.D9.pilon.contigs_renamed.phages_combined.fna, 18084
+plate3.E10.pilon.contigs_renamed.phages_combined.fna, 17079 4046 10932
+plate3.E11.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate3.E1.pilon.contigs_renamed.phages_combined.fna, 27613 39725 40531
+plate3.E2.pilon.contigs_renamed.phages_combined.fna, 37281 53557 17810
+plate3.E4.pilon.contigs_renamed.phages_combined.fna, 55749 15936 44044
+plate3.E5.pilon.contigs_renamed.phages_combined.fna, 45607 17635
+plate3.E6.pilon.contigs_renamed.phages_combined.fna, 51593 18065
+plate3.E7.pilon.contigs_renamed.phages_combined.fna, 15935 41095
+plate3.E8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate3.E9.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate3.F10.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate3.F11.pilon.contigs_renamed.phages_combined.fna, 15841
+plate3.F12.pilon.contigs_renamed.phages_combined.fna, 15841
+plate3.F1.pilon.contigs_renamed.phages_combined.fna, 49802 25897 53677 18205
+plate3.F2.pilon.contigs_renamed.phages_combined.fna, 53677 18205 49802 25897
+plate3.F5.pilon.contigs_renamed.phages_combined.fna, 45607 15420
+plate3.F6.pilon.contigs_renamed.phages_combined.fna, 18065 68253
+plate3.F7.pilon.contigs_renamed.phages_combined.fna, 15935
+plate3.F8.pilon.contigs_renamed.phages_combined.fna, 17079 10932
+plate3.G11.pilon.contigs_renamed.phages_combined.fna, 12126 80045 5491 39200 10211
+plate3.G12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate3.G1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate3.G2.pilon.contigs_renamed.phages_combined.fna, 37281 53557 17810
+plate3.G3.pilon.contigs_renamed.phages_combined.fna, 43618 9755 15421
+plate3.G4.pilon.contigs_renamed.phages_combined.fna, 7104 5953 6526 12059 9072 4700 5801 15841 5932 7626
+plate3.G5.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate3.G6.pilon.contigs_renamed.phages_combined.fna, 18057
+plate3.G7.pilon.contigs_renamed.phages_combined.fna, 15841
+plate3.G8.pilon.contigs_renamed.phages_combined.fna, 1504 14066 15340 15408 1504 49679 10156 2019 49995 2018
+plate3.G9.pilon.contigs_renamed.phages_combined.fna, 25897 53677 49802 18205
+plate3.H1.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate3.H2.pilon.contigs_renamed.phages_combined.fna, 9755 15421 43618
+plate3.H5.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate3.H6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate3.H7.pilon.contigs_renamed.phages_combined.fna, 15841
+plate3.H8.pilon.contigs_renamed.phages_combined.fna, 37281 26329 15595 53557
+plate3.H9.pilon.contigs_renamed.phages_combined.fna, 13860 14066 42987 11074 2299 3241 1179 15408
+plate4.A10.pilon.contigs_renamed.phages_combined.fna, 37281 26329 17810 53557
+plate4.A11.pilon.contigs_renamed.phages_combined.fna, 46227 15420
+plate4.A1.pilon.contigs_renamed.phages_combined.fna, 15661
+plate4.A2.pilon.contigs_renamed.phages_combined.fna, 16724
+plate4.A5.pilon.contigs_renamed.phages_combined.fna, 15841
+plate4.A6.pilon.contigs_renamed.phages_combined.fna, 18111
+plate4.A7.pilon.contigs_renamed.phages_combined.fna, 11208 39200 80045 12126
+plate4.A8.pilon.contigs_renamed.phages_combined.fna, 35536 14031 20074 75953
+plate4.A9.pilon.contigs_renamed.phages_combined.fna, 17810 37281 26329 61168
+plate4.B10.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate4.B11.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate4.B1.pilon.contigs_renamed.phages_combined.fna, 43832 17635
+plate4.B2.pilon.contigs_renamed.phages_combined.fna, 15841
+plate4.B3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate4.B4.pilon.contigs_renamed.phages_combined.fna, 12830
+plate4.B5.pilon.contigs_renamed.phages_combined.fna, 12620 23479 35109
+plate4.B7.pilon.contigs_renamed.phages_combined.fna, 17810 4298 10261 14320 2713 14277 14452 3220 3010 5884
+plate4.B8.pilon.contigs_renamed.phages_combined.fna, 19294
+plate4.B9.pilon.contigs_renamed.phages_combined.fna, 19294
+plate4.C10.pilon.contigs_renamed.phages_combined.fna, 54733 19293
+plate4.C11.pilon.contigs_renamed.phages_combined.fna, 15595
+plate4.C1.pilon.contigs_renamed.phages_combined.fna, 58564 15936
+plate4.C2.pilon.contigs_renamed.phages_combined.fna, 18057
+plate4.C3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate4.C5.pilon.contigs_renamed.phages_combined.fna, 22971 36299 15595
+plate4.C6.pilon.contigs_renamed.phages_combined.fna, 5427 42363 62639
+plate4.C7.pilon.contigs_renamed.phages_combined.fna, 17810 14776 57679
+plate4.C8.pilon.contigs_renamed.phages_combined.fna, 15936 43592
+plate4.C9.pilon.contigs_renamed.phages_combined.fna, 43592 15936
+plate4.D10.pilon.contigs_renamed.phages_combined.fna, 37281 17810 53557 26328
+plate4.D11.pilon.contigs_renamed.phages_combined.fna, 33656 61867 13934 50769
+plate4.D1.pilon.contigs_renamed.phages_combined.fna, 6270 15935
+plate4.D2.pilon.contigs_renamed.phages_combined.fna, 15297
+plate4.D3.pilon.contigs_renamed.phages_combined.fna, 41095 15935
+plate4.D4.pilon.contigs_renamed.phages_combined.fna, 76245 30419 28828
+plate4.D6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate4.D8.pilon.contigs_renamed.phages_combined.fna, 15689
+plate4.D9.pilon.contigs_renamed.phages_combined.fna, 15689
+plate4.E1.pilon.contigs_renamed.phages_combined.fna, 17810 33790 56773
+plate4.E3.pilon.contigs_renamed.phages_combined.fna, 4869 7024 13738 8347 59233 2570 13747 16606 1028
+plate4.E4.pilon.contigs_renamed.phages_combined.fna, 15936 43592
+plate4.E5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate4.E6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate4.E8.pilon.contigs_renamed.phages_combined.fna, 15689
+plate4.E9.pilon.contigs_renamed.phages_combined.fna, 53557 37281 26407 17810
+plate4.F10.pilon.contigs_renamed.phages_combined.fna, 15936
+plate4.F11.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate4.F12.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate4.F1.pilon.contigs_renamed.phages_combined.fna, 38956 15632 39305
+plate4.F2.pilon.contigs_renamed.phages_combined.fna, 39305 16695 38956
+plate4.F3.pilon.contigs_renamed.phages_combined.fna, 39305 38956 16695
+plate4.F4.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate4.F5.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate4.F8.pilon.contigs_renamed.phages_combined.fna, 18628 13554 47075
+plate4.F9.pilon.contigs_renamed.phages_combined.fna, 15936
+plate4.G11.pilon.contigs_renamed.phages_combined.fna, 17208
+plate4.G1.pilon.contigs_renamed.phages_combined.fna, 16723 37418 33063 50442
+plate4.G2.pilon.contigs_renamed.phages_combined.fna, 27399
+plate4.G3.pilon.contigs_renamed.phages_combined.fna, 37876 34449 15236
+plate4.G4.pilon.contigs_renamed.phages_combined.fna, 38958 50141 16725
+plate4.G6.pilon.contigs_renamed.phages_combined.fna, 49187
+plate4.G8.pilon.contigs_renamed.phages_combined.fna, 35291 18332
+plate4.G9.pilon.contigs_renamed.phages_combined.fna, 38958 16725 50141
+plate4.H10.pilon.contigs_renamed.phages_combined.fna, 35829 16785
+plate4.H11.pilon.contigs_renamed.phages_combined.fna, 17208
+plate4.H1.pilon.contigs_renamed.phages_combined.fna, 50442 16723 33063 37424
+plate4.H2.pilon.contigs_renamed.phages_combined.fna, 26445 47431 16609 34981 2238 26125 48636
+plate4.H3.pilon.contigs_renamed.phages_combined.fna, 7822 5440
+plate4.H4.pilon.contigs_renamed.phages_combined.fna, 18064 68437 52660
+plate4.H5.pilon.contigs_renamed.phages_combined.fna, 19193 36702 14211
+plate4.H6.pilon.contigs_renamed.phages_combined.fna, 49187
+plate4.H8.pilon.contigs_renamed.phages_combined.fna, 15662 50141 38958
+plate4.H9.pilon.contigs_renamed.phages_combined.fna, 18030
+plate5.A10.pilon.contigs_renamed.phages_combined.fna, 21505 15944 18122
+plate5.A11.pilon.contigs_renamed.phages_combined.fna, 18331
+plate5.A12.pilon.contigs_renamed.phages_combined.fna, 15935
+plate5.A1.pilon.contigs_renamed.phages_combined.fna, 15936 29498 44044
+plate5.A2.pilon.contigs_renamed.phages_combined.fna, 7425 55749 15936 44044
+plate5.A3.pilon.contigs_renamed.phages_combined.fna, 18057
+plate5.A4.pilon.contigs_renamed.phages_combined.fna, 18057
+plate5.A5.pilon.contigs_renamed.phages_combined.fna, 17888
+plate5.A6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.A7.pilon.contigs_renamed.phages_combined.fna, 18057
+plate5.A8.pilon.contigs_renamed.phages_combined.fna, 18065 54432
+plate5.A9.pilon.contigs_renamed.phages_combined.fna, 16674
+plate5.B10.pilon.contigs_renamed.phages_combined.fna, 18139 21505 8021 15944
+plate5.B11.pilon.contigs_renamed.phages_combined.fna, 12605 18331
+plate5.B1.pilon.contigs_renamed.phages_combined.fna, 15936 7425 55749 44044
+plate5.B2.pilon.contigs_renamed.phages_combined.fna, 44044 15936 55749 7425
+plate5.B3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.B4.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.B5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate5.B6.pilon.contigs_renamed.phages_combined.fna, 18057
+plate5.B7.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.B8.pilon.contigs_renamed.phages_combined.fna, 54432 18065
+plate5.B9.pilon.contigs_renamed.phages_combined.fna, 16674
+plate5.C10.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.C1.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate5.C2.pilon.contigs_renamed.phages_combined.fna, 10156 49679 2200 14066 49995 1504 15408 1504 15340 3425
+plate5.C3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate5.C4.pilon.contigs_renamed.phages_combined.fna, 20378 51355
+plate5.C5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate5.C6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate5.C7.pilon.contigs_renamed.phages_combined.fna, 15595
+plate5.C8.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.C9.pilon.contigs_renamed.phages_combined.fna, 18057
+plate5.D10.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.D12.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.D1.pilon.contigs_renamed.phages_combined.fna, 54795 18058
+plate5.D2.pilon.contigs_renamed.phages_combined.fna, 18084
+plate5.D3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate5.D4.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate5.D5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate5.D6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate5.D7.pilon.contigs_renamed.phages_combined.fna, 38094 15595
+plate5.D8.pilon.contigs_renamed.phages_combined.fna, 18057
+plate5.D9.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.E10.pilon.contigs_renamed.phages_combined.fna, 15595
+plate5.E11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate5.E12.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.E1.pilon.contigs_renamed.phages_combined.fna, 11751 10090 1165 49679 9153 15408 49995 12586
+plate5.E2.pilon.contigs_renamed.phages_combined.fna, 53557 26329 37281 17810
+plate5.E3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate5.E4.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate5.E6.pilon.contigs_renamed.phages_combined.fna, 40622 7198 15814 52653 22600
+plate5.E7.pilon.contigs_renamed.phages_combined.fna, 41095 15935
+plate5.E8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate5.E9.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate5.F10.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate5.F11.pilon.contigs_renamed.phages_combined.fna, 15595
+plate5.F1.pilon.contigs_renamed.phages_combined.fna, 15595 26329 53557 37281
+plate5.F2.pilon.contigs_renamed.phages_combined.fna, 39459 28717 43269 68306
+plate5.F3.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate5.F4.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate5.F5.pilon.contigs_renamed.phages_combined.fna, 18065 51593
+plate5.F6.pilon.contigs_renamed.phages_combined.fna, 25275 40622 7198 52653 15814
+plate5.F7.pilon.contigs_renamed.phages_combined.fna, 15935
+plate5.F8.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate5.F9.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate5.G11.pilon.contigs_renamed.phages_combined.fna, 15661
+plate5.G12.pilon.contigs_renamed.phages_combined.fna, 15661
+plate5.G1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate5.G2.pilon.contigs_renamed.phages_combined.fna, 26329 17810 37281 53557
+plate5.G3.pilon.contigs_renamed.phages_combined.fna, 17810 26329 61168 37281
+plate5.G4.pilon.contigs_renamed.phages_combined.fna, 18058 44086 12573 5859
+plate5.G5.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate5.G6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.G7.pilon.contigs_renamed.phages_combined.fna, 15689
+plate5.G8.pilon.contigs_renamed.phages_combined.fna, 1179 1179 14066 1504 15408 15340 10156 49679
+plate5.G9.pilon.contigs_renamed.phages_combined.fna, 53677 25897 22324 28035 18205
+plate5.H11.pilon.contigs_renamed.phages_combined.fna, 15661
+plate5.H1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate5.H2.pilon.contigs_renamed.phages_combined.fna, 15421 43618 9755
+plate5.H4.pilon.contigs_renamed.phages_combined.fna, 12573 44086 18058 5859
+plate5.H5.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate5.H6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate5.H7.pilon.contigs_renamed.phages_combined.fna, 15841
+plate5.H8.pilon.contigs_renamed.phages_combined.fna, 26329 15595 53557 37281
+plate5.H9.pilon.contigs_renamed.phages_combined.fna, 26329 61168 17810 37281
+plate6.A10.pilon.contigs_renamed.phages_combined.fna, 17810 53557 26329 37281
+plate6.A11.pilon.contigs_renamed.phages_combined.fna, 43832 17635
+plate6.A1.pilon.contigs_renamed.phages_combined.fna, 15661
+plate6.A5.pilon.contigs_renamed.phages_combined.fna, 15841
+plate6.A6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate6.A7.pilon.contigs_renamed.phages_combined.fna, 15421 45618
+plate6.A8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate6.A9.pilon.contigs_renamed.phages_combined.fna, 37281 53557 15595
+plate6.B10.pilon.contigs_renamed.phages_combined.fna, 40622 52653 22633 15814 7198
+plate6.B11.pilon.contigs_renamed.phages_combined.fna, 15595
+plate6.B1.pilon.contigs_renamed.phages_combined.fna, 17635 46227
+plate6.B2.pilon.contigs_renamed.phages_combined.fna, 49277 15699 37769
+plate6.B3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate6.B4.pilon.contigs_renamed.phages_combined.fna, 36306 35109
+plate6.B5.pilon.contigs_renamed.phages_combined.fna, 9334 8715 5083 5629 6487 5741 15314 5448 19588 14147 9463 49894 4795 4425 35083 2266 7356 15981
+plate6.B6.pilon.contigs_renamed.phages_combined.fna, 55793 17810 14776
+plate6.B7.pilon.contigs_renamed.phages_combined.fna, 57679 10261 13797 15595
+plate6.B8.pilon.contigs_renamed.phages_combined.fna, 15936 43592
+plate6.B9.pilon.contigs_renamed.phages_combined.fna, 19294
+plate6.C10.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate6.C11.pilon.contigs_renamed.phages_combined.fna, 15595
+plate6.C1.pilon.contigs_renamed.phages_combined.fna, 46227 17635
+plate6.C2.pilon.contigs_renamed.phages_combined.fna, 18057
+plate6.C3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate6.C4.pilon.contigs_renamed.phages_combined.fna, 35109 36306
+plate6.C5.pilon.contigs_renamed.phages_combined.fna, 36306 35109
+plate6.C6.pilon.contigs_renamed.phages_combined.fna, 13797 10261 55793 15595
+plate6.C7.pilon.contigs_renamed.phages_combined.fna, 15595 55793 13797 10261
+plate6.C8.pilon.contigs_renamed.phages_combined.fna, 19294
+plate6.C9.pilon.contigs_renamed.phages_combined.fna, 19294
+plate6.D10.pilon.contigs_renamed.phages_combined.fna, 62225 15273 16158 38590 19981 37856
+plate6.D11.pilon.contigs_renamed.phages_combined.fna, 39305 38956 16695
+plate6.D1.pilon.contigs_renamed.phages_combined.fna, 15148 47458
+plate6.D2.pilon.contigs_renamed.phages_combined.fna, 15595
+plate6.D3.pilon.contigs_renamed.phages_combined.fna, 18331
+plate6.D4.pilon.contigs_renamed.phages_combined.fna, 18331
+plate6.D5.pilon.contigs_renamed.phages_combined.fna, 15936 43592
+plate6.D6.pilon.contigs_renamed.phages_combined.fna, 18084
+plate6.D7.pilon.contigs_renamed.phages_combined.fna, 18084
+plate6.D8.pilon.contigs_renamed.phages_combined.fna, 15689
+plate6.D9.pilon.contigs_renamed.phages_combined.fna, 53557 37281 17810
+plate6.E10.pilon.contigs_renamed.phages_combined.fna, 53557 37281 15595
+plate6.E11.pilon.contigs_renamed.phages_combined.fna, 40979 13554 18628
+plate6.E1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate6.E2.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate6.E3.pilon.contigs_renamed.phages_combined.fna, 15935
+plate6.E4.pilon.contigs_renamed.phages_combined.fna, 15595 10261 13797 55793
+plate6.E6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate6.E7.pilon.contigs_renamed.phages_combined.fna, 15689
+plate6.E8.pilon.contigs_renamed.phages_combined.fna, 18084
+plate6.E9.pilon.contigs_renamed.phages_combined.fna, 12120 16428 62134
+plate6.F10.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate6.F11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate6.F12.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate6.F1.pilon.contigs_renamed.phages_combined.fna, 50648 54603 15128
+plate6.F2.pilon.contigs_renamed.phages_combined.fna, 39305 16695 41432
+plate6.F3.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate6.F4.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate6.F5.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate6.F8.pilon.contigs_renamed.phages_combined.fna, 63804 17819
+plate6.F9.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate6.G10.pilon.contigs_renamed.phages_combined.fna, 16785 35829
+plate6.G1.pilon.contigs_renamed.phages_combined.fna, 34746 51809 37420 4640 2320 4709 16723 3118
+plate6.G2.pilon.contigs_renamed.phages_combined.fna, 16723
+plate6.G3.pilon.contigs_renamed.phages_combined.fna, 23188 40419 17093 44051
+plate6.G4.pilon.contigs_renamed.phages_combined.fna, 68437 15669 52660
+plate6.G5.pilon.contigs_renamed.phages_combined.fna, 49959 18892
+plate6.G6.pilon.contigs_renamed.phages_combined.fna, 49187
+plate6.G8.pilon.contigs_renamed.phages_combined.fna, 16725 38958 50141
+plate6.G9.pilon.contigs_renamed.phages_combined.fna, 50141 38958 15662
+plate6.H10.pilon.contigs_renamed.phages_combined.fna, 37281 17810 53557
+plate6.H11.pilon.contigs_renamed.phages_combined.fna, 46227 17635
+plate6.H1.pilon.contigs_renamed.phages_combined.fna, 48409 82745 17636
+plate6.H2.pilon.contigs_renamed.phages_combined.fna, 9818 50419 5569 1673 3598 6880 3610 20463 6245 2559 5187 6862 2086 16070 2579
+plate6.H5.pilon.contigs_renamed.phages_combined.fna,
+plate6.H6.pilon.contigs_renamed.phages_combined.fna, 52660 70977 15669
+plate6.H7.pilon.contigs_renamed.phages_combined.fna, 12605 15935
+plate6.H8.pilon.contigs_renamed.phages_combined.fna, 15935
+plate6.H9.pilon.contigs_renamed.phages_combined.fna, 18058 54795
+plate7.A10.pilon.contigs_renamed.phages_combined.fna, 12605 15935
+plate7.A11.pilon.contigs_renamed.phages_combined.fna, 21505 8021 18139 15944
+plate7.A12.pilon.contigs_renamed.phages_combined.fna, 12605 15935
+plate7.A1.pilon.contigs_renamed.phages_combined.fna, 44044 7425 55749 15936
+plate7.A2.pilon.contigs_renamed.phages_combined.fna, 15936 55749 44044
+plate7.A3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate7.A4.pilon.contigs_renamed.phages_combined.fna, 15841
+plate7.A5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate7.A6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate7.A7.pilon.contigs_renamed.phages_combined.fna, 15841
+plate7.A8.pilon.contigs_renamed.phages_combined.fna, 18065 54432
+plate7.A9.pilon.contigs_renamed.phages_combined.fna, 38352 19367 55768
+plate7.B10.pilon.contigs_renamed.phages_combined.fna, 12605 15935
+plate7.B11.pilon.contigs_renamed.phages_combined.fna, 15935 12605
+plate7.B1.pilon.contigs_renamed.phages_combined.fna, 44044 15936 55749 7425
+plate7.B2.pilon.contigs_renamed.phages_combined.fna, 55749 44044 15936
+plate7.B3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate7.B4.pilon.contigs_renamed.phages_combined.fna, 15689
+plate7.B5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate7.B6.pilon.contigs_renamed.phages_combined.fna, 18057
+plate7.B7.pilon.contigs_renamed.phages_combined.fna, 18057
+plate7.B8.pilon.contigs_renamed.phages_combined.fna, 54432 18065
+plate7.C12.pilon.contigs_renamed.phages_combined.fna, 58175 18332
+plate7.C1.pilon.contigs_renamed.phages_combined.fna, 15689
+plate7.C2.pilon.contigs_renamed.phages_combined.fna, 15689
+plate7.C3.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate7.C4.pilon.contigs_renamed.phages_combined.fna, 15595
+plate7.C5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate7.C6.pilon.contigs_renamed.phages_combined.fna, 17811
+plate7.C7.pilon.contigs_renamed.phages_combined.fna, 18057
+plate7.C8.pilon.contigs_renamed.phages_combined.fna, 18057
+plate7.C9.pilon.contigs_renamed.phages_combined.fna, 18057
+plate7.D10.pilon.contigs_renamed.phages_combined.fna, 15689
+plate7.D12.pilon.contigs_renamed.phages_combined.fna, 46227 17635
+plate7.D1.pilon.contigs_renamed.phages_combined.fna, 16889 13860 49679 9276 15408 4427 49995
+plate7.D2.pilon.contigs_renamed.phages_combined.fna, 15689
+plate7.D3.pilon.contigs_renamed.phages_combined.fna, 15689
+plate7.D4.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate7.D5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate7.D6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate7.D7.pilon.contigs_renamed.phages_combined.fna, 15595
+plate7.D8.pilon.contigs_renamed.phages_combined.fna, 18057
+plate7.D9.pilon.contigs_renamed.phages_combined.fna, 15841
+plate7.E10.pilon.contigs_renamed.phages_combined.fna, 18057
+plate7.E11.pilon.contigs_renamed.phages_combined.fna, 15935
+plate7.E12.pilon.contigs_renamed.phages_combined.fna, 53557 15595 37281
+plate7.E1.pilon.contigs_renamed.phages_combined.fna, 26329 37281 17810 53557
+plate7.E2.pilon.contigs_renamed.phages_combined.fna, 27613 39725 42949
+plate7.E3.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate7.E4.pilon.contigs_renamed.phages_combined.fna, 17635 45607
+plate7.E5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate7.E6.pilon.contigs_renamed.phages_combined.fna, 18331
+plate7.E7.pilon.contigs_renamed.phages_combined.fna, 21586 17636 49599 7448
+plate7.E8.pilon.contigs_renamed.phages_combined.fna, 15595
+plate7.E9.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate7.F10.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate7.F12.pilon.contigs_renamed.phages_combined.fna, 15841
+plate7.F1.pilon.contigs_renamed.phages_combined.fna, 61168 37281 15595
+plate7.F2.pilon.contigs_renamed.phages_combined.fna, 40333 14153
+plate7.F3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate7.F4.pilon.contigs_renamed.phages_combined.fna, 17635 45607
+plate7.F5.pilon.contigs_renamed.phages_combined.fna, 15850 51593
+plate7.F6.pilon.contigs_renamed.phages_combined.fna, 15935
+plate7.F7.pilon.contigs_renamed.phages_combined.fna, 15935
+plate7.F9.pilon.contigs_renamed.phages_combined.fna, 17775 56110 42981
+plate7.G11.pilon.contigs_renamed.phages_combined.fna, 15661
+plate7.G1.pilon.contigs_renamed.phages_combined.fna, 15595 55793 13797 10261
+plate7.G2.pilon.contigs_renamed.phages_combined.fna, 43618 15421 9755
+plate7.G3.pilon.contigs_renamed.phages_combined.fna, 15421 9755 43618
+plate7.G4.pilon.contigs_renamed.phages_combined.fna, 14459 18058 44086 5859
+plate7.G5.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate7.G6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate7.G7.pilon.contigs_renamed.phages_combined.fna, 15841
+plate7.G8.pilon.contigs_renamed.phages_combined.fna, 15595 53557 26329 37281
+plate7.G9.pilon.contigs_renamed.phages_combined.fna,
+plate7.H10.pilon.contigs_renamed.phages_combined.fna, 15661
+plate7.H11.pilon.contigs_renamed.phages_combined.fna, 15661
+plate7.H1.pilon.contigs_renamed.phages_combined.fna, 13797 10261 55793 17810
+plate7.H2.pilon.contigs_renamed.phages_combined.fna, 26329 3131 2749 1998 37281 2640 53557 17810
+plate7.H3.pilon.contigs_renamed.phages_combined.fna, 15421 43618 9755
+plate7.H4.pilon.contigs_renamed.phages_combined.fna, 44086 5859 14459 18058
+plate7.H5.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate7.H6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate7.H7.pilon.contigs_renamed.phages_combined.fna, 18057
+plate7.H8.pilon.contigs_renamed.phages_combined.fna, 26329 37281 15595 53557
+plate7.H9.pilon.contigs_renamed.phages_combined.fna, 40043
+plate8.A10.pilon.contigs_renamed.phages_combined.fna, 17635 46227
+plate8.A11.pilon.contigs_renamed.phages_combined.fna, 46227 17635
+plate8.A1.pilon.contigs_renamed.phages_combined.fna, 15661
+plate8.A2.pilon.contigs_renamed.phages_combined.fna, 32374 8776 40207 91040 17635
+plate8.A5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate8.A7.pilon.contigs_renamed.phages_combined.fna, 15945
+plate8.A8.pilon.contigs_renamed.phages_combined.fna, 12126 5491 80045 11208 38149
+plate8.A9.pilon.contigs_renamed.phages_combined.fna, 53557 37281 26329 17810
+plate8.B2.pilon.contigs_renamed.phages_combined.fna, 15841
+plate8.B3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate8.B4.pilon.contigs_renamed.phages_combined.fna, 62639 44655 5427
+plate8.B5.pilon.contigs_renamed.phages_combined.fna, 10261 13797 55793 15595
+plate8.B6.pilon.contigs_renamed.phages_combined.fna, 15936 43592
+plate8.B7.pilon.contigs_renamed.phages_combined.fna, 19294
+plate8.B8.pilon.contigs_renamed.phages_combined.fna, 15595
+plate8.B9.pilon.contigs_renamed.phages_combined.fna, 17811
+plate8.C1.pilon.contigs_renamed.phages_combined.fna, 15420 46227
+plate8.C2.pilon.contigs_renamed.phages_combined.fna, 18057
+plate8.C3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate8.C4.pilon.contigs_renamed.phages_combined.fna, 17635 45607
+plate8.C5.pilon.contigs_renamed.phages_combined.fna, 42363 5427 62639
+plate8.C6.pilon.contigs_renamed.phages_combined.fna, 57679 17810 10261 13797
+plate8.C7.pilon.contigs_renamed.phages_combined.fna, 15936 43592
+plate8.C8.pilon.contigs_renamed.phages_combined.fna, 19294
+plate8.C9.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate8.D10.pilon.contigs_renamed.phages_combined.fna, 40685 88190
+plate8.D11.pilon.contigs_renamed.phages_combined.fna, 137408
+plate8.D1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate8.D2.pilon.contigs_renamed.phages_combined.fna, 10932 19294
+plate8.D3.pilon.contigs_renamed.phages_combined.fna, 30419 28828 76245
+plate8.D4.pilon.contigs_renamed.phages_combined.fna, 28828 30419 76245
+plate8.D5.pilon.contigs_renamed.phages_combined.fna, 15689
+plate8.D6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate8.D8.pilon.contigs_renamed.phages_combined.fna, 15689
+plate8.D9.pilon.contigs_renamed.phages_combined.fna, 26329 17810 53557 37281
+plate8.E10.pilon.contigs_renamed.phages_combined.fna, 15595 37281 53557
+plate8.E11.pilon.contigs_renamed.phages_combined.fna, 13554 40979 18628
+plate8.E1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate8.E2.pilon.contigs_renamed.phages_combined.fna, 10932 17079
+plate8.E3.pilon.contigs_renamed.phages_combined.fna, 76245 28828 30419
+plate8.E4.pilon.contigs_renamed.phages_combined.fna, 29590 15215
+plate8.E5.pilon.contigs_renamed.phages_combined.fna, 53676 18057
+plate8.E6.pilon.contigs_renamed.phages_combined.fna, 15689
+plate8.E7.pilon.contigs_renamed.phages_combined.fna, 15689
+plate8.E8.pilon.contigs_renamed.phages_combined.fna, 15689
+plate8.E9.pilon.contigs_renamed.phages_combined.fna, 61168 15595 37281
+plate8.F10.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate8.F11.pilon.contigs_renamed.phages_combined.fna, 15936
+plate8.F12.pilon.contigs_renamed.phages_combined.fna, 15936
+plate8.F1.pilon.contigs_renamed.phages_combined.fna, 15632 38956 39305
+plate8.F2.pilon.contigs_renamed.phages_combined.fna, 16695 48438 38956
+plate8.F3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate8.F4.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate8.F5.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate8.F8.pilon.contigs_renamed.phages_combined.fna, 61168 37281 15595
+plate8.G10.pilon.contigs_renamed.phages_combined.fna, 17208
+plate8.G1.pilon.contigs_renamed.phages_combined.fna, 16723 33063 37416 51809
+plate8.G2.pilon.contigs_renamed.phages_combined.fna, 6507 43340 43714 7245 3956
+plate8.G3.pilon.contigs_renamed.phages_combined.fna, 15669 68437 52660
+plate8.G4.pilon.contigs_renamed.phages_combined.fna, 50442 34746 16723
+plate8.G5.pilon.contigs_renamed.phages_combined.fna, 51809 16723 33063
+plate8.G6.pilon.contigs_renamed.phages_combined.fna, 17624 42451 50412
+plate8.G7.pilon.contigs_renamed.phages_combined.fna, 15662 3896 38958 4846 12542 25118 4453
+plate8.G8.pilon.contigs_renamed.phages_combined.fna, 55472 29262 20248 31507
+plate8.G9.pilon.contigs_renamed.phages_combined.fna, 35829 16785
+plate8.H1.pilon.contigs_renamed.phages_combined.fna, 50442 33063 37420 16723
+plate8.H2.pilon.contigs_renamed.phages_combined.fna, 6040 1014 37455 3548 16723 1186
+plate8.H3.pilon.contigs_renamed.phages_combined.fna, 12816 57831
+plate8.H4.pilon.contigs_renamed.phages_combined.fna, 15669 52660 68437
+plate8.H5.pilon.contigs_renamed.phages_combined.fna, 19193 51058
+plate8.H6.pilon.contigs_renamed.phages_combined.fna, 51809 16723
+plate8.H7.pilon.contigs_renamed.phages_combined.fna, 16674
+plate8.H8.pilon.contigs_renamed.phages_combined.fna, 35291 18332
+plate8.H9.pilon.contigs_renamed.phages_combined.fna, 31507 29262 19029 55472
+plate9.A10.pilon.contigs_renamed.phages_combined.fna, 15944 21505 8021 18139
+plate9.A11.pilon.contigs_renamed.phages_combined.fna, 15935
+plate9.A1.pilon.contigs_renamed.phages_combined.fna, 15936 7425 55749 44044
+plate9.A2.pilon.contigs_renamed.phages_combined.fna, 44044 55749 15936 7425
+plate9.A3.pilon.contigs_renamed.phages_combined.fna, 18057
+plate9.A4.pilon.contigs_renamed.phages_combined.fna, 15841
+plate9.A5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate9.A6.pilon.contigs_renamed.phages_combined.fna, 15841
+plate9.A7.pilon.contigs_renamed.phages_combined.fna, 18057
+plate9.A8.pilon.contigs_renamed.phages_combined.fna, 18065 54432
+plate9.A9.pilon.contigs_renamed.phages_combined.fna, 6015 18331
+plate9.B10.pilon.contigs_renamed.phages_combined.fna, 15944 8021 18139 21505
+plate9.B11.pilon.contigs_renamed.phages_combined.fna, 18331
+plate9.B12.pilon.contigs_renamed.phages_combined.fna, 26329 53557 37281 15595
+plate9.B1.pilon.contigs_renamed.phages_combined.fna, 55749 15936 44044
+plate9.B2.pilon.contigs_renamed.phages_combined.fna, 44044 15936 55749 7425
+plate9.B3.pilon.contigs_renamed.phages_combined.fna, 15841
+plate9.B4.pilon.contigs_renamed.phages_combined.fna, 15841
+plate9.B5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate9.B6.pilon.contigs_renamed.phages_combined.fna, 18057
+plate9.B7.pilon.contigs_renamed.phages_combined.fna, 18057
+plate9.B8.pilon.contigs_renamed.phages_combined.fna, 54432 18065
+plate9.B9.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate9.C10.pilon.contigs_renamed.phages_combined.fna, 15841
+plate9.C11.pilon.contigs_renamed.phages_combined.fna, 18057
+plate9.C12.pilon.contigs_renamed.phages_combined.fna, 15421 45618
+plate9.C1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate9.C2.pilon.contigs_renamed.phages_combined.fna, 15689
+plate9.C3.pilon.contigs_renamed.phages_combined.fna, 15408 49995 6918 14066 16659 2838 6823 49679 11056 2838 1140 1139
+plate9.C4.pilon.contigs_renamed.phages_combined.fna, 6507 30840
+plate9.C5.pilon.contigs_renamed.phages_combined.fna, 17811
+plate9.C6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate9.C7.pilon.contigs_renamed.phages_combined.fna, 15595
+plate9.C8.pilon.contigs_renamed.phages_combined.fna, 18057
+plate9.C9.pilon.contigs_renamed.phages_combined.fna, 15841
+plate9.D10.pilon.contigs_renamed.phages_combined.fna, 19325
+plate9.D12.pilon.contigs_renamed.phages_combined.fna, 18057
+plate9.D1.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate9.D2.pilon.contigs_renamed.phages_combined.fna, 18084
+plate9.D3.pilon.contigs_renamed.phages_combined.fna, 17390 38244 43447
+plate9.D4.pilon.contigs_renamed.phages_combined.fna, 51355 20378
+plate9.D5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate9.D6.pilon.contigs_renamed.phages_combined.fna, 15595
+plate9.D7.pilon.contigs_renamed.phages_combined.fna, 54733 17079
+plate9.D8.pilon.contigs_renamed.phages_combined.fna, 15841
+plate9.D9.pilon.contigs_renamed.phages_combined.fna, 18057
+plate9.E10.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate9.E11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate9.E1.pilon.contigs_renamed.phages_combined.fna, 49995 14066 15408 49679 10963 1504 1179 1504 15340 3426
+plate9.E2.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate9.E3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate9.E4.pilon.contigs_renamed.phages_combined.fna, 17635 45607
+plate9.E5.pilon.contigs_renamed.phages_combined.fna, 15595
+plate9.E6.pilon.contigs_renamed.phages_combined.fna, 15215 29590
+plate9.E7.pilon.contigs_renamed.phages_combined.fna, 18331
+plate9.E8.pilon.contigs_renamed.phages_combined.fna, 18057
+plate9.E9.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate9.F10.pilon.contigs_renamed.phages_combined.fna, 58175 18332
+plate9.F11.pilon.contigs_renamed.phages_combined.fna, 58175 15936
+plate9.F1.pilon.contigs_renamed.phages_combined.fna, 37281 17810 53557
+plate9.F2.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate9.F3.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate9.F4.pilon.contigs_renamed.phages_combined.fna, 45607 15420
+plate9.F5.pilon.contigs_renamed.phages_combined.fna, 15935
+plate9.F6.pilon.contigs_renamed.phages_combined.fna, 15935
+plate9.F7.pilon.contigs_renamed.phages_combined.fna, 15935
+plate9.F8.pilon.contigs_renamed.phages_combined.fna, 15661
+plate9.F9.pilon.contigs_renamed.phages_combined.fna, 19294 10932
+plate9.G10.pilon.contigs_renamed.phages_combined.fna, 16724
+plate9.G12.pilon.contigs_renamed.phages_combined.fna, 15297
+plate9.G1.pilon.contigs_renamed.phages_combined.fna, 55793 17810 13797 10261
+plate9.G2.pilon.contigs_renamed.phages_combined.fna, 9755 15421 43618
+plate9.G3.pilon.contigs_renamed.phages_combined.fna, 9755 15421 43618
+plate9.G4.pilon.contigs_renamed.phages_combined.fna, 15936 43592
+plate9.G5.pilon.contigs_renamed.phages_combined.fna, 15936 58175
+plate9.G6.pilon.contigs_renamed.phages_combined.fna, 18084
+plate9.G7.pilon.contigs_renamed.phages_combined.fna, 15935
+plate9.G8.pilon.contigs_renamed.phages_combined.fna, 61168 37281 15595
+plate9.H10.pilon.contigs_renamed.phages_combined.fna, 48079 33061 40939
+plate9.H1.pilon.contigs_renamed.phages_combined.fna, 55793 13797 10261 17810
+plate9.H2.pilon.contigs_renamed.phages_combined.fna, 4098 15935 1383 1476 4588 2563
+plate9.H3.pilon.contigs_renamed.phages_combined.fna, 17810 37281 26329 53557
+plate9.H4.pilon.contigs_renamed.phages_combined.fna, 5859 15841 14459 44086
+plate9.H5.pilon.contigs_renamed.phages_combined.fna, 18084
+plate9.H6.pilon.contigs_renamed.phages_combined.fna, 17810 53557 26329 37281
+plate9.H7.pilon.contigs_renamed.phages_combined.fna, 37281 17810 53557
+plate9.H8.pilon.contigs_renamed.phages_combined.fna, 40043
+plate9.H9.pilon.contigs_renamed.phages_combined.fna,

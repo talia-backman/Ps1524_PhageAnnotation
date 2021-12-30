@@ -1,0 +1,25 @@
+{
+    "id": "DD28D958",
+    "path": "~/Desktop/phages/mytomicinC_trials/clean_tecan_to_graph.R",
+    "project_path": "clean_tecan_to_graph.R",
+    "type": "r_source",
+    "hash": "2022308061",
+    "contents": "",
+    "dirty": false,
+    "created": 1638547857383.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "41,0",
+        "scrollLine": "6"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1638554784,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1638554784597,
+    "read_only": false,
+    "read_only_alternatives": []
+}

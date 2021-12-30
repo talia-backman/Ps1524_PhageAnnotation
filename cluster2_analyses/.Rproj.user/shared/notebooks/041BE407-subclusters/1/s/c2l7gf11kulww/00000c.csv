@@ -1,0 +1,8 @@
+"0","# plot k-means using 10 clusters (from gap statistic)
+p1 <- kmeans(tbl2, 10)
+fviz_cluster(p1, data = tbl2, geom=""point"")
+"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"

@@ -1,0 +1,32 @@
+{
+    "id": "38221794",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1636132163571.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "big_phage",
+        "caption": "big_phage",
+        "totalObservations": "1",
+        "displayedObservations": "1",
+        "variables": "12",
+        "cacheKey": "6FDAFEA3",
+        "object": "big_phage",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=big_phage&cache_key=6FDAFEA3&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1626719950,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1636132163571,
+    "read_only": false,
+    "read_only_alternatives": []
+}

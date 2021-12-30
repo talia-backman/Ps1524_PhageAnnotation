@@ -1,0 +1,201 @@
+---
+title: "cluster2 subclusters"
+author: "Backman"
+date: "8/26/2021"
+output: html_document
+---
+
+```{r,warning=FALSE}
+# load libraries
+library(cluster)
+library(NbClust)
+library(clustertend)
+library(factoextra)
+library(stats)
+library(ape)
+library(phytools)
+library(ggplot2)
+library(ggtree)
+library(tidyverse)
+library(dplyr)
+library(BBmisc)
+```
+
+```{r}
+# set the seed
+set.seed(123)
+```
+
+```{r,warning=FALSE}
+# load and tidy phage data from mash 
+tbl <- read.table("./mash_cluster2_results",header=FALSE,row.names=1)
+colnames(tbl) <- rownames(tbl)
+```
+
+```{r,warning=FALSE}
+# 3 different methods for finding optimal number of clusters:
+# Elbow method
+fviz_nbclust(tbl, kmeans, method = "wss",k.max = 10) +
+  geom_vline(xintercept = 4, linetype = 2)+
+  labs(subtitle = "Elbow method")
+# k = 4
+
+# Silhouette method
+fviz_nbclust(tbl, kmeans, method = "silhouette",k.max=10)+
+  labs(subtitle = "Silhouette method")
+# k = 2
+
+# Gap statistic
+# nboot = 50 to keep the function speedy. 
+# recommended value: nboot= 500 for your analysis.
+# Use verbose = FALSE to hide computing progression.
+set.seed(123)
+fviz_nbclust(tbl, kmeans, nstart = 25,  method = "gap_stat", nboot = 50,k.max=10)+
+  labs(subtitle = "Gap statistic method")
+# k = 
+```
+
+```{r,warning=FALSE}
+# plot k-means using 2 clusters (from elbow method)
+tbl2 <- as.matrix(tbl)
+p2 <- kmeans(tbl2, 2)
+fviz_cluster(p2, data = tbl2, geom="point")
+
+# plot k-means using 4 clusters (from silhouette method)
+p4 <- kmeans(tbl2, 4,nstart=20)
+fviz_cluster(p4, data = tbl2, geom="point")
+
+# plot k-means using 10 clusters (from gap statistic)
+p1 <- kmeans(tbl2, 10)
+fviz_cluster(p1, data = tbl2, geom="point")
+```
+
+
+OPTIMAL CLUSTERING TO PHYLOGENY
+```{r}
+# load in the pseudomonas OTU5 phylogeny 
+treex2 <- read.tree(file="./ps_1524_uncollapsed_5_2018.nwk")
+```
+
+
+```{r}
+# cleaning the cluster data
+# make p1 into a data frame to see if we can map the values to a phylogeny
+clusters <- data.frame(p1$cluster)
+fragmented_cluster_info <- data.frame(p1$cluster)
+clusters$genome_ID <- row.names(clusters)
+clusters[] <- lapply(clusters, gsub, pattern='late', replacement='')
+clusters$genome_ID <- gsub("^.{0,4}", "", clusters$genome_ID)
+clusters[] <- lapply(clusters, gsub, pattern='.pilon.contigs_renamed.phages_lysogenic.fas', replacement='')
+rownames(clusters) <- NULL
+clusters <- clusters[,c(2,1)]
+
+# Add a column to clusters: Phage #
+clusters['phages'] <- NA
+df <- clusters %>% group_by(genome_ID) %>% dplyr::mutate(phages = row_number())
+```
+
+
+```{r}
+# analysis of phage data
+# find largest # of phages in column phages
+max(df$phages) # 8 is the maximum number of phages
+ggplot(df, aes(x=phages)) + geom_histogram() + ggtitle("Phage distribution") 
+```
+
+
+```{r}
+# cleaning the cluster data
+# subset df based off phages column, rename their cluster column
+df1 <- subset(df, phages == 1) #1582
+names(df1)[2] <- "phage1"
+df2 <- subset(df, phages == 2) # 884
+names(df2)[2] <- "phage2"
+
+# see how many times we see each genome_ID
+#table(df$genome_ID)
+```
+
+```{r}
+# cleaning the tree
+# remove rows in treex2 that aren't in df1 since that will have all genomes we need
+uneeded <- which(!(treex2$tip.label) %in% df1$genome_ID)
+length(uneeded)
+tree <- drop.tip(treex2, uneeded)
+```
+
+
+```{r,warning=FALSE}
+# make comprehensive phage clustering dataframe with the corresponding genome as rownames
+# make all 15 dataframes 1510 observations long but with NA in places that don't have values
+all_df <- merge(df1, df2, by="genome_ID", all=TRUE)
+
+# convert to matrix 
+all_df_matrix <- as.matrix(all_df)
+rownames(all_df_matrix) <- all_df_matrix[,1]
+all_df_matrix <- all_df_matrix[ ,c(2,4)]
+
+#write.csv(all_df_matrix, "./lysogenic_ffn/lysogenic_circos_table.csv")
+```
+
+
+```{r,warning=FALSE}
+################################################################
+############### plot clusters to phylogeny #####################
+################################################################
+p <- ggtree(tree, layout='circular', branch.length='none')
+p
+p3 <- gheatmap(p, all_df_matrix, colnames = FALSE, legend_title = "Cluster")
+p3
+#\p3 + geom_strip('p9.C4','p4.C6', barsize = 2, color= 'blue', label = "Other Pseudomonads", offset = 80, offset.text=1) +
+  #geom_strip('p27.D6','p9.E8', barsize=2, color='purple',label='OTU5', offset=80, offset.text=1)
+```
+
+
+```{r}
+# Analyzing each cluster separately
+# Preparing the data for analysis
+# subset each cluster to its own dataframe
+df10 <- subset(fragmented_cluster_info, p1.cluster==10)
+df9 <- subset(fragmented_cluster_info, p1.cluster==9)
+df8 <- subset(fragmented_cluster_info, p1.cluster==8)
+df7 <- subset(fragmented_cluster_info, p1.cluster==7)
+df6 <- subset(fragmented_cluster_info, p1.cluster==6)
+df5 <- subset(fragmented_cluster_info, p1.cluster==5)
+df4 <- subset(fragmented_cluster_info, p1.cluster==4)
+df3 <- subset(fragmented_cluster_info, p1.cluster==3)
+df2 <- subset(fragmented_cluster_info, p1.cluster==2)
+df1 <- subset(fragmented_cluster_info, p1.cluster==1)
+
+write.csv(df10, "./10_list.csv")
+write.csv(df9, "./9_list.csv")
+write.csv(df8, "./8_list.csv")
+write.csv(df7, "./7_list.csv")
+write.csv(df6, "./6_list.csv")
+write.csv(df5, "./5_list.csv")
+
+write.csv(df4, "./4_list.csv")
+write.csv(df3, "./3_list.csv")
+write.csv(df2, "./2_list.csv")
+write.csv(df1, "./1_list.csv")
+
+
+# subset each mash distance matrix to its own cluster
+df1.1 <- tbl[rownames(tbl) %in% rownames(df1), rownames(tbl) %in% rownames(df1)] 
+df2.1 <- tbl[rownames(tbl) %in% rownames(df2), rownames(tbl) %in% rownames(df2)] 
+df3.1 <- tbl[rownames(tbl) %in% rownames(df3), rownames(tbl) %in% rownames(df3)] 
+df4.1 <- tbl[rownames(tbl) %in% rownames(df4), rownames(tbl) %in% rownames(df4)] 
+# convert to data matrix 
+df1.1 <- as.matrix(df1.1)
+df2.1 <- as.matrix(df2.1)
+df3.1 <- as.matrix(df3.1)
+df4.1 <- as.matrix(df4.1)
+
+# heatmaps
+# visualize the mash distance within a cluster
+image(df1.1)
+image(df2.1)
+image(df3.1)
+image(df4.1)
+```
+
