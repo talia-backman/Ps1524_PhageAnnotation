@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Retron_IV_2	Retron	Retron_IV	p23.B4|DGFJJJBM_01563	p23.B4|DGFJJJBM_01564	p23.B4|DGFJJJBM_01563,p23.B4|DGFJJJBM_01564	2	2TM,RT_Tot
+UserReplicon_RM_Type_IV_1	RM	RM_Type_IV	p23.B4|DGFJJJBM_01865	p23.B4|DGFJJJBM_01865	p23.B4|DGFJJJBM_01865	1	Type_IV_REases
+UserReplicon_Thoeris2_3	Thoeris	Thoeris2	p23.B4|DGFJJJBM_03472	p23.B4|DGFJJJBM_03473	p23.B4|DGFJJJBM_03472,p23.B4|DGFJJJBM_03473	2	ThsA_new_petit,ThsB_Global

@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p20.A8|DLFOAHMI_01995	p20.A8|DLFOAHMI_01999	p20.A8|DLFOAHMI_01995,p20.A8|DLFOAHMI_01999	2	Type_I_REases,Type_I_MTases
+UserReplicon_Septu_4	Septu	Septu	p20.A8|DLFOAHMI_01997	p20.A8|DLFOAHMI_01998	p20.A8|DLFOAHMI_01997,p20.A8|DLFOAHMI_01998	2	PtuA,PtuB
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p20.A8|DLFOAHMI_02746	p20.A8|DLFOAHMI_02747	p20.A8|DLFOAHMI_02746,p20.A8|DLFOAHMI_02747	2	HamA_1,HamB
+UserReplicon_Gabija_1	Gabija	Gabija	p20.A8|DLFOAHMI_03982	p20.A8|DLFOAHMI_03983	p20.A8|DLFOAHMI_03982,p20.A8|DLFOAHMI_03983	2	GajA,GajB

@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p20.F8|DHHAPHKH_02699	p20.F8|DHHAPHKH_02700	p20.F8|DHHAPHKH_02699,p20.F8|DHHAPHKH_02700	2	HamB,HamA_1
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p20.F8|DHHAPHKH_03086	p20.F8|DHHAPHKH_03090	p20.F8|DHHAPHKH_03086,p20.F8|DHHAPHKH_03090	2	Type_I_REases,Type_I_MTases
+UserReplicon_Septu_4	Septu	Septu	p20.F8|DHHAPHKH_03088	p20.F8|DHHAPHKH_03089	p20.F8|DHHAPHKH_03088,p20.F8|DHHAPHKH_03089	2	PtuA,PtuB
+UserReplicon_Gabija_1	Gabija	Gabija	p20.F8|DHHAPHKH_04181	p20.F8|DHHAPHKH_04182	p20.F8|DHHAPHKH_04181,p20.F8|DHHAPHKH_04182	2	GajA,GajB

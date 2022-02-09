@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Zorya_TypeI_3	Zorya	Zorya_TypeI	p1.E1|GMMKFIKN_03154	p1.E1|GMMKFIKN_03157	p1.E1|GMMKFIKN_03154,p1.E1|GMMKFIKN_03155,p1.E1|GMMKFIKN_03156,p1.E1|GMMKFIKN_03157	4	ZorD,ZorC,ZorB,ZorA
+UserReplicon_AVAST_II_1	AVAST	AVAST_II	p1.E1|GMMKFIKN_04012	p1.E1|GMMKFIKN_04012	p1.E1|GMMKFIKN_04012	1	Avs2A
+UserReplicon_Abi2_2	Abi2	Abi2	p1.E1|GMMKFIKN_04445	p1.E1|GMMKFIKN_04445	p1.E1|GMMKFIKN_04445	1	Abi_2

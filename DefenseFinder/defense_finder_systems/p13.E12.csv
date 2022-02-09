@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p13.E12|PDONLCHA_03164	p13.E12|PDONLCHA_03165	p13.E12|PDONLCHA_03164,p13.E12|PDONLCHA_03165	2	IetA,IetS
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p13.E12|PDONLCHA_04299	p13.E12|PDONLCHA_04299	p13.E12|PDONLCHA_04299	1	AAA_15_DUF4435
+UserReplicon_Abi2_1	Abi2	Abi2	p13.E12|PDONLCHA_05283	p13.E12|PDONLCHA_05283	p13.E12|PDONLCHA_05283	1	Abi_2

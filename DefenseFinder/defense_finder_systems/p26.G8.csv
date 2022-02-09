@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Hachiman_3	Hachiman	Hachiman	p26.G8|LDFOGPOK_02289	p26.G8|LDFOGPOK_02290	p26.G8|LDFOGPOK_02289,p26.G8|LDFOGPOK_02290	2	HamB,HamA_2
+UserReplicon_Abi2_1	Abi2	Abi2	p26.G8|LDFOGPOK_02299	p26.G8|LDFOGPOK_02299	p26.G8|LDFOGPOK_02299	1	Abi_2
+UserReplicon_RM_Type_IV_4	RM	RM_Type_IV	p26.G8|LDFOGPOK_02841	p26.G8|LDFOGPOK_02842	p26.G8|LDFOGPOK_02841,p26.G8|LDFOGPOK_02842	2	Type_IV_REases,Type_IV_REases
+UserReplicon_DRT_2_2	DRT	DRT_2	p26.G8|LDFOGPOK_03701	p26.G8|LDFOGPOK_03701	p26.G8|LDFOGPOK_03701	1	drt2

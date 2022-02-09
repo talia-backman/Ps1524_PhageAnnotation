@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p21.G2|CLJLMOLM_02526	p21.G2|CLJLMOLM_02527	p21.G2|CLJLMOLM_02526,p21.G2|CLJLMOLM_02527	2	IetA,IetS
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p21.G2|CLJLMOLM_04154	p21.G2|CLJLMOLM_04154	p21.G2|CLJLMOLM_04154	1	AAA_15_DUF4435
+UserReplicon_Abi2_1	Abi2	Abi2	p21.G2|CLJLMOLM_04933	p21.G2|CLJLMOLM_04933	p21.G2|CLJLMOLM_04933	1	Abi_2

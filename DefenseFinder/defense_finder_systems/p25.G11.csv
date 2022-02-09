@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p25.G11|PJPOBLNI_02986	p25.G11|PJPOBLNI_02987	p25.G11|PJPOBLNI_02986,p25.G11|PJPOBLNI_02987	2	Type_II_REases,Type_II_MTases
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p25.G11|PJPOBLNI_03341	p25.G11|PJPOBLNI_03342	p25.G11|PJPOBLNI_03341,p25.G11|PJPOBLNI_03342	2	HamA_2,HamB
+UserReplicon_RM_Type_IIG_3	RM	RM_Type_IIG	p25.G11|PJPOBLNI_04569	p25.G11|PJPOBLNI_04569	p25.G11|PJPOBLNI_04569	1	Type_IIG

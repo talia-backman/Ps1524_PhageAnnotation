@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_4	RM	RM_Type_II	p6.C8|KNMOMALF_00086	p6.C8|KNMOMALF_00087	p6.C8|KNMOMALF_00086,p6.C8|KNMOMALF_00087	2	Type_II_MTases,Type_II_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p6.C8|KNMOMALF_00088	p6.C8|KNMOMALF_00088	p6.C8|KNMOMALF_00088	1	Abi_2
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p6.C8|KNMOMALF_00633	p6.C8|KNMOMALF_00635	p6.C8|KNMOMALF_00633,p6.C8|KNMOMALF_00635	2	Type_I_MTases,Type_I_REases
+UserReplicon_Druantia_I_2	Druantia	Druantia_I	p6.C8|KNMOMALF_05064	p6.C8|KNMOMALF_05067	p6.C8|KNMOMALF_05064,p6.C8|KNMOMALF_05065,p6.C8|KNMOMALF_05066,p6.C8|KNMOMALF_05067	4	DruD,DruE_1,DruA,DruB

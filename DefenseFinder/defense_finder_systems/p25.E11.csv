@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IIG_3	RM	RM_Type_IIG	p25.E11|ECAKFPNA_02355	p25.E11|ECAKFPNA_02355	p25.E11|ECAKFPNA_02355	1	Type_IIG
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p25.E11|ECAKFPNA_02673	p25.E11|ECAKFPNA_02674	p25.E11|ECAKFPNA_02673,p25.E11|ECAKFPNA_02674	2	Type_II_MTases,Type_II_REases
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p25.E11|ECAKFPNA_04037	p25.E11|ECAKFPNA_04038	p25.E11|ECAKFPNA_04037,p25.E11|ECAKFPNA_04038	2	HamA_2,HamB

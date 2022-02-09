@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_1	RM	RM_Type_II	p4.B5|GMDJELEH_03361	p4.B5|GMDJELEH_03362	p4.B5|GMDJELEH_03361,p4.B5|GMDJELEH_03362	2	Type_II_MTases,Type_II_REases
+UserReplicon_Septu_2	Septu	Septu	p4.B5|GMDJELEH_03369	p4.B5|GMDJELEH_03370	p4.B5|GMDJELEH_03369,p4.B5|GMDJELEH_03370	2	PtuB,PtuA

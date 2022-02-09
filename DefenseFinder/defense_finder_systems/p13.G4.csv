@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p13.G4|MLKNBIJE_00211	p13.G4|MLKNBIJE_00212	p13.G4|MLKNBIJE_00211,p13.G4|MLKNBIJE_00212	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p13.G4|MLKNBIJE_02865	p13.G4|MLKNBIJE_02865	p13.G4|MLKNBIJE_02865	1	Abi_2
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p13.G4|MLKNBIJE_02868	p13.G4|MLKNBIJE_02869	p13.G4|MLKNBIJE_02868,p13.G4|MLKNBIJE_02869	2	HamA_2,HamB
+UserReplicon_Shedu_4	Shedu	Shedu	p13.G4|MLKNBIJE_03480	p13.G4|MLKNBIJE_03480	p13.G4|MLKNBIJE_03480	1	SduA
+UserReplicon_dCTPdeaminase_5	dCTPdeaminase	dCTPdeaminase	p13.G4|MLKNBIJE_05347	p13.G4|MLKNBIJE_05347	p13.G4|MLKNBIJE_05347	1	dCTPdeaminase

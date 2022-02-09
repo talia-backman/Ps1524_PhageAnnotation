@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_DRT_2_2	DRT	DRT_2	p23.D1|DOGHIPMM_00288	p23.D1|DOGHIPMM_00288	p23.D1|DOGHIPMM_00288	1	drt2
+UserReplicon_RM_Type_IV_4	RM	RM_Type_IV	p23.D1|DOGHIPMM_03000	p23.D1|DOGHIPMM_03001	p23.D1|DOGHIPMM_03000,p23.D1|DOGHIPMM_03001	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Hachiman_3	Hachiman	Hachiman	p23.D1|DOGHIPMM_05133	p23.D1|DOGHIPMM_05134	p23.D1|DOGHIPMM_05133,p23.D1|DOGHIPMM_05134	2	HamB,HamA_2
+UserReplicon_Abi2_1	Abi2	Abi2	p23.D1|DOGHIPMM_05143	p23.D1|DOGHIPMM_05143	p23.D1|DOGHIPMM_05143	1	Abi_2

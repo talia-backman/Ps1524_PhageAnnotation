@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_4	Septu	Septu	p5.H2|LMDBIGAL_00317	p5.H2|LMDBIGAL_00318	p5.H2|LMDBIGAL_00317,p5.H2|LMDBIGAL_00318	2	PtuA,PtuB
+UserReplicon_Gabija_1	Gabija	Gabija	p5.H2|LMDBIGAL_02995	p5.H2|LMDBIGAL_02996	p5.H2|LMDBIGAL_02995,p5.H2|LMDBIGAL_02996	2	GajA,GajB
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p5.H2|LMDBIGAL_04250	p5.H2|LMDBIGAL_04251	p5.H2|LMDBIGAL_04250,p5.H2|LMDBIGAL_04251	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Gabija_2	Gabija	Gabija	p5.H2|LMDBIGAL_05113	p5.H2|LMDBIGAL_05114	p5.H2|LMDBIGAL_05113,p5.H2|LMDBIGAL_05114	2	GajA,GajB
+UserReplicon_Septu_5	Septu	Septu	p5.H2|LMDBIGAL_05270	p5.H2|LMDBIGAL_05271	p5.H2|LMDBIGAL_05270,p5.H2|LMDBIGAL_05271	2	PtuB,PtuA

@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_dCTPdeaminase_4	dCTPdeaminase	dCTPdeaminase	p9.H10|EGBALBDP_00049	p9.H10|EGBALBDP_00049	p9.H10|EGBALBDP_00049	1	dCTPdeaminase
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p9.H10|EGBALBDP_00052	p9.H10|EGBALBDP_00052	p9.H10|EGBALBDP_00052	1	Type_IV_REases
+UserReplicon_Rst_Sirtuin-like_3	Rst_Sirtuin-like	Rst_Sirtuin-like	p9.H10|EGBALBDP_03862	p9.H10|EGBALBDP_03862	p9.H10|EGBALBDP_03862	1	Sirtuin_like
+UserReplicon_Abi2_1	Abi2	Abi2	p9.H10|EGBALBDP_05186	p9.H10|EGBALBDP_05186	p9.H10|EGBALBDP_05186	1	Abi_2

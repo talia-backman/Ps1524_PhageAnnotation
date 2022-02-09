@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_DRT_4_2	DRT	DRT_4	p5.F5|GJNOJOIO_00241	p5.F5|GJNOJOIO_00241	p5.F5|GJNOJOIO_00241	1	drt4
+UserReplicon_Abi2_1	Abi2	Abi2	p5.F5|GJNOJOIO_01148	p5.F5|GJNOJOIO_01148	p5.F5|GJNOJOIO_01148	1	Abi_2
+UserReplicon_RM_Type_III_4	RM	RM_Type_III	p5.F5|GJNOJOIO_01283	p5.F5|GJNOJOIO_01284	p5.F5|GJNOJOIO_01283,p5.F5|GJNOJOIO_01284	2	Type_III_REases,Type_III_MTases
+UserReplicon_Gao_Upx_3	Gao_Upx	Gao_Upx	p5.F5|GJNOJOIO_02964	p5.F5|GJNOJOIO_02964	p5.F5|GJNOJOIO_02964	1	UpxA

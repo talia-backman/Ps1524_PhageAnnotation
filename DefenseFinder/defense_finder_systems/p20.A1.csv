@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p20.A1|APGELEEK_01827	p20.A1|APGELEEK_01827	p20.A1|APGELEEK_01827	1	Abi_2
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p20.A1|APGELEEK_02836	p20.A1|APGELEEK_02837	p20.A1|APGELEEK_02836,p20.A1|APGELEEK_02837	2	IetA,IetS
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p20.A1|APGELEEK_04652	p20.A1|APGELEEK_04652	p20.A1|APGELEEK_04652	1	AAA_15_DUF4435

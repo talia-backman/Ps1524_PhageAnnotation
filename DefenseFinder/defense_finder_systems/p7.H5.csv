@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Thoeris2_2	Thoeris	Thoeris2	p7.H5|ABCGAKAH_01451	p7.H5|ABCGAKAH_01455	p7.H5|ABCGAKAH_01451,p7.H5|ABCGAKAH_01452,p7.H5|ABCGAKAH_01453,p7.H5|ABCGAKAH_01454,p7.H5|ABCGAKAH_01455	5	ThsB_Global,ThsB_Global,ThsB_Global,ThsB_Global,ThsA_new_grand
+UserReplicon_Abi2_1	Abi2	Abi2	p7.H5|ABCGAKAH_04524	p7.H5|ABCGAKAH_04524	p7.H5|ABCGAKAH_04524	1	Abi_2

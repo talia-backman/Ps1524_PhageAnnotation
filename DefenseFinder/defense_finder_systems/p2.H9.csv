@@ -1,0 +1,7 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Retron_XI_4	Retron	Retron_XI	p2.H9|MLAJBPPA_01598	p2.H9|MLAJBPPA_01598	p2.H9|MLAJBPPA_01598	1	RT_11
+UserReplicon_Septu_6	Septu	Septu	p2.H9|MLAJBPPA_03155	p2.H9|MLAJBPPA_03156	p2.H9|MLAJBPPA_03155,p2.H9|MLAJBPPA_03156	2	PtuA,PtuB
+UserReplicon_Gabija_1	Gabija	Gabija	p2.H9|MLAJBPPA_03165	p2.H9|MLAJBPPA_03166	p2.H9|MLAJBPPA_03165,p2.H9|MLAJBPPA_03166	2	GajB,GajA
+UserReplicon_Retron_XII_5	Retron	Retron_XII	p2.H9|MLAJBPPA_04347	p2.H9|MLAJBPPA_04347	p2.H9|MLAJBPPA_04347	1	RT_12
+UserReplicon_Retron_I_C_3	Retron	Retron_I_C	p2.H9|MLAJBPPA_05245	p2.H9|MLAJBPPA_05245	p2.H9|MLAJBPPA_05245	1	RT_1_C1
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p2.H9|MLAJBPPA_05255	p2.H9|MLAJBPPA_05256	p2.H9|MLAJBPPA_05255,p2.H9|MLAJBPPA_05256	2	HamB,HamA_1

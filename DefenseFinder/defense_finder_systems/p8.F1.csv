@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_3	Septu	Septu	p8.F1|HNPLFPLB_00981	p8.F1|HNPLFPLB_00982	p8.F1|HNPLFPLB_00981,p8.F1|HNPLFPLB_00982	2	PtuA,PtuB
+UserReplicon_Abi2_1	Abi2	Abi2	p8.F1|HNPLFPLB_02990	p8.F1|HNPLFPLB_02990	p8.F1|HNPLFPLB_02990	1	Abi_2
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p8.F1|HNPLFPLB_04824	p8.F1|HNPLFPLB_04825	p8.F1|HNPLFPLB_04824,p8.F1|HNPLFPLB_04825	2	Type_IV_REases,Type_IV_REases

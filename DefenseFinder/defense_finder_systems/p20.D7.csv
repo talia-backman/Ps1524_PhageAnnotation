@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_3	RM	RM_Type_II	p20.D7|HGMKEOON_00446	p20.D7|HGMKEOON_00447	p20.D7|HGMKEOON_00446,p20.D7|HGMKEOON_00447	2	Type_II_MTases,Type_II_REases
+UserReplicon_Septu_4	Septu	Septu	p20.D7|HGMKEOON_02428	p20.D7|HGMKEOON_02429	p20.D7|HGMKEOON_02428,p20.D7|HGMKEOON_02429	2	PtuB,PtuA
+UserReplicon_RM_Type_I_2	RM	RM_Type_I	p20.D7|HGMKEOON_03591	p20.D7|HGMKEOON_03592	p20.D7|HGMKEOON_03591,p20.D7|HGMKEOON_03592	2	Type_I_REases,Type_I_MTases
+UserReplicon_Abi2_1	Abi2	Abi2	p20.D7|HGMKEOON_04591	p20.D7|HGMKEOON_04591	p20.D7|HGMKEOON_04591	1	Abi_2

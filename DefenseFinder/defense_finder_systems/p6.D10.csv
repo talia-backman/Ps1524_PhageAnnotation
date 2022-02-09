@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_3	Septu	Septu	p6.D10|PCEELEKJ_00709	p6.D10|PCEELEKJ_00710	p6.D10|PCEELEKJ_00709,p6.D10|PCEELEKJ_00710	2	PtuB,PtuA
+UserReplicon_Thoeris2_4	Thoeris	Thoeris2	p6.D10|PCEELEKJ_00950	p6.D10|PCEELEKJ_00953	p6.D10|PCEELEKJ_00950,p6.D10|PCEELEKJ_00953	2	ThsB_Global,ThsA_new_grand
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p6.D10|PCEELEKJ_02084	p6.D10|PCEELEKJ_02084	p6.D10|PCEELEKJ_02084	1	Type_IV_REases
+UserReplicon_RM_Type_II_1	RM	RM_Type_II	p6.D10|PCEELEKJ_05394	p6.D10|PCEELEKJ_05396	p6.D10|PCEELEKJ_05394,p6.D10|PCEELEKJ_05396	2	Type_II_MTases,Type_II_REases

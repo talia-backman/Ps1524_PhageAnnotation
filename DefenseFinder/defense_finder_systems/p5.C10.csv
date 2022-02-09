@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p5.C10|KMLOANKF_00130	p5.C10|KMLOANKF_00130	p5.C10|KMLOANKF_00130	1	AAA_15_DUF4435
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p5.C10|KMLOANKF_01001	p5.C10|KMLOANKF_01002	p5.C10|KMLOANKF_01001,p5.C10|KMLOANKF_01002	2	IetA,IetS
+UserReplicon_Abi2_1	Abi2	Abi2	p5.C10|KMLOANKF_03233	p5.C10|KMLOANKF_03233	p5.C10|KMLOANKF_03233	1	Abi_2

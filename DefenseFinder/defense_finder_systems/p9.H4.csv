@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p9.H4|NABEJJIH_00248	p9.H4|NABEJJIH_00249	p9.H4|NABEJJIH_00248,p9.H4|NABEJJIH_00249	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p9.H4|NABEJJIH_01167	p9.H4|NABEJJIH_01167	p9.H4|NABEJJIH_01167	1	Abi_2
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p9.H4|NABEJJIH_01170	p9.H4|NABEJJIH_01171	p9.H4|NABEJJIH_01170,p9.H4|NABEJJIH_01171	2	HamA_2,HamB
+UserReplicon_dCTPdeaminase_5	dCTPdeaminase	dCTPdeaminase	p9.H4|NABEJJIH_01944	p9.H4|NABEJJIH_01944	p9.H4|NABEJJIH_01944	1	dCTPdeaminase
+UserReplicon_Shedu_4	Shedu	Shedu	p9.H4|NABEJJIH_04735	p9.H4|NABEJJIH_04735	p9.H4|NABEJJIH_04735	1	SduA

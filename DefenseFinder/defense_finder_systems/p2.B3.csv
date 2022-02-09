@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p2.B3|DADJLLAH_01682	p2.B3|DADJLLAH_01682	p2.B3|DADJLLAH_01682	1	AAA_15_DUF4435
+UserReplicon_Abi2_1	Abi2	Abi2	p2.B3|DADJLLAH_04436	p2.B3|DADJLLAH_04436	p2.B3|DADJLLAH_04436	1	Abi_2
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p2.B3|DADJLLAH_05239	p2.B3|DADJLLAH_05240	p2.B3|DADJLLAH_05239,p2.B3|DADJLLAH_05240	2	IetS,IetA

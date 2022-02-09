@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_CBASS_I_2	CBASS	CBASS_I	p25.C10|DLELMEFJ_02183	p25.C10|DLELMEFJ_02186	p25.C10|DLELMEFJ_02183,p25.C10|DLELMEFJ_02184,p25.C10|DLELMEFJ_02186	3	Cyclase_SMODS,2TM_Gros,2TM_Gros
+UserReplicon_Abi2_1	Abi2	Abi2	p25.C10|DLELMEFJ_02189	p25.C10|DLELMEFJ_02189	p25.C10|DLELMEFJ_02189	1	Abi_2

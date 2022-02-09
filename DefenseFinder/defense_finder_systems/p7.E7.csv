@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p7.E7|CBPJHOKM_00775	p7.E7|CBPJHOKM_00777	p7.E7|CBPJHOKM_00775,p7.E7|CBPJHOKM_00777	2	Type_III_MTases,Type_III_REases
+UserReplicon_Rst_DprA-PPRT_3	Rst_DprA-PPRT	Rst_DprA-PPRT	p7.E7|CBPJHOKM_01257	p7.E7|CBPJHOKM_01258	p7.E7|CBPJHOKM_01257,p7.E7|CBPJHOKM_01258	2	DprA,Phosphoribosyltransferase
+UserReplicon_RM_Type_II_1	RM	RM_Type_II	p7.E7|CBPJHOKM_03268	p7.E7|CBPJHOKM_03269	p7.E7|CBPJHOKM_03268,p7.E7|CBPJHOKM_03269	2	Type_II_REases,Type_II_MTases

@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_2	Septu	Septu	p11.G2|FPJDLNJO_00134	p11.G2|FPJDLNJO_00135	p11.G2|FPJDLNJO_00134,p11.G2|FPJDLNJO_00135	2	PtuB,PtuA
+UserReplicon_dCTPdeaminase_4	dCTPdeaminase	dCTPdeaminase	p11.G2|FPJDLNJO_00146	p11.G2|FPJDLNJO_00146	p11.G2|FPJDLNJO_00146	1	dCTPdeaminase
+UserReplicon_RM_Type_III_1	RM	RM_Type_III	p11.G2|FPJDLNJO_01192	p11.G2|FPJDLNJO_01193	p11.G2|FPJDLNJO_01192,p11.G2|FPJDLNJO_01193	2	Type_III_MTases,Type_III_REases
+UserReplicon_Septu_3	Septu	Septu	p11.G2|FPJDLNJO_01935	p11.G2|FPJDLNJO_01936	p11.G2|FPJDLNJO_01935,p11.G2|FPJDLNJO_01936	2	PtuB,PtuA

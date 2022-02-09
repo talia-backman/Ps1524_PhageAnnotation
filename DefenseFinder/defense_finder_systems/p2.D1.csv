@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Rst_Hp-Tm_3	Rst_Hp-tm	Rst_Hp-Tm	p2.D1|BDEGFIAO_00878	p2.D1|BDEGFIAO_00879	p2.D1|BDEGFIAO_00878,p2.D1|BDEGFIAO_00879	2	Hp-Tm,HP
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p2.D1|BDEGFIAO_01057	p2.D1|BDEGFIAO_01058	p2.D1|BDEGFIAO_01057,p2.D1|BDEGFIAO_01058	2	Type_IV_REases,Type_IV_REases
+UserReplicon_dCTPdeaminase_5	dCTPdeaminase	dCTPdeaminase	p2.D1|BDEGFIAO_01296	p2.D1|BDEGFIAO_01296	p2.D1|BDEGFIAO_01296	1	dCTPdeaminase
+UserReplicon_Rst_Sirtuin-like_4	Rst_Sirtuin-like	Rst_Sirtuin-like	p2.D1|BDEGFIAO_03237	p2.D1|BDEGFIAO_03237	p2.D1|BDEGFIAO_03237	1	Sirtuin_like
+UserReplicon_RM_Type_IIG_1	RM	RM_Type_IIG	p2.D1|BDEGFIAO_03286	p2.D1|BDEGFIAO_03286	p2.D1|BDEGFIAO_03286	1	Type_IIG

@@ -1,0 +1,2 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_I_1	RM	RM_Type_I	p8.B4|BLPDFMFF_02162	p8.B4|BLPDFMFF_02168	p8.B4|BLPDFMFF_02162,p8.B4|BLPDFMFF_02165,p8.B4|BLPDFMFF_02168	3	Type_I_MTases,Type_I_REases,Type_I_MTases

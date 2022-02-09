@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gabija_1	Gabija	Gabija	p9.D3|MAHEIMFM_00945	p9.D3|MAHEIMFM_00947	p9.D3|MAHEIMFM_00945,p9.D3|MAHEIMFM_00947	2	GajA,GajB
+UserReplicon_RM_Type_I_2	RM	RM_Type_I	p9.D3|MAHEIMFM_01536	p9.D3|MAHEIMFM_01540	p9.D3|MAHEIMFM_01536,p9.D3|MAHEIMFM_01540	2	Type_I_REases,Type_I_MTases
+UserReplicon_Rst_ATPase_3	Rst_ATPase	Rst_ATPase	p9.D3|MAHEIMFM_04673	p9.D3|MAHEIMFM_04673	p9.D3|MAHEIMFM_04673	1	ATPase

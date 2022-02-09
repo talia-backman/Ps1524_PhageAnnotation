@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Thoeris2_2	Thoeris	Thoeris2	p26.F1|LMPLMMAM_02110	p26.F1|LMPLMMAM_02114	p26.F1|LMPLMMAM_02110,p26.F1|LMPLMMAM_02111,p26.F1|LMPLMMAM_02112,p26.F1|LMPLMMAM_02113,p26.F1|LMPLMMAM_02114	5	ThsB_Global,ThsB_Global,ThsB_Global,ThsB_Global,ThsA_new_grand
+UserReplicon_Abi2_1	Abi2	Abi2	p26.F1|LMPLMMAM_05244	p26.F1|LMPLMMAM_05244	p26.F1|LMPLMMAM_05244	1	Abi_2

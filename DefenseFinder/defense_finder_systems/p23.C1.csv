@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p23.C1|HNGCHBIP_03711	p23.C1|HNGCHBIP_03711	p23.C1|HNGCHBIP_03711	1	Abi_2
+UserReplicon_Hachiman_3	Hachiman	Hachiman	p23.C1|HNGCHBIP_03720	p23.C1|HNGCHBIP_03721	p23.C1|HNGCHBIP_03720,p23.C1|HNGCHBIP_03721	2	HamA_2,HamB
+UserReplicon_RM_Type_IV_4	RM	RM_Type_IV	p23.C1|HNGCHBIP_04167	p23.C1|HNGCHBIP_04168	p23.C1|HNGCHBIP_04167,p23.C1|HNGCHBIP_04168	2	Type_IV_REases,Type_IV_REases
+UserReplicon_DRT_2_2	DRT	DRT_2	p23.C1|HNGCHBIP_05026	p23.C1|HNGCHBIP_05026	p23.C1|HNGCHBIP_05026	1	drt2

@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_I_2	RM	RM_Type_I	p11.C3|NBJMOIKN_00329	p11.C3|NBJMOIKN_00331	p11.C3|NBJMOIKN_00329,p11.C3|NBJMOIKN_00331	2	Type_I_MTases,Type_I_REases
+UserReplicon_RM_Type_II_3	RM	RM_Type_II	p11.C3|NBJMOIKN_03234	p11.C3|NBJMOIKN_03235	p11.C3|NBJMOIKN_03234,p11.C3|NBJMOIKN_03235	2	Type_II_MTases,Type_II_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p11.C3|NBJMOIKN_03236	p11.C3|NBJMOIKN_03236	p11.C3|NBJMOIKN_03236	1	Abi_2

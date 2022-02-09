@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p7.B1|GIMJAAPG_00141	p7.B1|GIMJAAPG_00142	p7.B1|GIMJAAPG_00141,p7.B1|GIMJAAPG_00142	2	Type_III_MTases,Type_III_REases
+UserReplicon_Septu_4	Septu	Septu	p7.B1|GIMJAAPG_01623	p7.B1|GIMJAAPG_01624	p7.B1|GIMJAAPG_01623,p7.B1|GIMJAAPG_01624	2	PtuA,PtuB
+UserReplicon_Abi2_1	Abi2	Abi2	p7.B1|GIMJAAPG_02239	p7.B1|GIMJAAPG_02239	p7.B1|GIMJAAPG_02239	1	Abi_2
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p7.B1|GIMJAAPG_05460	p7.B1|GIMJAAPG_05461	p7.B1|GIMJAAPG_05460,p7.B1|GIMJAAPG_05461	2	Type_IV_REases,Type_IV_REases

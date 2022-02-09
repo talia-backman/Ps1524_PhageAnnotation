@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p6.A5|NPIPAELB_00554	p6.A5|NPIPAELB_00554	p6.A5|NPIPAELB_00554	1	AAA_15_DUF4435
+UserReplicon_Abi2_1	Abi2	Abi2	p6.A5|NPIPAELB_03448	p6.A5|NPIPAELB_03448	p6.A5|NPIPAELB_03448	1	Abi_2
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p6.A5|NPIPAELB_04903	p6.A5|NPIPAELB_04904	p6.A5|NPIPAELB_04903,p6.A5|NPIPAELB_04904	2	IetA,IetS

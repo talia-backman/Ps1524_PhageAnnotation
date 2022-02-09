@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IIG_3	RM	RM_Type_IIG	p25.B11|JJJANPKB_01143	p25.B11|JJJANPKB_01143	p25.B11|JJJANPKB_01143	1	Type_IIG
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p25.B11|JJJANPKB_02897	p25.B11|JJJANPKB_02898	p25.B11|JJJANPKB_02897,p25.B11|JJJANPKB_02898	2	HamA_2,HamB
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p25.B11|JJJANPKB_03593	p25.B11|JJJANPKB_03594	p25.B11|JJJANPKB_03593,p25.B11|JJJANPKB_03594	2	Type_II_REases,Type_II_MTases

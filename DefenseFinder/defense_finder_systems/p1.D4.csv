@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_4	RM	RM_Type_II	p1.D4|IDJIBGAE_00086	p1.D4|IDJIBGAE_00087	p1.D4|IDJIBGAE_00086,p1.D4|IDJIBGAE_00087	2	Type_II_MTases,Type_II_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p1.D4|IDJIBGAE_00088	p1.D4|IDJIBGAE_00088	p1.D4|IDJIBGAE_00088	1	Abi_2
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p1.D4|IDJIBGAE_00633	p1.D4|IDJIBGAE_00635	p1.D4|IDJIBGAE_00633,p1.D4|IDJIBGAE_00635	2	Type_I_MTases,Type_I_REases
+UserReplicon_Druantia_I_2	Druantia	Druantia_I	p1.D4|IDJIBGAE_03170	p1.D4|IDJIBGAE_03173	p1.D4|IDJIBGAE_03170,p1.D4|IDJIBGAE_03171,p1.D4|IDJIBGAE_03172,p1.D4|IDJIBGAE_03173	4	DruB,DruA,DruE_1,DruD

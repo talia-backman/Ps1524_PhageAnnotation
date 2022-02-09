@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Druantia_I_2	Druantia	Druantia_I	p6.B9|BLBDFPED_01893	p6.B9|BLBDFPED_01896	p6.B9|BLBDFPED_01893,p6.B9|BLBDFPED_01894,p6.B9|BLBDFPED_01895,p6.B9|BLBDFPED_01896	4	DruB,DruA,DruE_1,DruD
+UserReplicon_RM_Type_II_4	RM	RM_Type_II	p6.B9|BLBDFPED_02076	p6.B9|BLBDFPED_02077	p6.B9|BLBDFPED_02076,p6.B9|BLBDFPED_02077	2	Type_II_MTases,Type_II_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p6.B9|BLBDFPED_02078	p6.B9|BLBDFPED_02078	p6.B9|BLBDFPED_02078	1	Abi_2
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p6.B9|BLBDFPED_02487	p6.B9|BLBDFPED_02489	p6.B9|BLBDFPED_02487,p6.B9|BLBDFPED_02489	2	Type_I_REases,Type_I_MTases

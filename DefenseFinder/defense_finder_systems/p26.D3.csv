@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p26.D3|BHMACLKO_00764	p26.D3|BHMACLKO_00764	p26.D3|BHMACLKO_00764	1	Abi_2
+UserReplicon_DRT_2_2	DRT	DRT_2	p26.D3|BHMACLKO_01259	p26.D3|BHMACLKO_01259	p26.D3|BHMACLKO_01259	1	drt2
+UserReplicon_Gao_Iet_3	Gao_Iet	Gao_Iet	p26.D3|BHMACLKO_02597	p26.D3|BHMACLKO_02598	p26.D3|BHMACLKO_02597,p26.D3|BHMACLKO_02598	2	IetA,IetS

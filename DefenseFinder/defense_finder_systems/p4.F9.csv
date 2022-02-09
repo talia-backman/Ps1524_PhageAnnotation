@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IIG_3	RM	RM_Type_IIG	p4.F9|FHEFFEBM_01849	p4.F9|FHEFFEBM_01849	p4.F9|FHEFFEBM_01849	1	Type_IIG
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p4.F9|FHEFFEBM_03186	p4.F9|FHEFFEBM_03187	p4.F9|FHEFFEBM_03186,p4.F9|FHEFFEBM_03187	2	HamB,HamA_2
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p4.F9|FHEFFEBM_03685	p4.F9|FHEFFEBM_03686	p4.F9|FHEFFEBM_03685,p4.F9|FHEFFEBM_03686	2	Type_II_REases,Type_II_MTases

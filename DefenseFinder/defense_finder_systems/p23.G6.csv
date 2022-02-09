@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p23.G6|PALLPLBB_00636	p23.G6|PALLPLBB_00637	p23.G6|PALLPLBB_00636,p23.G6|PALLPLBB_00637	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p23.G6|PALLPLBB_01102	p23.G6|PALLPLBB_01102	p23.G6|PALLPLBB_01102	1	Abi_2

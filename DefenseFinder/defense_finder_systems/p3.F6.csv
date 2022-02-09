@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_DRT_4_2	DRT	DRT_4	p3.F6|MEFGLJPG_03229	p3.F6|MEFGLJPG_03229	p3.F6|MEFGLJPG_03229	1	drt4
+UserReplicon_Gao_Upx_3	Gao_Upx	Gao_Upx	p3.F6|MEFGLJPG_03701	p3.F6|MEFGLJPG_03701	p3.F6|MEFGLJPG_03701	1	UpxA
+UserReplicon_RM_Type_III_4	RM	RM_Type_III	p3.F6|MEFGLJPG_04987	p3.F6|MEFGLJPG_04988	p3.F6|MEFGLJPG_04987,p3.F6|MEFGLJPG_04988	2	Type_III_MTases,Type_III_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p3.F6|MEFGLJPG_05193	p3.F6|MEFGLJPG_05193	p3.F6|MEFGLJPG_05193	1	Abi_2

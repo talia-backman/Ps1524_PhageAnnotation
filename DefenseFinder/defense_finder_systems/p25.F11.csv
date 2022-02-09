@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p25.F11|DADNCEEJ_00097	p25.F11|DADNCEEJ_00098	p25.F11|DADNCEEJ_00097,p25.F11|DADNCEEJ_00098	2	Type_II_REases,Type_II_MTases
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p25.F11|DADNCEEJ_02910	p25.F11|DADNCEEJ_02911	p25.F11|DADNCEEJ_02910,p25.F11|DADNCEEJ_02911	2	HamA_2,HamB
+UserReplicon_RM_Type_IIG_3	RM	RM_Type_IIG	p25.F11|DADNCEEJ_03146	p25.F11|DADNCEEJ_03146	p25.F11|DADNCEEJ_03146	1	Type_IIG

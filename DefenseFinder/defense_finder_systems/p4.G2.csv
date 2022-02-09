@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_4	Septu	Septu	p4.G2|LIIBJLGF_00282	p4.G2|LIIBJLGF_00283	p4.G2|LIIBJLGF_00282,p4.G2|LIIBJLGF_00283	2	PtuA,PtuB
+UserReplicon_AbiEii_1	AbiEii	AbiEii	p4.G2|LIIBJLGF_00824	p4.G2|LIIBJLGF_00825	p4.G2|LIIBJLGF_00824,p4.G2|LIIBJLGF_00825	2	AbiEi_3,AbiEii
+UserReplicon_RM_Type_II_3	RM	RM_Type_II	p4.G2|LIIBJLGF_04521	p4.G2|LIIBJLGF_04522	p4.G2|LIIBJLGF_04521,p4.G2|LIIBJLGF_04522	2	Type_II_MTases,Type_II_REases
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p4.G2|LIIBJLGF_04776	p4.G2|LIIBJLGF_04777	p4.G2|LIIBJLGF_04776,p4.G2|LIIBJLGF_04777	2	IetS,IetA

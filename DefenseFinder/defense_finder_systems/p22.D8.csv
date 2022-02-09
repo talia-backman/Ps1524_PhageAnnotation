@@ -1,0 +1,2 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_III_1	RM	RM_Type_III	p22.D8|OPCJKAFM_02234	p22.D8|OPCJKAFM_02236	p22.D8|OPCJKAFM_02234,p22.D8|OPCJKAFM_02236	2	Type_III_MTases,Type_III_REases

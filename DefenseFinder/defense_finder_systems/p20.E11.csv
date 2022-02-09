@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p20.E11|JMEEECAI_03558	p20.E11|JMEEECAI_03558	p20.E11|JMEEECAI_03558	1	Abi_2
+UserReplicon_Thoeris2_2	Thoeris	Thoeris2	p20.E11|JMEEECAI_04246	p20.E11|JMEEECAI_04250	p20.E11|JMEEECAI_04246,p20.E11|JMEEECAI_04247,p20.E11|JMEEECAI_04248,p20.E11|JMEEECAI_04249,p20.E11|JMEEECAI_04250	5	ThsB_Global,ThsB_Global,ThsB_Global,ThsB_Global,ThsA_new_grand

@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gabija_1	Gabija	Gabija	p3.G3|ELOMNJPH_00322	p3.G3|ELOMNJPH_00323	p3.G3|ELOMNJPH_00322,p3.G3|ELOMNJPH_00323	2	GajA,GajB
+UserReplicon_Septu_4	Septu	Septu	p3.G3|ELOMNJPH_00479	p3.G3|ELOMNJPH_00480	p3.G3|ELOMNJPH_00479,p3.G3|ELOMNJPH_00480	2	PtuB,PtuA
+UserReplicon_Septu_5	Septu	Septu	p3.G3|ELOMNJPH_00886	p3.G3|ELOMNJPH_00887	p3.G3|ELOMNJPH_00886,p3.G3|ELOMNJPH_00887	2	PtuA,PtuB
+UserReplicon_Gabija_2	Gabija	Gabija	p3.G3|ELOMNJPH_01809	p3.G3|ELOMNJPH_01810	p3.G3|ELOMNJPH_01809,p3.G3|ELOMNJPH_01810	2	GajA,GajB
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p3.G3|ELOMNJPH_02011	p3.G3|ELOMNJPH_02012	p3.G3|ELOMNJPH_02011,p3.G3|ELOMNJPH_02012	2	Type_IV_REases,Type_IV_REases

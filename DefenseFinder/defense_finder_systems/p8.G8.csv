@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_2	Septu	Septu	p8.G8|JKIDDGBP_03863	p8.G8|JKIDDGBP_03864	p8.G8|JKIDDGBP_03863,p8.G8|JKIDDGBP_03864	2	PtuA,PtuB
+UserReplicon_DISARM_1_1	DISARM	DISARM_1	p8.G8|JKIDDGBP_04752	p8.G8|JKIDDGBP_04756	p8.G8|JKIDDGBP_04752,p8.G8|JKIDDGBP_04753,p8.G8|JKIDDGBP_04754,p8.G8|JKIDDGBP_04755,p8.G8|JKIDDGBP_04756	5	drmC,drmB,drmA,drmMI,drmD

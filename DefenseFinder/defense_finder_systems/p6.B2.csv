@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_5	Septu	Septu	p6.B2|HNELGEGE_00116	p6.B2|HNELGEGE_00117	p6.B2|HNELGEGE_00116,p6.B2|HNELGEGE_00117	2	PtuA,PtuB
+UserReplicon_Gao_Iet_4	Gao_Iet	Gao_Iet	p6.B2|HNELGEGE_01186	p6.B2|HNELGEGE_01187	p6.B2|HNELGEGE_01186,p6.B2|HNELGEGE_01187	2	IetS,IetA
+UserReplicon_Abi2_1	Abi2	Abi2	p6.B2|HNELGEGE_01776	p6.B2|HNELGEGE_01776	p6.B2|HNELGEGE_01776	1	Abi_2
+UserReplicon_Gabija_3	Gabija	Gabija	p6.B2|HNELGEGE_03815	p6.B2|HNELGEGE_03816	p6.B2|HNELGEGE_03815,p6.B2|HNELGEGE_03816	2	GajA,GajB
+UserReplicon_Abi2_2	Abi2	Abi2	p6.B2|HNELGEGE_04367	p6.B2|HNELGEGE_04367	p6.B2|HNELGEGE_04367	1	Abi_2

@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p22.C8|PICIDKAE_00776	p22.C8|PICIDKAE_00778	p22.C8|PICIDKAE_00776,p22.C8|PICIDKAE_00778	2	Type_III_MTases,Type_III_REases
+UserReplicon_RM_Type_II_1	RM	RM_Type_II	p22.C8|PICIDKAE_02176	p22.C8|PICIDKAE_02177	p22.C8|PICIDKAE_02176,p22.C8|PICIDKAE_02177	2	Type_II_MTases,Type_II_REases
+UserReplicon_Rst_DprA-PPRT_3	Rst_DprA-PPRT	Rst_DprA-PPRT	p22.C8|PICIDKAE_03343	p22.C8|PICIDKAE_03344	p22.C8|PICIDKAE_03343,p22.C8|PICIDKAE_03344	2	Phosphoribosyltransferase,DprA

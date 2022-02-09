@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p22.E1|AEAPFMCG_00146	p22.E1|AEAPFMCG_00146	p22.E1|AEAPFMCG_00146	1	Abi_2
+UserReplicon_Thoeris2_2	Thoeris	Thoeris2	p22.E1|AEAPFMCG_03483	p22.E1|AEAPFMCG_03487	p22.E1|AEAPFMCG_03483,p22.E1|AEAPFMCG_03484,p22.E1|AEAPFMCG_03485,p22.E1|AEAPFMCG_03486,p22.E1|AEAPFMCG_03487	5	ThsB_Global,ThsB_Global,ThsB_Global,ThsB_Global,ThsA_new_grand

@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Druantia_I_2	Druantia	Druantia_I	p8.B7|FIHGIMFJ_03007	p8.B7|FIHGIMFJ_03010	p8.B7|FIHGIMFJ_03007,p8.B7|FIHGIMFJ_03008,p8.B7|FIHGIMFJ_03009,p8.B7|FIHGIMFJ_03010	4	DruB,DruA,DruE_1,DruD
+UserReplicon_RM_Type_II_4	RM	RM_Type_II	p8.B7|FIHGIMFJ_04115	p8.B7|FIHGIMFJ_04116	p8.B7|FIHGIMFJ_04115,p8.B7|FIHGIMFJ_04116	2	Type_II_MTases,Type_II_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p8.B7|FIHGIMFJ_04117	p8.B7|FIHGIMFJ_04117	p8.B7|FIHGIMFJ_04117	1	Abi_2
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p8.B7|FIHGIMFJ_04662	p8.B7|FIHGIMFJ_04664	p8.B7|FIHGIMFJ_04662,p8.B7|FIHGIMFJ_04664	2	Type_I_MTases,Type_I_REases

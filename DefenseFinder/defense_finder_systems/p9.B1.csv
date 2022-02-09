@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p9.B1|IFFBMLGF_00230	p9.B1|IFFBMLGF_00231	p9.B1|IFFBMLGF_00230,p9.B1|IFFBMLGF_00231	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Septu_4	Septu	Septu	p9.B1|IFFBMLGF_00942	p9.B1|IFFBMLGF_00943	p9.B1|IFFBMLGF_00942,p9.B1|IFFBMLGF_00943	2	PtuA,PtuB
+UserReplicon_Abi2_1	Abi2	Abi2	p9.B1|IFFBMLGF_03504	p9.B1|IFFBMLGF_03504	p9.B1|IFFBMLGF_03504	1	Abi_2
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p9.B1|IFFBMLGF_04112	p9.B1|IFFBMLGF_04113	p9.B1|IFFBMLGF_04112,p9.B1|IFFBMLGF_04113	2	Type_III_MTases,Type_III_REases

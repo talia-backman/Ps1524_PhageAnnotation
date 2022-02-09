@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Wadjet_III_2	Wadjet	Wadjet_III	p12.H8|HMPIKJFE_01368	p12.H8|HMPIKJFE_01371	p12.H8|HMPIKJFE_01368,p12.H8|HMPIKJFE_01369,p12.H8|HMPIKJFE_01370,p12.H8|HMPIKJFE_01371	4	JetD_III,JetC_III,JetB_III,JetA_III
+UserReplicon_Gao_TerY_1	Gao_TerY	Gao_TerY	p12.H8|HMPIKJFE_02994	p12.H8|HMPIKJFE_02996	p12.H8|HMPIKJFE_02994,p12.H8|HMPIKJFE_02995,p12.H8|HMPIKJFE_02996	3	TerYA,TerYB,TerYC

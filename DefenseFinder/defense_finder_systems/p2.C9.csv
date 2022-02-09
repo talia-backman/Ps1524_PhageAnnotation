@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gao_Iet_3	Gao_Iet	Gao_Iet	p2.C9|OHINHOCN_01117	p2.C9|OHINHOCN_01118	p2.C9|OHINHOCN_01117,p2.C9|OHINHOCN_01118	2	IetA,IetS
+UserReplicon_AVAST_I_1	AVAST	AVAST_I	p2.C9|OHINHOCN_01119	p2.C9|OHINHOCN_01121	p2.C9|OHINHOCN_01119,p2.C9|OHINHOCN_01120,p2.C9|OHINHOCN_01121	3	Avs1A,Avs1B,Avs1C
+UserReplicon_Gao_Hhe_2	Gao_Hhe	Gao_Hhe	p2.C9|OHINHOCN_02921	p2.C9|OHINHOCN_02921	p2.C9|OHINHOCN_02921	1	HheA

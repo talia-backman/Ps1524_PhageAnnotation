@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p13.G3|DHCFMJHC_03514	p13.G3|DHCFMJHC_03514	p13.G3|DHCFMJHC_03514	1	Abi_2
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p13.G3|DHCFMJHC_03517	p13.G3|DHCFMJHC_03518	p13.G3|DHCFMJHC_03517,p13.G3|DHCFMJHC_03518	2	HamA_2,HamB
+UserReplicon_Shedu_4	Shedu	Shedu	p13.G3|DHCFMJHC_03582	p13.G3|DHCFMJHC_03582	p13.G3|DHCFMJHC_03582	1	SduA
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p13.G3|DHCFMJHC_04028	p13.G3|DHCFMJHC_04029	p13.G3|DHCFMJHC_04028,p13.G3|DHCFMJHC_04029	2	Type_IV_REases,Type_IV_REases
+UserReplicon_dCTPdeaminase_5	dCTPdeaminase	dCTPdeaminase	p13.G3|DHCFMJHC_05197	p13.G3|DHCFMJHC_05197	p13.G3|DHCFMJHC_05197	1	dCTPdeaminase

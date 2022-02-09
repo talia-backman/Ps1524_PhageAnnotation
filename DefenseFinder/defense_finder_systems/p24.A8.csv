@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p24.A8|NLLGLCDO_01636	p24.A8|NLLGLCDO_01640	p24.A8|NLLGLCDO_01636,p24.A8|NLLGLCDO_01640	2	Type_I_REases,Type_I_MTases
+UserReplicon_Septu_4	Septu	Septu	p24.A8|NLLGLCDO_01638	p24.A8|NLLGLCDO_01639	p24.A8|NLLGLCDO_01638,p24.A8|NLLGLCDO_01639	2	PtuA,PtuB
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p24.A8|NLLGLCDO_02773	p24.A8|NLLGLCDO_02774	p24.A8|NLLGLCDO_02773,p24.A8|NLLGLCDO_02774	2	HamA_1,HamB
+UserReplicon_Gabija_1	Gabija	Gabija	p24.A8|NLLGLCDO_05256	p24.A8|NLLGLCDO_05257	p24.A8|NLLGLCDO_05256,p24.A8|NLLGLCDO_05257	2	GajB,GajA

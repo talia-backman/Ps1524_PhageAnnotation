@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_DRT_4_2	DRT	DRT_4	p7.F5|NHKADCNH_00330	p7.F5|NHKADCNH_00330	p7.F5|NHKADCNH_00330	1	drt4
+UserReplicon_Gao_Upx_3	Gao_Upx	Gao_Upx	p7.F5|NHKADCNH_01543	p7.F5|NHKADCNH_01543	p7.F5|NHKADCNH_01543	1	UpxA
+UserReplicon_Abi2_1	Abi2	Abi2	p7.F5|NHKADCNH_04731	p7.F5|NHKADCNH_04731	p7.F5|NHKADCNH_04731	1	Abi_2
+UserReplicon_RM_Type_III_4	RM	RM_Type_III	p7.F5|NHKADCNH_04866	p7.F5|NHKADCNH_04867	p7.F5|NHKADCNH_04866,p7.F5|NHKADCNH_04867	2	Type_III_REases,Type_III_MTases

@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p23.D7|EKJHLMFH_02385	p23.D7|EKJHLMFH_02385	p23.D7|EKJHLMFH_02385	1	Abi_2
+UserReplicon_Thoeris2_3	Thoeris	Thoeris2	p23.D7|EKJHLMFH_03101	p23.D7|EKJHLMFH_03102	p23.D7|EKJHLMFH_03101,p23.D7|EKJHLMFH_03102	2	ThsB_Global,ThsA_new_grand
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p23.D7|EKJHLMFH_03868	p23.D7|EKJHLMFH_03869	p23.D7|EKJHLMFH_03868,p23.D7|EKJHLMFH_03869	2	Type_II_REases,Type_II_MTases

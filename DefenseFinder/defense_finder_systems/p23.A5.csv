@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p23.A5|DMHGKDPD_00146	p23.A5|DMHGKDPD_00148	p23.A5|DMHGKDPD_00146,p23.A5|DMHGKDPD_00147,p23.A5|DMHGKDPD_00148	3	Type_IV_REases,Type_IV_REases,Type_IV_REases
+UserReplicon_Septu_3	Septu	Septu	p23.A5|DMHGKDPD_00906	p23.A5|DMHGKDPD_00907	p23.A5|DMHGKDPD_00906,p23.A5|DMHGKDPD_00907	2	PtuA,PtuB
+UserReplicon_RM_Type_III_1	RM	RM_Type_III	p23.A5|DMHGKDPD_01803	p23.A5|DMHGKDPD_01804	p23.A5|DMHGKDPD_01803,p23.A5|DMHGKDPD_01804	2	Type_III_MTases,Type_III_REases
+UserReplicon_Thoeris2_4	Thoeris	Thoeris2	p23.A5|DMHGKDPD_02737	p23.A5|DMHGKDPD_02738	p23.A5|DMHGKDPD_02737,p23.A5|DMHGKDPD_02738	2	ThsA_new_petit,ThsB_Global

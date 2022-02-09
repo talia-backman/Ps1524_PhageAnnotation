@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p13.F3|GPMIHNGP_00455	p13.F3|GPMIHNGP_00456	p13.F3|GPMIHNGP_00455,p13.F3|GPMIHNGP_00456	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p13.F3|GPMIHNGP_01013	p13.F3|GPMIHNGP_01014	p13.F3|GPMIHNGP_01013,p13.F3|GPMIHNGP_01014	2	HamB,HamA_1
+UserReplicon_Abi2_1	Abi2	Abi2	p13.F3|GPMIHNGP_01601	p13.F3|GPMIHNGP_01601	p13.F3|GPMIHNGP_01601	1	Abi_2
+UserReplicon_Rst_HelicaseDUF2290_4	Rst_HelicaseDUF2290	Rst_HelicaseDUF2290	p13.F3|GPMIHNGP_03445	p13.F3|GPMIHNGP_03446	p13.F3|GPMIHNGP_03445,p13.F3|GPMIHNGP_03446	2	Helicase,DUF2290

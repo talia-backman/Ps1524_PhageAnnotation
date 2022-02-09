@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Retron_I_C_3	Retron	Retron_I_C	p11.D4|NBBPLJKJ_00112	p11.D4|NBBPLJKJ_00112	p11.D4|NBBPLJKJ_00112	1	RT_1_C1
+UserReplicon_Abi2_1	Abi2	Abi2	p11.D4|NBBPLJKJ_00576	p11.D4|NBBPLJKJ_00576	p11.D4|NBBPLJKJ_00576	1	Abi_2
+UserReplicon_Gabija_2	Gabija	Gabija	p11.D4|NBBPLJKJ_02614	p11.D4|NBBPLJKJ_02615	p11.D4|NBBPLJKJ_02614,p11.D4|NBBPLJKJ_02615	2	GajB,GajA

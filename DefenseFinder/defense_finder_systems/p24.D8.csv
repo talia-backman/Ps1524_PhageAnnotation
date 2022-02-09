@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gabija_1	Gabija	Gabija	p24.D8|HBAMMGAE_00980	p24.D8|HBAMMGAE_00981	p24.D8|HBAMMGAE_00980,p24.D8|HBAMMGAE_00981	2	GajA,GajB
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p24.D8|HBAMMGAE_01961	p24.D8|HBAMMGAE_01965	p24.D8|HBAMMGAE_01961,p24.D8|HBAMMGAE_01965	2	Type_I_REases,Type_I_MTases
+UserReplicon_Septu_4	Septu	Septu	p24.D8|HBAMMGAE_01963	p24.D8|HBAMMGAE_01964	p24.D8|HBAMMGAE_01963,p24.D8|HBAMMGAE_01964	2	PtuA,PtuB
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p24.D8|HBAMMGAE_04004	p24.D8|HBAMMGAE_04005	p24.D8|HBAMMGAE_04004,p24.D8|HBAMMGAE_04005	2	HamA_1,HamB

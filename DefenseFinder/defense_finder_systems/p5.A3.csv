@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p5.A3|CAPEPDPG_01629	p5.A3|CAPEPDPG_01630	p5.A3|CAPEPDPG_01629,p5.A3|CAPEPDPG_01630	2	IetS,IetA
+UserReplicon_Abi2_1	Abi2	Abi2	p5.A3|CAPEPDPG_04856	p5.A3|CAPEPDPG_04856	p5.A3|CAPEPDPG_04856	1	Abi_2
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p5.A3|CAPEPDPG_05184	p5.A3|CAPEPDPG_05184	p5.A3|CAPEPDPG_05184	1	AAA_15_DUF4435

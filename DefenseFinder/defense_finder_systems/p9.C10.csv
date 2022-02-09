@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p9.C10|JOOCPEFA_01599	p9.C10|JOOCPEFA_01599	p9.C10|JOOCPEFA_01599	1	Abi_2
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p9.C10|JOOCPEFA_04158	p9.C10|JOOCPEFA_04158	p9.C10|JOOCPEFA_04158	1	AAA_15_DUF4435
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p9.C10|JOOCPEFA_04846	p9.C10|JOOCPEFA_04847	p9.C10|JOOCPEFA_04846,p9.C10|JOOCPEFA_04847	2	IetA,IetS

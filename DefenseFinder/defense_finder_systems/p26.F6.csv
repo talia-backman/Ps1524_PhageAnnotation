@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_2	Septu	Septu	p26.F6|GNEJMCJH_00039	p26.F6|GNEJMCJH_00040	p26.F6|GNEJMCJH_00039,p26.F6|GNEJMCJH_00040	2	PtuA,PtuB
+UserReplicon_Shedu_3	Shedu	Shedu	p26.F6|GNEJMCJH_01661	p26.F6|GNEJMCJH_01661	p26.F6|GNEJMCJH_01661	1	SduA
+UserReplicon_Retron_VI_1	Retron	Retron_VI	p26.F6|GNEJMCJH_03448	p26.F6|GNEJMCJH_03449	p26.F6|GNEJMCJH_03448,p26.F6|GNEJMCJH_03449	2	HTH,RT_Tot

@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p25.A12|JNHLCIDM_01004	p25.A12|JNHLCIDM_01004	p25.A12|JNHLCIDM_01004	1	Abi_2
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p25.A12|JNHLCIDM_04117	p25.A12|JNHLCIDM_04118	p25.A12|JNHLCIDM_04117,p25.A12|JNHLCIDM_04118	2	Type_I_MTases,Type_I_REases
+UserReplicon_Abi2_2	Abi2	Abi2	p25.A12|JNHLCIDM_04215	p25.A12|JNHLCIDM_04215	p25.A12|JNHLCIDM_04215	1	Abi_2

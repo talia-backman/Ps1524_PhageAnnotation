@@ -1,0 +1,2 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Rst_DprA-PPRT_1	Rst_DprA-PPRT	Rst_DprA-PPRT	p20.A10|CJKAHOGG_01189	p20.A10|CJKAHOGG_01190	p20.A10|CJKAHOGG_01189,p20.A10|CJKAHOGG_01190	2	DprA,Phosphoribosyltransferase

@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p4.A5|FLOIMAJO_01330	p4.A5|FLOIMAJO_01330	p4.A5|FLOIMAJO_01330	1	Abi_2
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p4.A5|FLOIMAJO_02008	p4.A5|FLOIMAJO_02009	p4.A5|FLOIMAJO_02008,p4.A5|FLOIMAJO_02009	2	IetS,IetA

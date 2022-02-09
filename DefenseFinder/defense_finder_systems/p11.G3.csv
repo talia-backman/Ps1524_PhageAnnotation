@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Hachiman_3	Hachiman	Hachiman	p11.G3|OKAGMIMC_00919	p11.G3|OKAGMIMC_00920	p11.G3|OKAGMIMC_00919,p11.G3|OKAGMIMC_00920	2	HamA_1,HamB
+UserReplicon_Dsr_I_1	Dsr	Dsr_I	p11.G3|OKAGMIMC_05195	p11.G3|OKAGMIMC_05195	p11.G3|OKAGMIMC_05195	1	Dsr1
+UserReplicon_Gabija_2	Gabija	Gabija	p11.G3|OKAGMIMC_05226	p11.G3|OKAGMIMC_05227	p11.G3|OKAGMIMC_05226,p11.G3|OKAGMIMC_05227	2	GajB,GajA

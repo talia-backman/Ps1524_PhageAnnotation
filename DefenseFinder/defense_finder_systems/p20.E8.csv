@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p20.E8|HAJPCCJM_02292	p20.E8|HAJPCCJM_02296	p20.E8|HAJPCCJM_02292,p20.E8|HAJPCCJM_02296	2	Type_I_MTases,Type_I_REases
+UserReplicon_Septu_4	Septu	Septu	p20.E8|HAJPCCJM_02293	p20.E8|HAJPCCJM_02294	p20.E8|HAJPCCJM_02293,p20.E8|HAJPCCJM_02294	2	PtuB,PtuA
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p20.E8|HAJPCCJM_02745	p20.E8|HAJPCCJM_02746	p20.E8|HAJPCCJM_02745,p20.E8|HAJPCCJM_02746	2	HamA_1,HamB
+UserReplicon_Gabija_1	Gabija	Gabija	p20.E8|HAJPCCJM_05266	p20.E8|HAJPCCJM_05267	p20.E8|HAJPCCJM_05266,p20.E8|HAJPCCJM_05267	2	GajB,GajA

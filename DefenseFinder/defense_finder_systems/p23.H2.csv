@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p23.H2|IADLFBBB_03409	p23.H2|IADLFBBB_03409	p23.H2|IADLFBBB_03409	1	Abi_2
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p23.H2|IADLFBBB_04619	p23.H2|IADLFBBB_04620	p23.H2|IADLFBBB_04619,p23.H2|IADLFBBB_04620	2	Type_IV_REases,Type_IV_REases

@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_III_3	RM	RM_Type_III	p7.F2|FCDIJEGF_00659	p7.F2|FCDIJEGF_00660	p7.F2|FCDIJEGF_00659,p7.F2|FCDIJEGF_00660	2	Type_III_MTases,Type_III_REases
+UserReplicon_AbiH_1	AbiH	AbiH	p7.F2|FCDIJEGF_00703	p7.F2|FCDIJEGF_00703	p7.F2|FCDIJEGF_00703	1	AbiH
+UserReplicon_Gabija_2	Gabija	Gabija	p7.F2|FCDIJEGF_01274	p7.F2|FCDIJEGF_01275	p7.F2|FCDIJEGF_01274,p7.F2|FCDIJEGF_01275	2	GajA,GajB
+UserReplicon_Shedu_4	Shedu	Shedu	p7.F2|FCDIJEGF_01278	p7.F2|FCDIJEGF_01278	p7.F2|FCDIJEGF_01278	1	SduA

@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_dCTPdeaminase_5	dCTPdeaminase	dCTPdeaminase	p5.H4|BLCPPFDP_02447	p5.H4|BLCPPFDP_02447	p5.H4|BLCPPFDP_02447	1	dCTPdeaminase
+UserReplicon_Shedu_4	Shedu	Shedu	p5.H4|BLCPPFDP_03553	p5.H4|BLCPPFDP_03553	p5.H4|BLCPPFDP_03553	1	SduA
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p5.H4|BLCPPFDP_04210	p5.H4|BLCPPFDP_04211	p5.H4|BLCPPFDP_04210,p5.H4|BLCPPFDP_04211	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p5.H4|BLCPPFDP_05008	p5.H4|BLCPPFDP_05008	p5.H4|BLCPPFDP_05008	1	Abi_2
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p5.H4|BLCPPFDP_05011	p5.H4|BLCPPFDP_05012	p5.H4|BLCPPFDP_05011,p5.H4|BLCPPFDP_05012	2	HamA_2,HamB

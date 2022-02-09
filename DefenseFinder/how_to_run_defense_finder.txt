@@ -1,0 +1,4 @@
+Go to cluster, path= /uufs/chpc.utah.edu/common/home/karasov-group1/phages/genome_annotation/defense_finder/ps_genomes
+Open your conda environment named: defensefinder
+Run this command but replace genome.faa with your genome of interest: defense-finder run genome.faa
+

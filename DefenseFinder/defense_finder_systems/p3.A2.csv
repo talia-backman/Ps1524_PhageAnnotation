@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_4	Septu	Septu	p3.A2|GJMKCGFN_00111	p3.A2|GJMKCGFN_00112	p3.A2|GJMKCGFN_00111,p3.A2|GJMKCGFN_00112	2	PtuA,PtuB
+UserReplicon_Abi2_1	Abi2	Abi2	p3.A2|GJMKCGFN_01025	p3.A2|GJMKCGFN_01025	p3.A2|GJMKCGFN_01025	1	Abi_2
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p3.A2|GJMKCGFN_04218	p3.A2|GJMKCGFN_04219	p3.A2|GJMKCGFN_04218,p3.A2|GJMKCGFN_04219	2	Type_III_MTases,Type_III_REases
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p3.A2|GJMKCGFN_05449	p3.A2|GJMKCGFN_05450	p3.A2|GJMKCGFN_05449,p3.A2|GJMKCGFN_05450	2	Type_IV_REases,Type_IV_REases

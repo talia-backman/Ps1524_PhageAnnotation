@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p7.A9|PLAHICFI_01616	p7.A9|PLAHICFI_01616	p7.A9|PLAHICFI_01616	1	Abi_2
+UserReplicon_Septu_3	Septu	Septu	p7.A9|PLAHICFI_02511	p7.A9|PLAHICFI_02512	p7.A9|PLAHICFI_02511,p7.A9|PLAHICFI_02512	2	PtuB,PtuA
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p7.A9|PLAHICFI_03049	p7.A9|PLAHICFI_03050	p7.A9|PLAHICFI_03049,p7.A9|PLAHICFI_03050	2	Type_IV_REases,Type_IV_REases

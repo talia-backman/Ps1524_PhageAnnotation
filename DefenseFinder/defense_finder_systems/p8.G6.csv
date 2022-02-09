@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p8.G6|LLEFPGAH_00505	p8.G6|LLEFPGAH_00506	p8.G6|LLEFPGAH_00505,p8.G6|LLEFPGAH_00506	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p8.G6|LLEFPGAH_00767	p8.G6|LLEFPGAH_00767	p8.G6|LLEFPGAH_00767	1	Abi_2
+UserReplicon_Gao_Her_DUF_2	Gao_Her	Gao_Her_DUF	p8.G6|LLEFPGAH_02609	p8.G6|LLEFPGAH_02610	p8.G6|LLEFPGAH_02609,p8.G6|LLEFPGAH_02610	2	DUF4297,HerA_DUF

@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Rst_NACHT_4	Rst_NACHT	Rst_NACHT	p8.D11|GPNKGJMJ_00284	p8.D11|GPNKGJMJ_00284	p8.D11|GPNKGJMJ_00284	1	NACHT
+UserReplicon_Rst_ATPase_3	Rst_ATPase	Rst_ATPase	p8.D11|GPNKGJMJ_00308	p8.D11|GPNKGJMJ_00308	p8.D11|GPNKGJMJ_00308	1	ATPase
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p8.D11|GPNKGJMJ_03229	p8.D11|GPNKGJMJ_03230	p8.D11|GPNKGJMJ_03229,p8.D11|GPNKGJMJ_03230	2	IetA,IetS
+UserReplicon_Gabija_1	Gabija	Gabija	p8.D11|GPNKGJMJ_03343	p8.D11|GPNKGJMJ_03344	p8.D11|GPNKGJMJ_03343,p8.D11|GPNKGJMJ_03344	2	GajA,GajB

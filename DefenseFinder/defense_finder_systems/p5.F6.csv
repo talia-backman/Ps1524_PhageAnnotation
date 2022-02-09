@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p5.F6|PMFIMFIP_01236	p5.F6|PMFIMFIP_01236	p5.F6|PMFIMFIP_01236	1	Abi_2
+UserReplicon_RM_Type_II_3	RM	RM_Type_II	p5.F6|PMFIMFIP_02652	p5.F6|PMFIMFIP_02653	p5.F6|PMFIMFIP_02652,p5.F6|PMFIMFIP_02653	2	Type_II_MTases,Type_II_REases
+UserReplicon_RM_Type_I_2	RM	RM_Type_I	p5.F6|PMFIMFIP_03678	p5.F6|PMFIMFIP_03679	p5.F6|PMFIMFIP_03678,p5.F6|PMFIMFIP_03679	2	Type_I_MTases,Type_I_REases
+UserReplicon_Septu_4	Septu	Septu	p5.F6|PMFIMFIP_03921	p5.F6|PMFIMFIP_03922	p5.F6|PMFIMFIP_03921,p5.F6|PMFIMFIP_03922	2	PtuA,PtuB

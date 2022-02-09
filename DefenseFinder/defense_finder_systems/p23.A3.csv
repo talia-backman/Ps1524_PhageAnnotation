@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p23.A3|NKNBLILM_02431	p23.A3|NKNBLILM_02431	p23.A3|NKNBLILM_02431	1	Abi_2
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p23.A3|NKNBLILM_03474	p23.A3|NKNBLILM_03475	p23.A3|NKNBLILM_03474,p23.A3|NKNBLILM_03475	2	Type_I_REases,Type_I_MTases
+UserReplicon_Nhi_2	Nhi	Nhi	p23.A3|NKNBLILM_05354	p23.A3|NKNBLILM_05354	p23.A3|NKNBLILM_05354	1	Nhi
+UserReplicon_Septu_4	Septu	Septu	p23.A3|NKNBLILM_05367	p23.A3|NKNBLILM_05368	p23.A3|NKNBLILM_05367,p23.A3|NKNBLILM_05368	2	PtuB,PtuA

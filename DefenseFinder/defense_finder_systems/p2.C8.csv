@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p2.C8|PMEFEKIG_00045	p2.C8|PMEFEKIG_00047	p2.C8|PMEFEKIG_00045,p2.C8|PMEFEKIG_00047	2	Type_I_REases,Type_I_MTases
+UserReplicon_Abi2_1	Abi2	Abi2	p2.C8|PMEFEKIG_00592	p2.C8|PMEFEKIG_00592	p2.C8|PMEFEKIG_00592	1	Abi_2
+UserReplicon_RM_Type_II_4	RM	RM_Type_II	p2.C8|PMEFEKIG_00593	p2.C8|PMEFEKIG_00594	p2.C8|PMEFEKIG_00593,p2.C8|PMEFEKIG_00594	2	Type_II_REases,Type_II_MTases
+UserReplicon_Druantia_I_2	Druantia	Druantia_I	p2.C8|PMEFEKIG_04180	p2.C8|PMEFEKIG_04183	p2.C8|PMEFEKIG_04180,p2.C8|PMEFEKIG_04181,p2.C8|PMEFEKIG_04182,p2.C8|PMEFEKIG_04183	4	DruD,DruE_1,DruA,DruB

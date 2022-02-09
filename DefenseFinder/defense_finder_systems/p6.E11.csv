@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IIG_2	RM	RM_Type_IIG	p6.E11|PGFPHEMB_02137	p6.E11|PGFPHEMB_02137	p6.E11|PGFPHEMB_02137	1	Type_IIG
+UserReplicon_RM_Type_II_1	RM	RM_Type_II	p6.E11|PGFPHEMB_02169	p6.E11|PGFPHEMB_02170	p6.E11|PGFPHEMB_02169,p6.E11|PGFPHEMB_02170	2	Type_II_MTases,Type_II_REases
+UserReplicon_Septu_4	Septu	Septu	p6.E11|PGFPHEMB_03783	p6.E11|PGFPHEMB_03784	p6.E11|PGFPHEMB_03783,p6.E11|PGFPHEMB_03784	2	PtuB,PtuA
+UserReplicon_Rst_DprA-PPRT_3	Rst_DprA-PPRT	Rst_DprA-PPRT	p6.E11|PGFPHEMB_04717	p6.E11|PGFPHEMB_04718	p6.E11|PGFPHEMB_04717,p6.E11|PGFPHEMB_04718	2	DprA,Phosphoribosyltransferase

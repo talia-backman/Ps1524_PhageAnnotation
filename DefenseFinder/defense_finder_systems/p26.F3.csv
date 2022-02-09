@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_DRT_2_2	DRT	DRT_2	p26.F3|MDMKKHEI_01194	p26.F3|MDMKKHEI_01194	p26.F3|MDMKKHEI_01194	1	drt2
+UserReplicon_Gao_Iet_3	Gao_Iet	Gao_Iet	p26.F3|MDMKKHEI_01381	p26.F3|MDMKKHEI_01382	p26.F3|MDMKKHEI_01381,p26.F3|MDMKKHEI_01382	2	IetS,IetA
+UserReplicon_Abi2_1	Abi2	Abi2	p26.F3|MDMKKHEI_04295	p26.F3|MDMKKHEI_04295	p26.F3|MDMKKHEI_04295	1	Abi_2

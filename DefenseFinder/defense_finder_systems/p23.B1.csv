@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_4	RM	RM_Type_IV	p23.B1|ONKKMIHJ_00605	p23.B1|ONKKMIHJ_00606	p23.B1|ONKKMIHJ_00605,p23.B1|ONKKMIHJ_00606	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Hachiman_3	Hachiman	Hachiman	p23.B1|ONKKMIHJ_03365	p23.B1|ONKKMIHJ_03366	p23.B1|ONKKMIHJ_03365,p23.B1|ONKKMIHJ_03366	2	HamB,HamA_2
+UserReplicon_Abi2_1	Abi2	Abi2	p23.B1|ONKKMIHJ_03375	p23.B1|ONKKMIHJ_03375	p23.B1|ONKKMIHJ_03375	1	Abi_2
+UserReplicon_DRT_2_2	DRT	DRT_2	p23.B1|ONKKMIHJ_03986	p23.B1|ONKKMIHJ_03986	p23.B1|ONKKMIHJ_03986	1	drt2

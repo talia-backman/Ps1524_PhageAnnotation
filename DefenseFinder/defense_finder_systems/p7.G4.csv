@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_dCTPdeaminase_5	dCTPdeaminase	dCTPdeaminase	p7.G4|OHDDGMID_00642	p7.G4|OHDDGMID_00642	p7.G4|OHDDGMID_00642	1	dCTPdeaminase
+UserReplicon_Shedu_4	Shedu	Shedu	p7.G4|OHDDGMID_01639	p7.G4|OHDDGMID_01639	p7.G4|OHDDGMID_01639	1	SduA
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p7.G4|OHDDGMID_02701	p7.G4|OHDDGMID_02702	p7.G4|OHDDGMID_02701,p7.G4|OHDDGMID_02702	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p7.G4|OHDDGMID_04659	p7.G4|OHDDGMID_04659	p7.G4|OHDDGMID_04659	1	Abi_2
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p7.G4|OHDDGMID_04662	p7.G4|OHDDGMID_04663	p7.G4|OHDDGMID_04662,p7.G4|OHDDGMID_04663	2	HamA_2,HamB

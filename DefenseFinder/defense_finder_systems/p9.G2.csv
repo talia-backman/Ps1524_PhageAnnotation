@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_4	Septu	Septu	p9.G2|KHHLIFIP_00317	p9.G2|KHHLIFIP_00318	p9.G2|KHHLIFIP_00317,p9.G2|KHHLIFIP_00318	2	PtuA,PtuB
+UserReplicon_Gabija_1	Gabija	Gabija	p9.G2|KHHLIFIP_01326	p9.G2|KHHLIFIP_01327	p9.G2|KHHLIFIP_01326,p9.G2|KHHLIFIP_01327	2	GajA,GajB
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p9.G2|KHHLIFIP_01529	p9.G2|KHHLIFIP_01530	p9.G2|KHHLIFIP_01529,p9.G2|KHHLIFIP_01530	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Gabija_2	Gabija	Gabija	p9.G2|KHHLIFIP_05121	p9.G2|KHHLIFIP_05122	p9.G2|KHHLIFIP_05121,p9.G2|KHHLIFIP_05122	2	GajA,GajB
+UserReplicon_Septu_5	Septu	Septu	p9.G2|KHHLIFIP_05278	p9.G2|KHHLIFIP_05279	p9.G2|KHHLIFIP_05278,p9.G2|KHHLIFIP_05279	2	PtuB,PtuA

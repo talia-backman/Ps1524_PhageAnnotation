@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p23.B3|LJBAICFH_02057	p23.B3|LJBAICFH_02057	p23.B3|LJBAICFH_02057	1	Abi_2
+UserReplicon_Rst_NACHT_3	Rst_NACHT	Rst_NACHT	p23.B3|LJBAICFH_02425	p23.B3|LJBAICFH_02425	p23.B3|LJBAICFH_02425	1	NACHT
+UserReplicon_PrrC_2	PrrC	PrrC	p23.B3|LJBAICFH_03855	p23.B3|LJBAICFH_03857	p23.B3|LJBAICFH_03855,p23.B3|LJBAICFH_03856,p23.B3|LJBAICFH_03857	3	PrrC,EcoprrI,EcoprrI

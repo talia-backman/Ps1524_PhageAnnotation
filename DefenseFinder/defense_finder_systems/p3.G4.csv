@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Shedu_4	Shedu	Shedu	p3.G4|CNMBIJDM_02540	p3.G4|CNMBIJDM_02540	p3.G4|CNMBIJDM_02540	1	SduA
+UserReplicon_dCTPdeaminase_5	dCTPdeaminase	dCTPdeaminase	p3.G4|CNMBIJDM_02698	p3.G4|CNMBIJDM_02698	p3.G4|CNMBIJDM_02698	1	dCTPdeaminase
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p3.G4|CNMBIJDM_05307	p3.G4|CNMBIJDM_05308	p3.G4|CNMBIJDM_05307,p3.G4|CNMBIJDM_05308	2	HamB,HamA_2
+UserReplicon_Abi2_1	Abi2	Abi2	p3.G4|CNMBIJDM_05311	p3.G4|CNMBIJDM_05311	p3.G4|CNMBIJDM_05311	1	Abi_2
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p3.G4|CNMBIJDM_05424	p3.G4|CNMBIJDM_05425	p3.G4|CNMBIJDM_05424,p3.G4|CNMBIJDM_05425	2	Type_IV_REases,Type_IV_REases

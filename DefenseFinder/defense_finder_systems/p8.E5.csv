@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_3	RM	RM_Type_II	p8.E5|HHAAFLPG_00593	p8.E5|HHAAFLPG_00594	p8.E5|HHAAFLPG_00593,p8.E5|HHAAFLPG_00594	2	Type_II_REases,Type_II_MTases
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p8.E5|HHAAFLPG_01626	p8.E5|HHAAFLPG_01627	p8.E5|HHAAFLPG_01626,p8.E5|HHAAFLPG_01627	2	HamA_1,HamB
+UserReplicon_Shedu_4	Shedu	Shedu	p8.E5|HHAAFLPG_01636	p8.E5|HHAAFLPG_01636	p8.E5|HHAAFLPG_01636	1	SduA
+UserReplicon_Abi2_1	Abi2	Abi2	p8.E5|HHAAFLPG_02462	p8.E5|HHAAFLPG_02462	p8.E5|HHAAFLPG_02462	1	Abi_2

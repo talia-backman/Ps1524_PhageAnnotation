@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p1.C11|MLGPCLNK_01913	p1.C11|MLGPCLNK_01913	p1.C11|MLGPCLNK_01913	1	Abi_2
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p1.C11|MLGPCLNK_02704	p1.C11|MLGPCLNK_02705	p1.C11|MLGPCLNK_02704,p1.C11|MLGPCLNK_02705	2	IetA,IetS
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p1.C11|MLGPCLNK_04914	p1.C11|MLGPCLNK_04914	p1.C11|MLGPCLNK_04914	1	AAA_15_DUF4435

@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p11.F10|EDBGDIPM_00288	p11.F10|EDBGDIPM_00294	p11.F10|EDBGDIPM_00288,p11.F10|EDBGDIPM_00289,p11.F10|EDBGDIPM_00294	3	Type_II_MTases,Type_II_REases,Type_II_MTases
+UserReplicon_RM_Type_IIG_3	RM	RM_Type_IIG	p11.F10|EDBGDIPM_04721	p11.F10|EDBGDIPM_04721	p11.F10|EDBGDIPM_04721	1	Type_IIG
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p11.F10|EDBGDIPM_04860	p11.F10|EDBGDIPM_04861	p11.F10|EDBGDIPM_04860,p11.F10|EDBGDIPM_04861	2	HamA_2,HamB

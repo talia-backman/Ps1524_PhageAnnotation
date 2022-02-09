@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p13.H7|OLFCMELN_00558	p13.H7|OLFCMELN_00558	p13.H7|OLFCMELN_00558	1	Abi_2
+UserReplicon_Hachiman_3	Hachiman	Hachiman	p13.H7|OLFCMELN_00567	p13.H7|OLFCMELN_00568	p13.H7|OLFCMELN_00567,p13.H7|OLFCMELN_00568	2	HamA_2,HamB
+UserReplicon_RM_Type_IV_4	RM	RM_Type_IV	p13.H7|OLFCMELN_00811	p13.H7|OLFCMELN_00812	p13.H7|OLFCMELN_00811,p13.H7|OLFCMELN_00812	2	Type_IV_REases,Type_IV_REases
+UserReplicon_DRT_2_2	DRT	DRT_2	p13.H7|OLFCMELN_02784	p13.H7|OLFCMELN_02784	p13.H7|OLFCMELN_02784	1	drt2

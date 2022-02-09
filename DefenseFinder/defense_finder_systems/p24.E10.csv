@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p24.E10|GCGEKEGB_03273	p24.E10|GCGEKEGB_03273	p24.E10|GCGEKEGB_03273	1	Abi_2
+UserReplicon_Thoeris2_2	Thoeris	Thoeris2	p24.E10|GCGEKEGB_03626	p24.E10|GCGEKEGB_03630	p24.E10|GCGEKEGB_03626,p24.E10|GCGEKEGB_03627,p24.E10|GCGEKEGB_03628,p24.E10|GCGEKEGB_03629,p24.E10|GCGEKEGB_03630	5	ThsB_Global,ThsB_Global,ThsB_Global,ThsB_Global,ThsA_new_grand

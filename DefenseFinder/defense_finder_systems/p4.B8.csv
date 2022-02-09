@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Druantia_I_2	Druantia	Druantia_I	p4.B8|HPEDEMIK_00248	p4.B8|HPEDEMIK_00251	p4.B8|HPEDEMIK_00248,p4.B8|HPEDEMIK_00249,p4.B8|HPEDEMIK_00250,p4.B8|HPEDEMIK_00251	4	DruB,DruA,DruE_1,DruD
+UserReplicon_RM_Type_II_4	RM	RM_Type_II	p4.B8|HPEDEMIK_04270	p4.B8|HPEDEMIK_04271	p4.B8|HPEDEMIK_04270,p4.B8|HPEDEMIK_04271	2	Type_II_MTases,Type_II_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p4.B8|HPEDEMIK_04272	p4.B8|HPEDEMIK_04272	p4.B8|HPEDEMIK_04272	1	Abi_2
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p4.B8|HPEDEMIK_04817	p4.B8|HPEDEMIK_04819	p4.B8|HPEDEMIK_04817,p4.B8|HPEDEMIK_04819	2	Type_I_MTases,Type_I_REases

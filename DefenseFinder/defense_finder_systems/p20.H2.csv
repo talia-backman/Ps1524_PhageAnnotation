@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_3	Septu	Septu	p20.H2|AOGCHMKP_00993	p20.H2|AOGCHMKP_00994	p20.H2|AOGCHMKP_00993,p20.H2|AOGCHMKP_00994	2	PtuA,PtuB
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p20.H2|AOGCHMKP_01282	p20.H2|AOGCHMKP_01283	p20.H2|AOGCHMKP_01282,p20.H2|AOGCHMKP_01283	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p20.H2|AOGCHMKP_02959	p20.H2|AOGCHMKP_02959	p20.H2|AOGCHMKP_02959	1	Abi_2

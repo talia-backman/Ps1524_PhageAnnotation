@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_AbiEii_1	AbiEii	AbiEii	p1.G12|HCINCGHA_04415	p1.G12|HCINCGHA_04416	p1.G12|HCINCGHA_04415,p1.G12|HCINCGHA_04416	2	AbiEi_3,AbiEii
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p1.G12|HCINCGHA_04558	p1.G12|HCINCGHA_04559	p1.G12|HCINCGHA_04558,p1.G12|HCINCGHA_04559	2	Type_III_MTases,Type_III_REases

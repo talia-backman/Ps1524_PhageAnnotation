@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p12.E5|ENKLOFLP_00364	p12.E5|ENKLOFLP_00364	p12.E5|ENKLOFLP_00364	1	Abi_2
+UserReplicon_RM_Type_III_4	RM	RM_Type_III	p12.E5|ENKLOFLP_00499	p12.E5|ENKLOFLP_00500	p12.E5|ENKLOFLP_00499,p12.E5|ENKLOFLP_00500	2	Type_III_REases,Type_III_MTases
+UserReplicon_Gao_Upx_3	Gao_Upx	Gao_Upx	p12.E5|ENKLOFLP_02303	p12.E5|ENKLOFLP_02303	p12.E5|ENKLOFLP_02303	1	UpxA
+UserReplicon_DRT_4_2	DRT	DRT_4	p12.E5|ENKLOFLP_03230	p12.E5|ENKLOFLP_03230	p12.E5|ENKLOFLP_03230	1	drt4

@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_4	Septu	Septu	p1.A2|PDKKMNCP_01329	p1.A2|PDKKMNCP_01330	p1.A2|PDKKMNCP_01329,p1.A2|PDKKMNCP_01330	2	PtuB,PtuA
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p1.A2|PDKKMNCP_01582	p1.A2|PDKKMNCP_01583	p1.A2|PDKKMNCP_01582,p1.A2|PDKKMNCP_01583	2	Type_III_MTases,Type_III_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p1.A2|PDKKMNCP_04038	p1.A2|PDKKMNCP_04038	p1.A2|PDKKMNCP_04038	1	Abi_2
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p1.A2|PDKKMNCP_05451	p1.A2|PDKKMNCP_05452	p1.A2|PDKKMNCP_05451,p1.A2|PDKKMNCP_05452	2	Type_IV_REases,Type_IV_REases

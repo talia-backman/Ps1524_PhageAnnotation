@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gabija_1	Gabija	Gabija	p7.H3|PKLBJHJI_00322	p7.H3|PKLBJHJI_00323	p7.H3|PKLBJHJI_00322,p7.H3|PKLBJHJI_00323	2	GajA,GajB
+UserReplicon_Septu_4	Septu	Septu	p7.H3|PKLBJHJI_00479	p7.H3|PKLBJHJI_00480	p7.H3|PKLBJHJI_00479,p7.H3|PKLBJHJI_00480	2	PtuB,PtuA
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p7.H3|PKLBJHJI_01003	p7.H3|PKLBJHJI_01004	p7.H3|PKLBJHJI_01003,p7.H3|PKLBJHJI_01004	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Septu_5	Septu	Septu	p7.H3|PKLBJHJI_02063	p7.H3|PKLBJHJI_02064	p7.H3|PKLBJHJI_02063,p7.H3|PKLBJHJI_02064	2	PtuA,PtuB
+UserReplicon_Gabija_2	Gabija	Gabija	p7.H3|PKLBJHJI_02980	p7.H3|PKLBJHJI_02981	p7.H3|PKLBJHJI_02980,p7.H3|PKLBJHJI_02981	2	GajA,GajB

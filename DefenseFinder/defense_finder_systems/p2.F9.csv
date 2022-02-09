@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p2.F9|NHIPMFDN_01183	p2.F9|NHIPMFDN_01184	p2.F9|NHIPMFDN_01183,p2.F9|NHIPMFDN_01184	2	HamB,HamA_2
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p2.F9|NHIPMFDN_03748	p2.F9|NHIPMFDN_03749	p2.F9|NHIPMFDN_03748,p2.F9|NHIPMFDN_03749	2	Type_II_REases,Type_II_MTases
+UserReplicon_RM_Type_IIG_3	RM	RM_Type_IIG	p2.F9|NHIPMFDN_04431	p2.F9|NHIPMFDN_04431	p2.F9|NHIPMFDN_04431	1	Type_IIG

@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_1	RM	RM_Type_IV	p26.D9|BELFDPOC_00061	p26.D9|BELFDPOC_00061	p26.D9|BELFDPOC_00061	1	Type_IV_REases
+UserReplicon_Thoeris2_3	Thoeris	Thoeris2	p26.D9|BELFDPOC_01703	p26.D9|BELFDPOC_01704	p26.D9|BELFDPOC_01703,p26.D9|BELFDPOC_01704	2	ThsB_Global,ThsA_new_petit
+UserReplicon_Retron_IV_2	Retron	Retron_IV	p26.D9|BELFDPOC_01877	p26.D9|BELFDPOC_01878	p26.D9|BELFDPOC_01877,p26.D9|BELFDPOC_01878	2	RT_Tot,2TM

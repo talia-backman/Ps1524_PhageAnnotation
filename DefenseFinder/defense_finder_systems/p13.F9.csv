@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_3	RM	RM_Type_II	p13.F9|ACCMGHJF_01866	p13.F9|ACCMGHJF_01867	p13.F9|ACCMGHJF_01866,p13.F9|ACCMGHJF_01867	2	Type_II_REases,Type_II_MTases
+UserReplicon_RM_Type_I_2	RM	RM_Type_I	p13.F9|ACCMGHJF_04696	p13.F9|ACCMGHJF_04697	p13.F9|ACCMGHJF_04696,p13.F9|ACCMGHJF_04697	2	Type_I_MTases,Type_I_REases
+UserReplicon_Septu_4	Septu	Septu	p13.F9|ACCMGHJF_04886	p13.F9|ACCMGHJF_04887	p13.F9|ACCMGHJF_04886,p13.F9|ACCMGHJF_04887	2	PtuA,PtuB
+UserReplicon_Abi2_1	Abi2	Abi2	p13.F9|ACCMGHJF_05345	p13.F9|ACCMGHJF_05345	p13.F9|ACCMGHJF_05345	1	Abi_2

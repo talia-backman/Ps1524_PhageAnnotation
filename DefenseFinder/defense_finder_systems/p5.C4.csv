@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p5.C4|OMNPIDLB_02722	p5.C4|OMNPIDLB_02722	p5.C4|OMNPIDLB_02722	1	Abi_2
+UserReplicon_RM_Type_II_3	RM	RM_Type_II	p5.C4|OMNPIDLB_02919	p5.C4|OMNPIDLB_02920	p5.C4|OMNPIDLB_02919,p5.C4|OMNPIDLB_02920	2	Type_II_MTases,Type_II_REases
+UserReplicon_RM_Type_I_2	RM	RM_Type_I	p5.C4|OMNPIDLB_03780	p5.C4|OMNPIDLB_03782	p5.C4|OMNPIDLB_03780,p5.C4|OMNPIDLB_03782	2	Type_I_MTases,Type_I_REases

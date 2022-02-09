@@ -1,0 +1,2 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_1	RM	RM_Type_II	p7.H9|JCNODOMN_04644	p7.H9|JCNODOMN_04645	p7.H9|JCNODOMN_04644,p7.H9|JCNODOMN_04645	2	Type_II_MTases,Type_II_REases

@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Rst_DprA-PPRT_2	Rst_DprA-PPRT	Rst_DprA-PPRT	p2.F1|KPHJMLKK_01613	p2.F1|KPHJMLKK_01614	p2.F1|KPHJMLKK_01613,p2.F1|KPHJMLKK_01614	2	Phosphoribosyltransferase,DprA
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p2.F1|KPHJMLKK_02639	p2.F1|KPHJMLKK_02640	p2.F1|KPHJMLKK_02639,p2.F1|KPHJMLKK_02640	2	HamB,HamA_1
+UserReplicon_Wadjet_I_3	Wadjet	Wadjet_I	p2.F1|KPHJMLKK_03598	p2.F1|KPHJMLKK_03601	p2.F1|KPHJMLKK_03598,p2.F1|KPHJMLKK_03599,p2.F1|KPHJMLKK_03600,p2.F1|KPHJMLKK_03601	4	JetD_I,JetC_I,JetB_I,JetA_I

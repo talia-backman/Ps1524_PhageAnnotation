@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_4	RM	RM_Type_IV	p26.H9|JIDFAIJF_00071	p26.H9|JIDFAIJF_00072	p26.H9|JIDFAIJF_00071,p26.H9|JIDFAIJF_00072	2	Type_IV_REases,Type_IV_REases
+UserReplicon_DRT_2_2	DRT	DRT_2	p26.H9|JIDFAIJF_02973	p26.H9|JIDFAIJF_02973	p26.H9|JIDFAIJF_02973	1	drt2
+UserReplicon_Abi2_1	Abi2	Abi2	p26.H9|JIDFAIJF_04727	p26.H9|JIDFAIJF_04727	p26.H9|JIDFAIJF_04727	1	Abi_2
+UserReplicon_Hachiman_3	Hachiman	Hachiman	p26.H9|JIDFAIJF_04736	p26.H9|JIDFAIJF_04737	p26.H9|JIDFAIJF_04736,p26.H9|JIDFAIJF_04737	2	HamA_2,HamB

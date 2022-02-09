@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_3	Septu	Septu	p11.F2|INGAGMGI_01301	p11.F2|INGAGMGI_01302	p11.F2|INGAGMGI_01301,p11.F2|INGAGMGI_01302	2	PtuA,PtuB
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p11.F2|INGAGMGI_02512	p11.F2|INGAGMGI_02513	p11.F2|INGAGMGI_02512,p11.F2|INGAGMGI_02513	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p11.F2|INGAGMGI_03140	p11.F2|INGAGMGI_03140	p11.F2|INGAGMGI_03140	1	Abi_2

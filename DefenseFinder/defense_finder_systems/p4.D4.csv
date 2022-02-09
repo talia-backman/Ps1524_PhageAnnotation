@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_AVAST_II_1	AVAST	AVAST_II	p4.D4|AFELPIII_03459	p4.D4|AFELPIII_03459	p4.D4|AFELPIII_03459	1	Avs2A
+UserReplicon_Retron_VI_2	Retron	Retron_VI	p4.D4|AFELPIII_05035	p4.D4|AFELPIII_05036	p4.D4|AFELPIII_05035,p4.D4|AFELPIII_05036	2	HTH,RT_Tot
+UserReplicon_Rst_HEPN_3	Rst_HEPN	Rst_HEPN	p4.D4|AFELPIII_05651	p4.D4|AFELPIII_05651	p4.D4|AFELPIII_05651	1	Rst_HEPN

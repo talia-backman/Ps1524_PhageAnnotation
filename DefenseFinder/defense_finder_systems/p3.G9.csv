@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Zorya_TypeI_3	Zorya	Zorya_TypeI	p3.G9|OCLHMAGA_01643	p3.G9|OCLHMAGA_01646	p3.G9|OCLHMAGA_01643,p3.G9|OCLHMAGA_01644,p3.G9|OCLHMAGA_01645,p3.G9|OCLHMAGA_01646	4	ZorD,ZorC,ZorB,ZorA
+UserReplicon_Abi2_2	Abi2	Abi2	p3.G9|OCLHMAGA_03191	p3.G9|OCLHMAGA_03191	p3.G9|OCLHMAGA_03191	1	Abi_2
+UserReplicon_AVAST_II_1	AVAST	AVAST_II	p3.G9|OCLHMAGA_05125	p3.G9|OCLHMAGA_05125	p3.G9|OCLHMAGA_05125	1	Avs2A

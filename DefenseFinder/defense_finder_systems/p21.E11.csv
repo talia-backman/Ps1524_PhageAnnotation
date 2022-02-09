@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p21.E11|MHJLKJNE_03595	p21.E11|MHJLKJNE_03596	p21.E11|MHJLKJNE_03595,p21.E11|MHJLKJNE_03596	2	Type_II_REases,Type_II_MTases
+UserReplicon_RM_Type_IIG_3	RM	RM_Type_IIG	p21.E11|MHJLKJNE_04118	p21.E11|MHJLKJNE_04118	p21.E11|MHJLKJNE_04118	1	Type_IIG
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p21.E11|MHJLKJNE_04874	p21.E11|MHJLKJNE_04875	p21.E11|MHJLKJNE_04874,p21.E11|MHJLKJNE_04875	2	HamA_2,HamB

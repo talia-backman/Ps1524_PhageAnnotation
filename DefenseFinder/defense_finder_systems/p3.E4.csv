@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p3.E4|NJBPMLAJ_01153	p3.E4|NJBPMLAJ_01154	p3.E4|NJBPMLAJ_01153,p3.E4|NJBPMLAJ_01154	2	Type_III_MTases,Type_III_REases
+UserReplicon_Septu_4	Septu	Septu	p3.E4|NJBPMLAJ_02122	p3.E4|NJBPMLAJ_02123	p3.E4|NJBPMLAJ_02122,p3.E4|NJBPMLAJ_02123	2	PtuA,PtuB
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p3.E4|NJBPMLAJ_03023	p3.E4|NJBPMLAJ_03024	p3.E4|NJBPMLAJ_03023,p3.E4|NJBPMLAJ_03024	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p3.E4|NJBPMLAJ_05014	p3.E4|NJBPMLAJ_05014	p3.E4|NJBPMLAJ_05014	1	Abi_2

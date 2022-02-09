@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_dCTPdeaminase_2	dCTPdeaminase	dCTPdeaminase	p13.D8|JOCONOFN_03425	p13.D8|JOCONOFN_03425	p13.D8|JOCONOFN_03425	1	dCTPdeaminase
+UserReplicon_Abi2_1	Abi2	Abi2	p13.D8|JOCONOFN_05081	p13.D8|JOCONOFN_05081	p13.D8|JOCONOFN_05081	1	Abi_2

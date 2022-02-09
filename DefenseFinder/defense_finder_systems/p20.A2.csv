@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_3	Septu	Septu	p20.A2|POCPCEEG_02411	p20.A2|POCPCEEG_02412	p20.A2|POCPCEEG_02411,p20.A2|POCPCEEG_02412	2	PtuA,PtuB
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p20.A2|POCPCEEG_02620	p20.A2|POCPCEEG_02621	p20.A2|POCPCEEG_02620,p20.A2|POCPCEEG_02621	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p20.A2|POCPCEEG_03880	p20.A2|POCPCEEG_03880	p20.A2|POCPCEEG_03880	1	Abi_2

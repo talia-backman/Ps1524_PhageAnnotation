@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_I_1	RM	RM_Type_I	p7.G9|PDOHHFKI_01359	p7.G9|PDOHHFKI_01362	p7.G9|PDOHHFKI_01359,p7.G9|PDOHHFKI_01362	2	Type_I_REases,Type_I_MTases
+UserReplicon_RM_Type_IIG_2	RM	RM_Type_IIG	p7.G9|PDOHHFKI_02054	p7.G9|PDOHHFKI_02054	p7.G9|PDOHHFKI_02054	1	Type_IIG

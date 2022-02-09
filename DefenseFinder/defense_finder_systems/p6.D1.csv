@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Rst_Hp-Tm_3	Rst_Hp-tm	Rst_Hp-Tm	p6.D1|GMFDCKHK_01069	p6.D1|GMFDCKHK_01070	p6.D1|GMFDCKHK_01069,p6.D1|GMFDCKHK_01070	2	Hp-Tm,HP
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p6.D1|GMFDCKHK_01248	p6.D1|GMFDCKHK_01249	p6.D1|GMFDCKHK_01248,p6.D1|GMFDCKHK_01249	2	Type_IV_REases,Type_IV_REases
+UserReplicon_dCTPdeaminase_5	dCTPdeaminase	dCTPdeaminase	p6.D1|GMFDCKHK_01746	p6.D1|GMFDCKHK_01746	p6.D1|GMFDCKHK_01746	1	dCTPdeaminase
+UserReplicon_RM_Type_IIG_1	RM	RM_Type_IIG	p6.D1|GMFDCKHK_02509	p6.D1|GMFDCKHK_02509	p6.D1|GMFDCKHK_02509	1	Type_IIG
+UserReplicon_Rst_Sirtuin-like_4	Rst_Sirtuin-like	Rst_Sirtuin-like	p6.D1|GMFDCKHK_03612	p6.D1|GMFDCKHK_03612	p6.D1|GMFDCKHK_03612	1	Sirtuin_like

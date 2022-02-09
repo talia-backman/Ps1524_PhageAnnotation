@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p21.F11|FKMHNKCN_00598	p21.F11|FKMHNKCN_00599	p21.F11|FKMHNKCN_00598,p21.F11|FKMHNKCN_00599	2	HamB,HamA_2
+UserReplicon_RM_Type_IIG_3	RM	RM_Type_IIG	p21.F11|FKMHNKCN_02489	p21.F11|FKMHNKCN_02489	p21.F11|FKMHNKCN_02489	1	Type_IIG
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p21.F11|FKMHNKCN_02495	p21.F11|FKMHNKCN_02496	p21.F11|FKMHNKCN_02495,p21.F11|FKMHNKCN_02496	2	Type_II_REases,Type_II_MTases

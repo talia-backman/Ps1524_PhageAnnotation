@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Thoeris2_2	Thoeris	Thoeris2	p11.A11|FJKLDHNC_01174	p11.A11|FJKLDHNC_01178	p11.A11|FJKLDHNC_01174,p11.A11|FJKLDHNC_01175,p11.A11|FJKLDHNC_01176,p11.A11|FJKLDHNC_01177,p11.A11|FJKLDHNC_01178	5	ThsB_Global,ThsB_Global,ThsB_Global,ThsB_Global,ThsA_new_grand
+UserReplicon_Abi2_1	Abi2	Abi2	p11.A11|FJKLDHNC_01323	p11.A11|FJKLDHNC_01323	p11.A11|FJKLDHNC_01323	1	Abi_2

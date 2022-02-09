@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p11.F7|AIBGCCMC_00190	p11.F7|AIBGCCMC_00191	p11.F7|AIBGCCMC_00190,p11.F7|AIBGCCMC_00191	2	Type_II_REases,Type_II_MTases
+UserReplicon_Wadjet_I_3	Wadjet	Wadjet_I	p11.F7|AIBGCCMC_00247	p11.F7|AIBGCCMC_00250	p11.F7|AIBGCCMC_00247,p11.F7|AIBGCCMC_00248,p11.F7|AIBGCCMC_00249,p11.F7|AIBGCCMC_00250	4	JetD_I,JetC_I,JetB_I,JetA_I
+UserReplicon_Abi2_1	Abi2	Abi2	p11.F7|AIBGCCMC_01858	p11.F7|AIBGCCMC_01858	p11.F7|AIBGCCMC_01858	1	Abi_2

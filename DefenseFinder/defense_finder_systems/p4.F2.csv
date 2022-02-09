@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p4.F2|IPONBJNO_02338	p4.F2|IPONBJNO_02338	p4.F2|IPONBJNO_02338	1	Abi_2
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p4.F2|IPONBJNO_03613	p4.F2|IPONBJNO_03614	p4.F2|IPONBJNO_03613,p4.F2|IPONBJNO_03614	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Septu_3	Septu	Septu	p4.F2|IPONBJNO_03983	p4.F2|IPONBJNO_03984	p4.F2|IPONBJNO_03983,p4.F2|IPONBJNO_03984	2	PtuB,PtuA

@@ -1,0 +1,2 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_1	Septu	Septu	p26.B10|CFCNEOLP_03552	p26.B10|CFCNEOLP_03553	p26.B10|CFCNEOLP_03552,p26.B10|CFCNEOLP_03553	2	PtuA,PtuB

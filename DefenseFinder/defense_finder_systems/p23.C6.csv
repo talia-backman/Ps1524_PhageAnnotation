@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p23.C6|MFOCMODD_00374	p23.C6|MFOCMODD_00375	p23.C6|MFOCMODD_00374,p23.C6|MFOCMODD_00375	2	HamB,HamA_2
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p23.C6|MFOCMODD_00961	p23.C6|MFOCMODD_00964	p23.C6|MFOCMODD_00961,p23.C6|MFOCMODD_00964	2	Type_I_MTases,Type_I_REases
+UserReplicon_Gabija_1	Gabija	Gabija	p23.C6|MFOCMODD_04227	p23.C6|MFOCMODD_04228	p23.C6|MFOCMODD_04227,p23.C6|MFOCMODD_04228	2	GajA,GajB

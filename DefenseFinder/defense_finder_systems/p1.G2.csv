@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_4	Septu	Septu	p1.G2|OBEBNGGH_00317	p1.G2|OBEBNGGH_00318	p1.G2|OBEBNGGH_00317,p1.G2|OBEBNGGH_00318	2	PtuA,PtuB
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p1.G2|OBEBNGGH_01092	p1.G2|OBEBNGGH_01093	p1.G2|OBEBNGGH_01092,p1.G2|OBEBNGGH_01093	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Gabija_1	Gabija	Gabija	p1.G2|OBEBNGGH_01411	p1.G2|OBEBNGGH_01412	p1.G2|OBEBNGGH_01411,p1.G2|OBEBNGGH_01412	2	GajA,GajB
+UserReplicon_Gabija_2	Gabija	Gabija	p1.G2|OBEBNGGH_01935	p1.G2|OBEBNGGH_01936	p1.G2|OBEBNGGH_01935,p1.G2|OBEBNGGH_01936	2	GajA,GajB
+UserReplicon_Septu_5	Septu	Septu	p1.G2|OBEBNGGH_02092	p1.G2|OBEBNGGH_02093	p1.G2|OBEBNGGH_02092,p1.G2|OBEBNGGH_02093	2	PtuB,PtuA

@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Shedu_3	Shedu	Shedu	p22.D2|AKNMCBPC_00779	p22.D2|AKNMCBPC_00779	p22.D2|AKNMCBPC_00779	1	SduA
+UserReplicon_Gabija_1	Gabija	Gabija	p22.D2|AKNMCBPC_00968	p22.D2|AKNMCBPC_00969	p22.D2|AKNMCBPC_00968,p22.D2|AKNMCBPC_00969	2	GajA,GajB
+UserReplicon_Rst_NACHT_2	Rst_NACHT	Rst_NACHT	p22.D2|AKNMCBPC_01987	p22.D2|AKNMCBPC_01987	p22.D2|AKNMCBPC_01987	1	NACHT
+UserReplicon_Thoeris2_4	Thoeris	Thoeris2	p22.D2|AKNMCBPC_02560	p22.D2|AKNMCBPC_02561	p22.D2|AKNMCBPC_02560,p22.D2|AKNMCBPC_02561	2	ThsA_new_grand,ThsB_Global

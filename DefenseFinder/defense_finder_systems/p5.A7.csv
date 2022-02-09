@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p5.A7|CIOEJGMD_01242	p5.A7|CIOEJGMD_01242	p5.A7|CIOEJGMD_01242	1	Abi_2
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p5.A7|CIOEJGMD_03899	p5.A7|CIOEJGMD_03900	p5.A7|CIOEJGMD_03899,p5.A7|CIOEJGMD_03900	2	IetA,IetS
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p5.A7|CIOEJGMD_04954	p5.A7|CIOEJGMD_04954	p5.A7|CIOEJGMD_04954	1	AAA_15_DUF4435

@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p20.D8|DKCKDBOI_00849	p20.D8|DKCKDBOI_00850	p20.D8|DKCKDBOI_00849,p20.D8|DKCKDBOI_00850	2	HamA_1,HamB
+UserReplicon_Gabija_1	Gabija	Gabija	p20.D8|DKCKDBOI_01654	p20.D8|DKCKDBOI_01655	p20.D8|DKCKDBOI_01654,p20.D8|DKCKDBOI_01655	2	GajA,GajB
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p20.D8|DKCKDBOI_04563	p20.D8|DKCKDBOI_04567	p20.D8|DKCKDBOI_04563,p20.D8|DKCKDBOI_04567	2	Type_I_REases,Type_I_MTases
+UserReplicon_Septu_4	Septu	Septu	p20.D8|DKCKDBOI_04565	p20.D8|DKCKDBOI_04566	p20.D8|DKCKDBOI_04565,p20.D8|DKCKDBOI_04566	2	PtuA,PtuB

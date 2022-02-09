@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gabija_1	Gabija	Gabija	p24.H8|ELFNGBHB_01491	p24.H8|ELFNGBHB_01492	p24.H8|ELFNGBHB_01491,p24.H8|ELFNGBHB_01492	2	GajA,GajB
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p24.H8|ELFNGBHB_03438	p24.H8|ELFNGBHB_03442	p24.H8|ELFNGBHB_03438,p24.H8|ELFNGBHB_03442	2	Type_I_REases,Type_I_MTases
+UserReplicon_Septu_4	Septu	Septu	p24.H8|ELFNGBHB_03440	p24.H8|ELFNGBHB_03441	p24.H8|ELFNGBHB_03440,p24.H8|ELFNGBHB_03441	2	PtuA,PtuB
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p24.H8|ELFNGBHB_04478	p24.H8|ELFNGBHB_04479	p24.H8|ELFNGBHB_04478,p24.H8|ELFNGBHB_04479	2	HamA_1,HamB

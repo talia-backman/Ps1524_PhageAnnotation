@@ -1,0 +1,2 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_I_1	RM	RM_Type_I	p2.C6|AKFMECEL_01902	p2.C6|AKFMECEL_01908	p2.C6|AKFMECEL_01902,p2.C6|AKFMECEL_01905,p2.C6|AKFMECEL_01908	3	Type_I_MTases,Type_I_REases,Type_I_MTases

@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p3.B1|NIJIMHLC_01217	p3.B1|NIJIMHLC_01217	p3.B1|NIJIMHLC_01217	1	Abi_2
+UserReplicon_Septu_4	Septu	Septu	p3.B1|NIJIMHLC_03963	p3.B1|NIJIMHLC_03964	p3.B1|NIJIMHLC_03963,p3.B1|NIJIMHLC_03964	2	PtuB,PtuA
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p3.B1|NIJIMHLC_04217	p3.B1|NIJIMHLC_04218	p3.B1|NIJIMHLC_04217,p3.B1|NIJIMHLC_04218	2	Type_III_MTases,Type_III_REases
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p3.B1|NIJIMHLC_05448	p3.B1|NIJIMHLC_05449	p3.B1|NIJIMHLC_05448,p3.B1|NIJIMHLC_05449	2	Type_IV_REases,Type_IV_REases

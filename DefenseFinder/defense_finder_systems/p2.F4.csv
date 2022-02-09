@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Thoeris2_2	Thoeris	Thoeris2	p2.F4|MCNGGKFG_02193	p2.F4|MCNGGKFG_02197	p2.F4|MCNGGKFG_02193,p2.F4|MCNGGKFG_02194,p2.F4|MCNGGKFG_02195,p2.F4|MCNGGKFG_02196,p2.F4|MCNGGKFG_02197	5	ThsB_Global,ThsB_Global,ThsB_Global,ThsB_Global,ThsA_new_grand
+UserReplicon_Abi2_1	Abi2	Abi2	p2.F4|MCNGGKFG_04089	p2.F4|MCNGGKFG_04089	p2.F4|MCNGGKFG_04089	1	Abi_2

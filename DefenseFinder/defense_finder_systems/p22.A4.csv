@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p22.A4|DJDFHFGB_01339	p22.A4|DJDFHFGB_01339	p22.A4|DJDFHFGB_01339	1	Abi_2
+UserReplicon_DRT_2_2	DRT	DRT_2	p22.A4|DJDFHFGB_01987	p22.A4|DJDFHFGB_01987	p22.A4|DJDFHFGB_01987	1	drt2
+UserReplicon_Gao_Iet_3	Gao_Iet	Gao_Iet	p22.A4|DJDFHFGB_03631	p22.A4|DJDFHFGB_03632	p22.A4|DJDFHFGB_03631,p22.A4|DJDFHFGB_03632	2	IetA,IetS

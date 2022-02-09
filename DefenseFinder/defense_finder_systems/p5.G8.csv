@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gao_TerY_1	Gao_TerY	Gao_TerY	p5.G8|DCJKKNFN_03081	p5.G8|DCJKKNFN_03083	p5.G8|DCJKKNFN_03081,p5.G8|DCJKKNFN_03082,p5.G8|DCJKKNFN_03083	3	TerYC,TerYB,TerYA
+UserReplicon_Wadjet_III_2	Wadjet	Wadjet_III	p5.G8|DCJKKNFN_04142	p5.G8|DCJKKNFN_04145	p5.G8|DCJKKNFN_04142,p5.G8|DCJKKNFN_04143,p5.G8|DCJKKNFN_04144,p5.G8|DCJKKNFN_04145	4	JetD_III,JetC_III,JetB_III,JetA_III

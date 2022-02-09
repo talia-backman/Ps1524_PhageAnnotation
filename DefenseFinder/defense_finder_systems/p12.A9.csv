@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_1	RM	RM_Type_IV	p12.A9|OBKJOOFD_02076	p12.A9|OBKJOOFD_02076	p12.A9|OBKJOOFD_02076	1	Type_IV_REases
+UserReplicon_Rst_NACHT_2	Rst_NACHT	Rst_NACHT	p12.A9|OBKJOOFD_04171	p12.A9|OBKJOOFD_04171	p12.A9|OBKJOOFD_04171	1	NACHT

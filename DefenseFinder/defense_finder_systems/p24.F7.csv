@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_3	RM	RM_Type_II	p24.F7|LLKHOOFP_01346	p24.F7|LLKHOOFP_01347	p24.F7|LLKHOOFP_01346,p24.F7|LLKHOOFP_01347	2	Type_II_REases,Type_II_MTases
+UserReplicon_Abi2_1	Abi2	Abi2	p24.F7|LLKHOOFP_02787	p24.F7|LLKHOOFP_02787	p24.F7|LLKHOOFP_02787	1	Abi_2
+UserReplicon_RM_Type_I_2	RM	RM_Type_I	p24.F7|LLKHOOFP_03203	p24.F7|LLKHOOFP_03204	p24.F7|LLKHOOFP_03203,p24.F7|LLKHOOFP_03204	2	Type_I_REases,Type_I_MTases
+UserReplicon_Septu_4	Septu	Septu	p24.F7|LLKHOOFP_05309	p24.F7|LLKHOOFP_05310	p24.F7|LLKHOOFP_05309,p24.F7|LLKHOOFP_05310	2	PtuB,PtuA

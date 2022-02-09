@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gabija_1	Gabija	Gabija	p24.G8|CBIDPBID_00427	p24.G8|CBIDPBID_00428	p24.G8|CBIDPBID_00427,p24.G8|CBIDPBID_00428	2	GajA,GajB
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p24.G8|CBIDPBID_01298	p24.G8|CBIDPBID_01299	p24.G8|CBIDPBID_01298,p24.G8|CBIDPBID_01299	2	HamA_1,HamB
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p24.G8|CBIDPBID_04548	p24.G8|CBIDPBID_04552	p24.G8|CBIDPBID_04548,p24.G8|CBIDPBID_04552	2	Type_I_MTases,Type_I_REases
+UserReplicon_Septu_4	Septu	Septu	p24.G8|CBIDPBID_04549	p24.G8|CBIDPBID_04550	p24.G8|CBIDPBID_04549,p24.G8|CBIDPBID_04550	2	PtuB,PtuA

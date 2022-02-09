@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Rst_HEPN_3	Rst_HEPN	Rst_HEPN	p8.D4|JGOOIFLJ_00756	p8.D4|JGOOIFLJ_00756	p8.D4|JGOOIFLJ_00756	1	Rst_HEPN
+UserReplicon_Retron_VI_2	Retron	Retron_VI	p8.D4|JGOOIFLJ_01061	p8.D4|JGOOIFLJ_01062	p8.D4|JGOOIFLJ_01061,p8.D4|JGOOIFLJ_01062	2	HTH,RT_Tot
+UserReplicon_AVAST_II_1	AVAST	AVAST_II	p8.D4|JGOOIFLJ_01594	p8.D4|JGOOIFLJ_01594	p8.D4|JGOOIFLJ_01594	1	Avs2A

@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p3.A3|CAHBFOFK_00181	p3.A3|CAHBFOFK_00182	p3.A3|CAHBFOFK_00181,p3.A3|CAHBFOFK_00182	2	IetS,IetA
+UserReplicon_Abi2_1	Abi2	Abi2	p3.A3|CAHBFOFK_00908	p3.A3|CAHBFOFK_00908	p3.A3|CAHBFOFK_00908	1	Abi_2
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p3.A3|CAHBFOFK_02146	p3.A3|CAHBFOFK_02146	p3.A3|CAHBFOFK_02146	1	AAA_15_DUF4435

@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p24.C2|CBOEKAPN_01688	p24.C2|CBOEKAPN_01688	p24.C2|CBOEKAPN_01688	1	Abi_2
+UserReplicon_Septu_3	Septu	Septu	p24.C2|CBOEKAPN_02864	p24.C2|CBOEKAPN_02865	p24.C2|CBOEKAPN_02864,p24.C2|CBOEKAPN_02865	2	PtuA,PtuB
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p24.C2|CBOEKAPN_03797	p24.C2|CBOEKAPN_03798	p24.C2|CBOEKAPN_03797,p24.C2|CBOEKAPN_03798	2	Type_IV_REases,Type_IV_REases

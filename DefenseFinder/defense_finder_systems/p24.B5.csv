@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p24.B5|BFHKKAPG_04278	p24.B5|BFHKKAPG_04280	p24.B5|BFHKKAPG_04278,p24.B5|BFHKKAPG_04280	2	Type_III_REases,Type_III_MTases
+UserReplicon_RM_Type_II_1	RM	RM_Type_II	p24.B5|BFHKKAPG_04552	p24.B5|BFHKKAPG_04553	p24.B5|BFHKKAPG_04552,p24.B5|BFHKKAPG_04553	2	Type_II_MTases,Type_II_REases
+UserReplicon_Rst_DprA-PPRT_3	Rst_DprA-PPRT	Rst_DprA-PPRT	p24.B5|BFHKKAPG_05139	p24.B5|BFHKKAPG_05140	p24.B5|BFHKKAPG_05139,p24.B5|BFHKKAPG_05140	2	DprA,Phosphoribosyltransferase

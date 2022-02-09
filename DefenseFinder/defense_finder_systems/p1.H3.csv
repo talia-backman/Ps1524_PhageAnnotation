@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_4	Septu	Septu	p1.H3|PJODAKMO_00316	p1.H3|PJODAKMO_00317	p1.H3|PJODAKMO_00316,p1.H3|PJODAKMO_00317	2	PtuA,PtuB
+UserReplicon_Gabija_1	Gabija	Gabija	p1.H3|PJODAKMO_03869	p1.H3|PJODAKMO_03870	p1.H3|PJODAKMO_03869,p1.H3|PJODAKMO_03870	2	GajA,GajB
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p1.H3|PJODAKMO_04253	p1.H3|PJODAKMO_04254	p1.H3|PJODAKMO_04253,p1.H3|PJODAKMO_04254	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Gabija_2	Gabija	Gabija	p1.H3|PJODAKMO_05114	p1.H3|PJODAKMO_05115	p1.H3|PJODAKMO_05114,p1.H3|PJODAKMO_05115	2	GajA,GajB
+UserReplicon_Septu_5	Septu	Septu	p1.H3|PJODAKMO_05271	p1.H3|PJODAKMO_05272	p1.H3|PJODAKMO_05271,p1.H3|PJODAKMO_05272	2	PtuB,PtuA

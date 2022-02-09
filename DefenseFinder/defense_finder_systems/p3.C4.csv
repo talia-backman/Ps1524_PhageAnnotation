@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Druantia_I_2	Druantia	Druantia_I	p3.C4|CKIDNBOP_01178	p3.C4|CKIDNBOP_01181	p3.C4|CKIDNBOP_01178,p3.C4|CKIDNBOP_01179,p3.C4|CKIDNBOP_01180,p3.C4|CKIDNBOP_01181	4	DruB,DruA,DruE_1,DruD
+UserReplicon_RM_Type_II_4	RM	RM_Type_II	p3.C4|CKIDNBOP_03992	p3.C4|CKIDNBOP_03993	p3.C4|CKIDNBOP_03992,p3.C4|CKIDNBOP_03993	2	Type_II_MTases,Type_II_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p3.C4|CKIDNBOP_03994	p3.C4|CKIDNBOP_03994	p3.C4|CKIDNBOP_03994	1	Abi_2
+UserReplicon_RM_Type_I_3	RM	RM_Type_I	p3.C4|CKIDNBOP_04539	p3.C4|CKIDNBOP_04541	p3.C4|CKIDNBOP_04539,p3.C4|CKIDNBOP_04541	2	Type_I_MTases,Type_I_REases

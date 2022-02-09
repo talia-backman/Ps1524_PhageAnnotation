@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p23.A4|KGPNBAED_04101	p23.A4|KGPNBAED_04102	p23.A4|KGPNBAED_04101,p23.A4|KGPNBAED_04102	2	Type_IV_REases,Type_IV_REases
+UserReplicon_RM_Type_I_1	RM	RM_Type_I	p23.A4|KGPNBAED_04454	p23.A4|KGPNBAED_04455	p23.A4|KGPNBAED_04454,p23.A4|KGPNBAED_04455	2	Type_I_MTases,Type_I_REases

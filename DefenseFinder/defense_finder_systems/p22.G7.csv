@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p22.G7|KEIGIEDL_00514	p22.G7|KEIGIEDL_00516	p22.G7|KEIGIEDL_00514,p22.G7|KEIGIEDL_00516	2	Type_III_REases,Type_III_MTases
+UserReplicon_Rst_DprA-PPRT_3	Rst_DprA-PPRT	Rst_DprA-PPRT	p22.G7|KEIGIEDL_01985	p22.G7|KEIGIEDL_01986	p22.G7|KEIGIEDL_01985,p22.G7|KEIGIEDL_01986	2	DprA,Phosphoribosyltransferase
+UserReplicon_RM_Type_II_1	RM	RM_Type_II	p22.G7|KEIGIEDL_02860	p22.G7|KEIGIEDL_02861	p22.G7|KEIGIEDL_02860,p22.G7|KEIGIEDL_02861	2	Type_II_REases,Type_II_MTases

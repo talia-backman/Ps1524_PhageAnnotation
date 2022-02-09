@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Thoeris2_2	Thoeris	Thoeris2	p24.D11|GPMBNAGM_01650	p24.D11|GPMBNAGM_01654	p24.D11|GPMBNAGM_01650,p24.D11|GPMBNAGM_01651,p24.D11|GPMBNAGM_01652,p24.D11|GPMBNAGM_01653,p24.D11|GPMBNAGM_01654	5	ThsB_Global,ThsB_Global,ThsB_Global,ThsB_Global,ThsA_new_grand
+UserReplicon_Abi2_1	Abi2	Abi2	p24.D11|GPMBNAGM_03452	p24.D11|GPMBNAGM_03452	p24.D11|GPMBNAGM_03452	1	Abi_2

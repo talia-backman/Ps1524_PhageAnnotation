@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p5.E6|IAPGBONO_00901	p5.E6|IAPGBONO_00901	p5.E6|IAPGBONO_00901	1	Abi_2
+UserReplicon_Septu_4	Septu	Septu	p5.E6|IAPGBONO_02046	p5.E6|IAPGBONO_02047	p5.E6|IAPGBONO_02046,p5.E6|IAPGBONO_02047	2	PtuB,PtuA
+UserReplicon_RM_Type_I_2	RM	RM_Type_I	p5.E6|IAPGBONO_02084	p5.E6|IAPGBONO_02085	p5.E6|IAPGBONO_02084,p5.E6|IAPGBONO_02085	2	Type_I_MTases,Type_I_REases
+UserReplicon_RM_Type_II_3	RM	RM_Type_II	p5.E6|IAPGBONO_04496	p5.E6|IAPGBONO_04497	p5.E6|IAPGBONO_04496,p5.E6|IAPGBONO_04497	2	Type_II_REases,Type_II_MTases

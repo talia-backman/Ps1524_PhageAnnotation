@@ -1,0 +1,2 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_I_1	RM	RM_Type_I	p11.C7|GAOGHOCN_01686	p11.C7|GAOGHOCN_01692	p11.C7|GAOGHOCN_01686,p11.C7|GAOGHOCN_01689,p11.C7|GAOGHOCN_01692	3	Type_I_MTases,Type_I_REases,Type_I_MTases

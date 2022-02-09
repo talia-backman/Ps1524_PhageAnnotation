@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_DISARM_1_1	DISARM	DISARM_1	p8.H9|COFBCDKK_01771	p8.H9|COFBCDKK_01775	p8.H9|COFBCDKK_01771,p8.H9|COFBCDKK_01772,p8.H9|COFBCDKK_01773,p8.H9|COFBCDKK_01774,p8.H9|COFBCDKK_01775	5	drmD,drmMI,drmA,drmB,drmC
+UserReplicon_Septu_2	Septu	Septu	p8.H9|COFBCDKK_05787	p8.H9|COFBCDKK_05788	p8.H9|COFBCDKK_05787,p8.H9|COFBCDKK_05788	2	PtuA,PtuB

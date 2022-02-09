@@ -1,0 +1,7 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p8.G9|HLNOHKHK_01302	p8.G9|HLNOHKHK_01303	p8.G9|HLNOHKHK_01302,p8.G9|HLNOHKHK_01303	2	HamA_1,HamB
+UserReplicon_Retron_I_C_3	Retron	Retron_I_C	p8.G9|HLNOHKHK_01313	p8.G9|HLNOHKHK_01313	p8.G9|HLNOHKHK_01313	1	RT_1_C1
+UserReplicon_Retron_XI_4	Retron	Retron_XI	p8.G9|HLNOHKHK_02190	p8.G9|HLNOHKHK_02190	p8.G9|HLNOHKHK_02190	1	RT_11
+UserReplicon_Retron_XII_5	Retron	Retron_XII	p8.G9|HLNOHKHK_04646	p8.G9|HLNOHKHK_04646	p8.G9|HLNOHKHK_04646	1	RT_12
+UserReplicon_Septu_6	Septu	Septu	p8.G9|HLNOHKHK_04996	p8.G9|HLNOHKHK_04997	p8.G9|HLNOHKHK_04996,p8.G9|HLNOHKHK_04997	2	PtuA,PtuB
+UserReplicon_Gabija_1	Gabija	Gabija	p8.G9|HLNOHKHK_05006	p8.G9|HLNOHKHK_05007	p8.G9|HLNOHKHK_05006,p8.G9|HLNOHKHK_05007	2	GajB,GajA

@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p26.D6|HHLOMMCO_02108	p26.D6|HHLOMMCO_02108	p26.D6|HHLOMMCO_02108	1	Abi_2
+UserReplicon_RM_Type_II_3	RM	RM_Type_II	p26.D6|HHLOMMCO_02109	p26.D6|HHLOMMCO_02110	p26.D6|HHLOMMCO_02109,p26.D6|HHLOMMCO_02110	2	Type_II_REases,Type_II_MTases
+UserReplicon_RM_Type_I_2	RM	RM_Type_I	p26.D6|HHLOMMCO_03588	p26.D6|HHLOMMCO_03590	p26.D6|HHLOMMCO_03588,p26.D6|HHLOMMCO_03590	2	Type_I_REases,Type_I_MTases

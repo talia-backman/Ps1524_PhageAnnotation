@@ -1,0 +1,3 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p24.B11|NAKABKJI_01050	p24.B11|NAKABKJI_01050	p24.B11|NAKABKJI_01050	1	Abi_2
+UserReplicon_Thoeris2_2	Thoeris	Thoeris2	p24.B11|NAKABKJI_03953	p24.B11|NAKABKJI_03957	p24.B11|NAKABKJI_03953,p24.B11|NAKABKJI_03954,p24.B11|NAKABKJI_03955,p24.B11|NAKABKJI_03956,p24.B11|NAKABKJI_03957	5	ThsB_Global,ThsB_Global,ThsB_Global,ThsB_Global,ThsA_new_grand

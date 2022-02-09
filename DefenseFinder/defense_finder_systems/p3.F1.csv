@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_AVAST_II_1	AVAST	AVAST_II	p3.F1|MPFLBCAG_01328	p3.F1|MPFLBCAG_01328	p3.F1|MPFLBCAG_01328	1	Avs2A
+UserReplicon_Zorya_TypeI_3	Zorya	Zorya_TypeI	p3.F1|MPFLBCAG_03263	p3.F1|MPFLBCAG_03266	p3.F1|MPFLBCAG_03263,p3.F1|MPFLBCAG_03264,p3.F1|MPFLBCAG_03265,p3.F1|MPFLBCAG_03266	4	ZorD,ZorC,ZorB,ZorA
+UserReplicon_Abi2_2	Abi2	Abi2	p3.F1|MPFLBCAG_03393	p3.F1|MPFLBCAG_03393	p3.F1|MPFLBCAG_03393	1	Abi_2

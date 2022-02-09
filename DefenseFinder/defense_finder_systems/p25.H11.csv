@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p25.H11|ENOCPCNF_01368	p25.H11|ENOCPCNF_01374	p25.H11|ENOCPCNF_01368,p25.H11|ENOCPCNF_01373,p25.H11|ENOCPCNF_01374	3	Type_II_MTases,Type_II_REases,Type_II_MTases
+UserReplicon_RM_Type_IIG_3	RM	RM_Type_IIG	p25.H11|ENOCPCNF_03013	p25.H11|ENOCPCNF_03013	p25.H11|ENOCPCNF_03013	1	Type_IIG
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p25.H11|ENOCPCNF_04402	p25.H11|ENOCPCNF_04403	p25.H11|ENOCPCNF_04402,p25.H11|ENOCPCNF_04403	2	HamA_2,HamB

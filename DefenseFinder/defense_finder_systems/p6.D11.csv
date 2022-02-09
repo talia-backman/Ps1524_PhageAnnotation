@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p6.D11|CGHCBIJJ_01533	p6.D11|CGHCBIJJ_01534	p6.D11|CGHCBIJJ_01533,p6.D11|CGHCBIJJ_01534	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p6.D11|CGHCBIJJ_01609	p6.D11|CGHCBIJJ_01609	p6.D11|CGHCBIJJ_01609	1	Abi_2
+UserReplicon_Septu_3	Septu	Septu	p6.D11|CGHCBIJJ_03956	p6.D11|CGHCBIJJ_03957	p6.D11|CGHCBIJJ_03956,p6.D11|CGHCBIJJ_03957	2	PtuA,PtuB

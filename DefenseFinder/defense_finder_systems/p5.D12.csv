@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p5.D12|DJAHMEFI_03029	p5.D12|DJAHMEFI_03029	p5.D12|DJAHMEFI_03029	1	Abi_2
+UserReplicon_PARIS_I_merge_3	PARIS	PARIS_I_merge	p5.D12|DJAHMEFI_03787	p5.D12|DJAHMEFI_03787	p5.D12|DJAHMEFI_03787	1	AAA_15_DUF4435
+UserReplicon_Gao_Iet_2	Gao_Iet	Gao_Iet	p5.D12|DJAHMEFI_04796	p5.D12|DJAHMEFI_04797	p5.D12|DJAHMEFI_04796,p5.D12|DJAHMEFI_04797	2	IetS,IetA

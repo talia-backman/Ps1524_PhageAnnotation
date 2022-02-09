@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Zorya_TypeI_3	Zorya	Zorya_TypeI	p5.G9|CLIBLDPA_01673	p5.G9|CLIBLDPA_01676	p5.G9|CLIBLDPA_01673,p5.G9|CLIBLDPA_01674,p5.G9|CLIBLDPA_01675,p5.G9|CLIBLDPA_01676	4	ZorD,ZorC,ZorB,ZorA
+UserReplicon_Abi2_2	Abi2	Abi2	p5.G9|CLIBLDPA_01803	p5.G9|CLIBLDPA_01803	p5.G9|CLIBLDPA_01803	1	Abi_2
+UserReplicon_AVAST_II_1	AVAST	AVAST_II	p5.G9|CLIBLDPA_01886	p5.G9|CLIBLDPA_01886	p5.G9|CLIBLDPA_01886	1	Avs2A

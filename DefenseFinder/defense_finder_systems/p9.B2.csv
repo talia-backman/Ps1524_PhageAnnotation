@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_4	Septu	Septu	p9.B2|DIKEDJGO_00111	p9.B2|DIKEDJGO_00112	p9.B2|DIKEDJGO_00111,p9.B2|DIKEDJGO_00112	2	PtuA,PtuB
+UserReplicon_RM_Type_III_2	RM	RM_Type_III	p9.B2|DIKEDJGO_01318	p9.B2|DIKEDJGO_01319	p9.B2|DIKEDJGO_01318,p9.B2|DIKEDJGO_01319	2	Type_III_REases,Type_III_MTases
+UserReplicon_Abi2_1	Abi2	Abi2	p9.B2|DIKEDJGO_02547	p9.B2|DIKEDJGO_02547	p9.B2|DIKEDJGO_02547	1	Abi_2
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p9.B2|DIKEDJGO_05452	p9.B2|DIKEDJGO_05453	p9.B2|DIKEDJGO_05452,p9.B2|DIKEDJGO_05453	2	Type_IV_REases,Type_IV_REases

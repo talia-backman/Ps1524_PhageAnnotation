@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_4	Septu	Septu	p8.E11|HCGBFPKL_00586	p8.E11|HCGBFPKL_00587	p8.E11|HCGBFPKL_00586,p8.E11|HCGBFPKL_00587	2	PtuA,PtuB
+UserReplicon_Rst_DprA-PPRT_3	Rst_DprA-PPRT	Rst_DprA-PPRT	p8.E11|HCGBFPKL_01186	p8.E11|HCGBFPKL_01187	p8.E11|HCGBFPKL_01186,p8.E11|HCGBFPKL_01187	2	DprA,Phosphoribosyltransferase
+UserReplicon_RM_Type_II_1	RM	RM_Type_II	p8.E11|HCGBFPKL_04930	p8.E11|HCGBFPKL_04931	p8.E11|HCGBFPKL_04930,p8.E11|HCGBFPKL_04931	2	Type_II_REases,Type_II_MTases
+UserReplicon_RM_Type_IIG_2	RM	RM_Type_IIG	p8.E11|HCGBFPKL_04964	p8.E11|HCGBFPKL_04964	p8.E11|HCGBFPKL_04964	1	Type_IIG

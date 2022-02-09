@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Hachiman_1	Hachiman	Hachiman	p4.F10|HEPFBLNL_02274	p4.F10|HEPFBLNL_02275	p4.F10|HEPFBLNL_02274,p4.F10|HEPFBLNL_02275	2	HamB,HamA_2
+UserReplicon_RM_Type_IIG_3	RM	RM_Type_IIG	p4.F10|HEPFBLNL_03106	p4.F10|HEPFBLNL_03106	p4.F10|HEPFBLNL_03106	1	Type_IIG
+UserReplicon_RM_Type_II_2	RM	RM_Type_II	p4.F10|HEPFBLNL_03512	p4.F10|HEPFBLNL_03513	p4.F10|HEPFBLNL_03512,p4.F10|HEPFBLNL_03513	2	Type_II_REases,Type_II_MTases

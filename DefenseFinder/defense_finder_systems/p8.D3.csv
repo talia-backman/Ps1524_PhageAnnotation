@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Rst_HEPN_3	Rst_HEPN	Rst_HEPN	p8.D3|KBKODAGO_00563	p8.D3|KBKODAGO_00563	p8.D3|KBKODAGO_00563	1	Rst_HEPN
+UserReplicon_AVAST_II_1	AVAST	AVAST_II	p8.D3|KBKODAGO_01648	p8.D3|KBKODAGO_01648	p8.D3|KBKODAGO_01648	1	Avs2A
+UserReplicon_Retron_VI_2	Retron	Retron_VI	p8.D3|KBKODAGO_03165	p8.D3|KBKODAGO_03166	p8.D3|KBKODAGO_03165,p8.D3|KBKODAGO_03166	2	HTH,RT_Tot

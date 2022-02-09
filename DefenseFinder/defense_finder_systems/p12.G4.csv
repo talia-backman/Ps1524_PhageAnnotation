@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p12.G4|JMGMNACC_01216	p12.G4|JMGMNACC_01216	p12.G4|JMGMNACC_01216	1	Abi_2
+UserReplicon_Hachiman_2	Hachiman	Hachiman	p12.G4|JMGMNACC_01219	p12.G4|JMGMNACC_01220	p12.G4|JMGMNACC_01219,p12.G4|JMGMNACC_01220	2	HamA_2,HamB
+UserReplicon_dCTPdeaminase_5	dCTPdeaminase	dCTPdeaminase	p12.G4|JMGMNACC_02348	p12.G4|JMGMNACC_02348	p12.G4|JMGMNACC_02348	1	dCTPdeaminase
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p12.G4|JMGMNACC_02741	p12.G4|JMGMNACC_02742	p12.G4|JMGMNACC_02741,p12.G4|JMGMNACC_02742	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Shedu_4	Shedu	Shedu	p12.G4|JMGMNACC_04608	p12.G4|JMGMNACC_04608	p12.G4|JMGMNACC_04608	1	SduA

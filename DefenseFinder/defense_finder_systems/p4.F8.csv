@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Rst_DprA-PPRT_3	Rst_DprA-PPRT	Rst_DprA-PPRT	p4.F8|LBGGDLGG_00305	p4.F8|LBGGDLGG_00306	p4.F8|LBGGDLGG_00305,p4.F8|LBGGDLGG_00306	2	Phosphoribosyltransferase,DprA
+UserReplicon_Septu_4	Septu	Septu	p4.F8|LBGGDLGG_00857	p4.F8|LBGGDLGG_00858	p4.F8|LBGGDLGG_00857,p4.F8|LBGGDLGG_00858	2	PtuB,PtuA
+UserReplicon_RM_Type_II_1	RM	RM_Type_II	p4.F8|LBGGDLGG_04227	p4.F8|LBGGDLGG_04228	p4.F8|LBGGDLGG_04227,p4.F8|LBGGDLGG_04228	2	Type_II_REases,Type_II_MTases
+UserReplicon_RM_Type_IIG_2	RM	RM_Type_IIG	p4.F8|LBGGDLGG_04260	p4.F8|LBGGDLGG_04260	p4.F8|LBGGDLGG_04260	1	Type_IIG

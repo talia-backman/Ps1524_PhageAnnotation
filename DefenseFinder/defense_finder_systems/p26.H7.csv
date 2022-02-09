@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Hachiman_3	Hachiman	Hachiman	p26.H7|NGLBGODD_02137	p26.H7|NGLBGODD_02138	p26.H7|NGLBGODD_02137,p26.H7|NGLBGODD_02138	2	HamB,HamA_2
+UserReplicon_Abi2_1	Abi2	Abi2	p26.H7|NGLBGODD_02147	p26.H7|NGLBGODD_02147	p26.H7|NGLBGODD_02147	1	Abi_2
+UserReplicon_DRT_2_2	DRT	DRT_2	p26.H7|NGLBGODD_02655	p26.H7|NGLBGODD_02655	p26.H7|NGLBGODD_02655	1	drt2
+UserReplicon_RM_Type_IV_4	RM	RM_Type_IV	p26.H7|NGLBGODD_04298	p26.H7|NGLBGODD_04299	p26.H7|NGLBGODD_04298,p26.H7|NGLBGODD_04299	2	Type_IV_REases,Type_IV_REases

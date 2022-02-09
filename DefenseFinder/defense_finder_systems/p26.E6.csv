@@ -1,0 +1,5 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Abi2_1	Abi2	Abi2	p26.E6|OGECKCFI_01893	p26.E6|OGECKCFI_01893	p26.E6|OGECKCFI_01893	1	Abi_2
+UserReplicon_DRT_2_2	DRT	DRT_2	p26.E6|OGECKCFI_02555	p26.E6|OGECKCFI_02555	p26.E6|OGECKCFI_02555	1	drt2
+UserReplicon_Hachiman_3	Hachiman	Hachiman	p26.E6|OGECKCFI_04033	p26.E6|OGECKCFI_04034	p26.E6|OGECKCFI_04033,p26.E6|OGECKCFI_04034	2	HamA_2,HamB
+UserReplicon_RM_Type_IV_4	RM	RM_Type_IV	p26.E6|OGECKCFI_04424	p26.E6|OGECKCFI_04425	p26.E6|OGECKCFI_04424,p26.E6|OGECKCFI_04425	2	Type_IV_REases,Type_IV_REases

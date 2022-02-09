@@ -1,0 +1,6 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_4	Septu	Septu	p3.H2|FECKGEAF_00316	p3.H2|FECKGEAF_00317	p3.H2|FECKGEAF_00316,p3.H2|FECKGEAF_00317	2	PtuA,PtuB
+UserReplicon_RM_Type_IV_3	RM	RM_Type_IV	p3.H2|FECKGEAF_02054	p3.H2|FECKGEAF_02055	p3.H2|FECKGEAF_02054,p3.H2|FECKGEAF_02055	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Gabija_1	Gabija	Gabija	p3.H2|FECKGEAF_02502	p3.H2|FECKGEAF_02503	p3.H2|FECKGEAF_02502,p3.H2|FECKGEAF_02503	2	GajA,GajB
+UserReplicon_Septu_5	Septu	Septu	p3.H2|FECKGEAF_02659	p3.H2|FECKGEAF_02660	p3.H2|FECKGEAF_02659,p3.H2|FECKGEAF_02660	2	PtuB,PtuA
+UserReplicon_Gabija_2	Gabija	Gabija	p3.H2|FECKGEAF_03776	p3.H2|FECKGEAF_03777	p3.H2|FECKGEAF_03776,p3.H2|FECKGEAF_03777	2	GajA,GajB

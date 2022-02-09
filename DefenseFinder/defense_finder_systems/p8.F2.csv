@@ -1,0 +1,4 @@
+sys_id	type	subtype	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+UserReplicon_Septu_3	Septu	Septu	p8.F2|FBEJIAAE_00474	p8.F2|FBEJIAAE_00475	p8.F2|FBEJIAAE_00474,p8.F2|FBEJIAAE_00475	2	PtuA,PtuB
+UserReplicon_RM_Type_IV_2	RM	RM_Type_IV	p8.F2|FBEJIAAE_00889	p8.F2|FBEJIAAE_00890	p8.F2|FBEJIAAE_00889,p8.F2|FBEJIAAE_00890	2	Type_IV_REases,Type_IV_REases
+UserReplicon_Abi2_1	Abi2	Abi2	p8.F2|FBEJIAAE_04631	p8.F2|FBEJIAAE_04631	p8.F2|FBEJIAAE_04631	1	Abi_2
